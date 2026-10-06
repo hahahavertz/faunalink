@@ -10,7 +10,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.workaway.info/en/host/666525329529",
     "platform": "Workaway",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "at least a week"
   },
   {
     "id": "2",
@@ -23,7 +30,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.workaway.info/en/host/789819465563",
     "platform": "Workaway",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "at least a week"
   },
   {
     "id": "3",
@@ -36,7 +50,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.workaway.info/en/host/294954381696",
     "platform": "Workaway",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "1 month or more"
   },
   {
     "id": "4",
@@ -49,7 +70,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.workaway.info/en/host/827861528924",
     "platform": "Workaway",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "at least 2 weeks"
   },
   {
     "id": "5",
@@ -62,7 +90,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.workaway.info/en/host/619748631243",
     "platform": "Workaway",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "1 month or more"
   },
   {
     "id": "6",
@@ -75,7 +110,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.workaway.info/en/host/351332648991",
     "platform": "Workaway",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "at least 2 weeks"
   },
   {
     "id": "7",
@@ -88,7 +130,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.workaway.info/en/host/745219648925",
     "platform": "Workaway",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "at least 2 weeks"
   },
   {
     "id": "8",
@@ -101,7 +150,13 @@ window.OPPORTUNITIES = [
     "url": "https://paws-patas.org/45641-2",
     "platform": "Host website",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Not confirmed; check the original listing.",
+    "opportunityType": "Volunteering"
   },
   {
     "id": "9",
@@ -114,7 +169,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.workaway.info/en/host/245893947824",
     "platform": "Workaway",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "at least 3 weeks"
   },
   {
     "id": "10",
@@ -127,7 +189,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.workaway.info/en/host/172351796966",
     "platform": "Workaway",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "1 month or more"
   },
   {
     "id": "11",
@@ -140,7 +209,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.workaway.info/en/host/798957627257",
     "platform": "Workaway",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "at least 3 weeks"
   },
   {
     "id": "12",
@@ -153,7 +229,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.workaway.info/en/host/662187597996",
     "platform": "Workaway",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "at least a week"
   },
   {
     "id": "13",
@@ -166,7 +249,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.workaway.info/en/host/922241888679",
     "platform": "Workaway",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "at least 3 weeks"
   },
   {
     "id": "14",
@@ -179,7 +269,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.workaway.info/en/host/386541837946",
     "platform": "Workaway",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "at least a week"
   },
   {
     "id": "15",
@@ -192,7 +289,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.worldpackers.com/positions/98941",
     "platform": "Worldpackers",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "4 weeks"
   },
   {
     "id": "16",
@@ -205,7 +309,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.worldpackers.com/positions/78078",
     "platform": "Worldpackers",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host participation fee required, in addition to platform membership; see source for current amount.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "4 weeks"
   },
   {
     "id": "17",
@@ -218,7 +329,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.worldpackers.com/positions/74257",
     "platform": "Worldpackers",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "10 days"
   },
   {
     "id": "18",
@@ -231,7 +349,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.worldpackers.com/positions/44450",
     "platform": "Worldpackers",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host participation fee required, in addition to platform membership; see source for current amount.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "30 days"
   },
   {
     "id": "19",
@@ -244,7 +369,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.worldpackers.com/positions/70484",
     "platform": "Worldpackers",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "4 weeks"
   },
   {
     "id": "20",
@@ -257,7 +389,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.worldpackers.com/positions/101303",
     "platform": "Worldpackers",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host participation fee required, in addition to platform membership; see source for current amount.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "4 weeks"
   },
   {
     "id": "21",
@@ -270,7 +409,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.worldpackers.com/positions/102717",
     "platform": "Worldpackers",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "3 days"
   },
   {
     "id": "22",
@@ -283,7 +429,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.worldpackers.com/positions/59403",
     "platform": "Worldpackers",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "15 days"
   },
   {
     "id": "23",
@@ -296,7 +449,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.worldpackers.com/positions/80436",
     "platform": "Worldpackers",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "4 weeks"
   },
   {
     "id": "24",
@@ -309,7 +469,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.worldpackers.com/positions/82218",
     "platform": "Worldpackers",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host participation fee required, in addition to platform membership; see source for current amount.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "1 week"
   },
   {
     "id": "25",
@@ -322,7 +489,13 @@ window.OPPORTUNITIES = [
     "url": "https://www.worldpackers.com/positions/95788",
     "platform": "Worldpackers",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "unverified",
+    "lastChecked": null,
+    "availabilityNote": "Original listing redirects to a general search page; availability could not be verified.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange"
   },
   {
     "id": "26",
@@ -335,7 +508,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.worldpackers.com/positions/97556",
     "platform": "Worldpackers",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "4 weeks"
   },
   {
     "id": "27",
@@ -348,7 +528,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.worldpackers.com/positions/107983",
     "platform": "Worldpackers",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "4 weeks"
   },
   {
     "id": "28",
@@ -361,7 +548,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.workaway.info/en/host/267125559795",
     "platform": "Workaway",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "at least 1 month"
   },
   {
     "id": "29",
@@ -374,7 +568,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.workaway.info/en/host/688458957481",
     "platform": "Workaway",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "at least 1 month"
   },
   {
     "id": "30",
@@ -387,7 +588,13 @@ window.OPPORTUNITIES = [
     "url": "https://helpstay.com/stays/Dogs-Cats-Goats-Shelter-Greece/",
     "platform": "HelpStay",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange"
   },
   {
     "id": "31",
@@ -400,7 +607,13 @@ window.OPPORTUNITIES = [
     "url": "https://helpx.net/host/1449631IP",
     "platform": "HelpX",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "unverified",
+    "lastChecked": null,
+    "availabilityNote": "Source content could not be read during this refresh; availability is unverified.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange"
   },
   {
     "id": "32",
@@ -413,7 +626,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.workaway.info/en/host/231589594444",
     "platform": "Workaway",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "at least 2 weeks"
   },
   {
     "id": "33",
@@ -426,7 +646,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.workaway.info/en/host/148982731894",
     "platform": "Workaway",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "at least a week"
   },
   {
     "id": "34",
@@ -439,7 +666,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.worldpackers.com/positions/85228",
     "platform": "Worldpackers",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host participation fee required, in addition to platform membership; see source for current amount.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "3 weeks"
   },
   {
     "id": "35",
@@ -449,10 +683,16 @@ window.OPPORTUNITIES = [
     "region": "Africa",
     "lat": -12.53,
     "lng": 27.85,
-    "url": "https://www.chimfunshi.org/volunteer",
+    "url": "https://www.chimfunshi.de/freiwilligenprogramm/",
     "platform": "Host website",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Not confirmed; check the original listing.",
+    "opportunityType": "Volunteering"
   },
   {
     "id": "36",
@@ -465,11 +705,18 @@ window.OPPORTUNITIES = [
     "url": "https://www.worldpackers.com/positions/101911",
     "platform": "Worldpackers",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host participation fee required, in addition to platform membership; see source for current amount.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "1 week"
   },
   {
     "id": "37",
-    "title": "Wildlife Rehabilitation and Captive Care Volunteer",
+    "title": "Wildlife Rehabilitation and Captive Care Experience",
     "place": "Windhoek",
     "country": "Namibia",
     "region": "Africa",
@@ -478,7 +725,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.naankuse.com/education-wildlife-rehabilitation-and-captive-care-experience",
     "platform": "Host website",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "An educational programme offered seasonally; confirm current dates and practical duties with Naankuse.",
+    "fees": "Not confirmed; check the original listing.",
+    "opportunityType": "Conservation education experience",
+    "minimumStay": "10-day programme"
   },
   {
     "id": "38",
@@ -491,7 +745,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.workaway.info/en/host/397561534819",
     "platform": "Workaway",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "at least a week"
   },
   {
     "id": "39",
@@ -504,7 +765,15 @@ window.OPPORTUNITIES = [
     "url": "https://www.workaway.info/en/host/169925539197",
     "platform": "Workaway",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "At least 5 weeks",
+    "accommodation": "Accommodation offered; meals are not provided."
   },
   {
     "id": "40",
@@ -517,7 +786,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.worldpackers.com/positions/112844",
     "platform": "Worldpackers",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "1 week"
   },
   {
     "id": "41",
@@ -530,7 +806,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.workaway.info/en/host/929163234384",
     "platform": "Workaway",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "at least 2 weeks"
   },
   {
     "id": "42",
@@ -543,7 +826,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.worldpackers.com/positions/67066",
     "platform": "Worldpackers",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host participation fee required, in addition to platform membership; see source for current amount.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "1 week"
   },
   {
     "id": "43",
@@ -556,11 +846,18 @@ window.OPPORTUNITIES = [
     "url": "https://www.worldpackers.com/positions/68134",
     "platform": "Worldpackers",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host participation fee required, in addition to platform membership; see source for current amount.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "3 weeks"
   },
   {
     "id": "44",
-    "title": "Animal Care Volunteer",
+    "title": "Animal Care and Sanctuary Volunteer",
     "place": "Mueang Tak",
     "country": "Thailand",
     "region": "Asia",
@@ -569,20 +866,20 @@ window.OPPORTUNITIES = [
     "url": "https://www.worldpackers.com/positions/95023",
     "platform": "Worldpackers",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
-  },
-  {
-    "id": "45",
-    "title": "Animal Sanctuary Volunteer",
-    "place": "Mueang Tak",
-    "country": "Thailand",
-    "region": "Asia",
-    "lat": 16.88,
-    "lng": 99.13,
-    "url": "https://www.worldpackers.com/positions/101962",
-    "platform": "Worldpackers",
-    "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host lists THB 450 per night including room and meals; platform membership also applies. Confirm current rate.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "1 week",
+    "alternateSources": [
+      {
+        "url": "https://www.worldpackers.com/positions/101962",
+        "label": "Additional animal-care role at the same host"
+      }
+    ]
   },
   {
     "id": "46",
@@ -595,7 +892,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.soidog.org/volunteer",
     "platform": "Host website",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Not confirmed; check the original listing.",
+    "opportunityType": "Volunteering",
+    "minimumStay": "2 days for new volunteers"
   },
   {
     "id": "47",
@@ -608,7 +912,13 @@ window.OPPORTUNITIES = [
     "url": "https://helpstay.com/stays/animal-sanctuary-volunteering",
     "platform": "HelpStay",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange"
   },
   {
     "id": "48",
@@ -621,7 +931,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.workaway.info/en/host/253489288159",
     "platform": "Workaway",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "at least a week"
   },
   {
     "id": "49",
@@ -634,20 +951,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.workaway.info/en/host/894961447845",
     "platform": "Workaway",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
-  },
-  {
-    "id": "50",
-    "title": "Animal Sanctuary Volunteer",
-    "place": "Moalboal",
-    "country": "Philippines",
-    "region": "Asia",
-    "lat": 9.94,
-    "lng": 123.4,
-    "url": "https://www.workaway.info/en/host/727226461815",
-    "platform": "Workaway",
-    "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "at least 1 month"
   },
   {
     "id": "51",
@@ -660,7 +971,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.wanicare.com/en-EU/internships-and-volunteers/",
     "platform": "Host website",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "2026 international volunteer/intern fees: EUR 125–165 per week; confirm current programme and rate.",
+    "opportunityType": "Volunteering",
+    "accommodation": "Accommodation and two meals per day included in the programme fee."
   },
   {
     "id": "52",
@@ -673,7 +991,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.worldpackers.com/positions/105378",
     "platform": "Worldpackers",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host participation fee required, in addition to platform membership; see source for current amount.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "2 weeks"
   },
   {
     "id": "53",
@@ -686,7 +1011,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.worldpackers.com/positions/93217",
     "platform": "Worldpackers",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "2 weeks"
   },
   {
     "id": "54",
@@ -699,7 +1031,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.worldpackers.com/positions/8306",
     "platform": "Worldpackers",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host participation fee required, in addition to platform membership; see source for current amount.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "1 week"
   },
   {
     "id": "55",
@@ -712,7 +1051,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.workaway.info/en/host/291467997484",
     "platform": "Workaway",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "1 month or more"
   },
   {
     "id": "56",
@@ -725,7 +1071,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.worldpackers.com/positions/83673",
     "platform": "Worldpackers",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host participation fee required, in addition to platform membership; see source for current amount.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "1 week"
   },
   {
     "id": "57",
@@ -738,7 +1091,13 @@ window.OPPORTUNITIES = [
     "url": "https://www.volunteerworld.com/en/volunteer-program/dog-sanctuary-rescue-in-sri-lanka-galle",
     "platform": "Volunteer World",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Participation fee required; price depends on dates and duration.",
+    "opportunityType": "Fee-based volunteering"
   },
   {
     "id": "58",
@@ -751,7 +1110,13 @@ window.OPPORTUNITIES = [
     "url": "https://www.volunteerworld.com/en/volunteer-program/animal-shelter-care-support-in-philippines-palawan",
     "platform": "Volunteer World",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Participation fee required; price depends on dates and duration.",
+    "opportunityType": "Fee-based volunteering"
   },
   {
     "id": "59",
@@ -764,7 +1129,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.workaway.info/en/host/885559471382",
     "platform": "Workaway",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "at least 2 weeks"
   },
   {
     "id": "60",
@@ -777,7 +1149,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.intiwarayassi.org/volunteering/volunteering-at-parque-jacj-cuisi/",
     "platform": "Host website",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Volunteer contribution required; payment on arrival. See source for current rates.",
+    "opportunityType": "Fee-based volunteering",
+    "accommodation": "Shared dormitory and meals on working days."
   },
   {
     "id": "61",
@@ -790,7 +1169,15 @@ window.OPPORTUNITIES = [
     "url": "https://www.amazoonicorescue.org/volunteer",
     "platform": "Host website",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Programme fee required; depends on length of stay.",
+    "opportunityType": "Fee-based volunteering",
+    "minimumStay": "4 weeks",
+    "accommodation": "Food and lodging included in the programme fee."
   },
   {
     "id": "62",
@@ -803,7 +1190,14 @@ window.OPPORTUNITIES = [
     "url": "https://yanacocharescue.com/volunteering-yanacocha-rescue-center/",
     "platform": "Host website",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Programme fee required; confirm current price.",
+    "opportunityType": "Fee-based volunteering",
+    "accommodation": "Accommodation and meals included in the programme fee."
   },
   {
     "id": "63",
@@ -816,7 +1210,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.worldpackers.com/positions/106665",
     "platform": "Worldpackers",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host participation fee required, in addition to platform membership; see source for current amount.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "2 weeks"
   },
   {
     "id": "64",
@@ -829,7 +1230,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.worldpackers.com/positions/95854",
     "platform": "Worldpackers",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host participation fee required, in addition to platform membership; see source for current amount.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "1 week"
   },
   {
     "id": "65",
@@ -842,7 +1250,13 @@ window.OPPORTUNITIES = [
     "url": "https://www.worldpackers.com/positions/34833",
     "platform": "Worldpackers",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "unverified",
+    "lastChecked": null,
+    "availabilityNote": "Original listing redirects to a general search page; availability could not be verified.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange"
   },
   {
     "id": "66",
@@ -855,7 +1269,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.worldpackers.com/positions/59767",
     "platform": "Worldpackers",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host participation fee required, in addition to platform membership; see source for current amount.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "2 weeks"
   },
   {
     "id": "67",
@@ -868,7 +1289,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.worldpackers.com/positions/107216",
     "platform": "Worldpackers",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host participation fee required, in addition to platform membership; see source for current amount.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "1 week"
   },
   {
     "id": "68",
@@ -881,7 +1309,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.worldpackers.com/positions/97206",
     "platform": "Worldpackers",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "1 week"
   },
   {
     "id": "69",
@@ -894,7 +1329,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.workaway.info/en/host/543976144148",
     "platform": "Workaway",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "at least 3 weeks"
   },
   {
     "id": "70",
@@ -907,7 +1349,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.workaway.info/en/host/252357334278",
     "platform": "Workaway",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "1 month or more"
   },
   {
     "id": "71",
@@ -920,7 +1369,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.workaway.info/en/host/811696672439",
     "platform": "Workaway",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "at least 3 weeks"
   },
   {
     "id": "72",
@@ -933,7 +1389,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.worldpackers.com/positions/64045",
     "platform": "Worldpackers",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "30 days"
   },
   {
     "id": "73",
@@ -946,7 +1409,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.worldpackers.com/positions/109137",
     "platform": "Worldpackers",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host participation fee required, in addition to platform membership; see source for current amount.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "4 days"
   },
   {
     "id": "74",
@@ -959,7 +1429,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.worldpackers.com/positions/98541",
     "platform": "Worldpackers",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host participation fee required, in addition to platform membership; see source for current amount.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "2 weeks"
   },
   {
     "id": "75",
@@ -972,7 +1449,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.workaway.info/en/host/276128368564",
     "platform": "Workaway",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "1 month or more"
   },
   {
     "id": "76",
@@ -985,7 +1469,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.worldpackers.com/positions/98032",
     "platform": "Worldpackers",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "2 weeks"
   },
   {
     "id": "77",
@@ -998,7 +1489,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.workaway.info/en/host/173753349614",
     "platform": "Workaway",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "at least a week"
   },
   {
     "id": "78",
@@ -1011,7 +1509,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.workaway.info/en/host/426315396361",
     "platform": "Workaway",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "1 month or more"
   },
   {
     "id": "79",
@@ -1024,7 +1529,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.workaway.info/en/host/517197735583",
     "platform": "Workaway",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "1 month or more"
   },
   {
     "id": "80",
@@ -1037,7 +1549,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.workaway.info/en/host/951318835715",
     "platform": "Workaway",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "at least 3 weeks"
   },
   {
     "id": "81",
@@ -1050,7 +1569,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.workaway.info/en/host/336248177964",
     "platform": "Workaway",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "1 month or more"
   },
   {
     "id": "82",
@@ -1063,7 +1589,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.worldpackers.com/positions/79287",
     "platform": "Worldpackers",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "2 weeks"
   },
   {
     "id": "83",
@@ -1076,7 +1609,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.worldpackers.com/positions/65895",
     "platform": "Worldpackers",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host participation fee required, in addition to platform membership; see source for current amount.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "1 week"
   },
   {
     "id": "84",
@@ -1086,10 +1626,17 @@ window.OPPORTUNITIES = [
     "region": "Americas",
     "lat": 9.93,
     "lng": -84.18,
-    "url": "https://www.refugioanimalcr.com/voluntariado-1",
+    "url": "https://en.refugioanimalcr.com/voluntariado-1",
     "platform": "Host website",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Programme fee required. Source gives conflicting daily rates; request a current quote.",
+    "opportunityType": "Fee-based volunteering",
+    "minimumStay": "1 week"
   },
   {
     "id": "85",
@@ -1102,20 +1649,33 @@ window.OPPORTUNITIES = [
     "url": "https://www.volunteerworld.com/en/volunteer-program/animal-rescue-sanctuary-support-in-costa-rica-guayabo-de-bagaces",
     "platform": "Volunteer World",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Participation fee required; price depends on dates and duration.",
+    "opportunityType": "Fee-based volunteering"
   },
   {
     "id": "86",
-    "title": "Magical Creatures Sanctuary Work-Trade",
-    "place": "Hawaii",
+    "title": "Magical Creatures Sanctuary Live-In Internship",
+    "place": "Laupahoehoe, Hawaii",
     "country": "United States",
     "region": "Americas",
-    "lat": 19.7,
-    "lng": -155.1,
+    "lat": 19.99,
+    "lng": -155.24,
     "url": "https://www.helpstay.com/stays/Internships-Work-Trade-Sanctuary-Hawaii",
     "platform": "HelpStay",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Animal-care internship",
+    "minimumStay": "Description asks for 3 months; calendar says 1 month. Confirm with host."
   },
   {
     "id": "87",
@@ -1128,7 +1688,15 @@ window.OPPORTUNITIES = [
     "url": "https://www.theblacksheep.org.nz/join-our-crew.html",
     "platform": "Host website",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Not confirmed; check the original listing.",
+    "opportunityType": "Volunteering",
+    "minimumStay": "6 weeks–3 months for work exchange; at least 3 months for internships",
+    "accommodation": "Food and accommodation in exchange for 5–6 hours of work per day (work-exchange option)."
   },
   {
     "id": "88",
@@ -1141,7 +1709,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.workaway.info/en/host/399672849554",
     "platform": "Workaway",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "1 month or more"
   },
   {
     "id": "89",
@@ -1154,7 +1729,14 @@ window.OPPORTUNITIES = [
     "url": "https://www.worldpackers.com/positions/114612",
     "platform": "Worldpackers",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "30 days"
   },
   {
     "id": "90",
@@ -1167,6 +1749,219 @@ window.OPPORTUNITIES = [
     "url": "https://www.workaway.info/en/host/5569388784b2",
     "platform": "Workaway",
     "postedDate": null,
-    "locationPrecision": "Approximate town or region"
+    "locationPrecision": "Approximate town or region",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-06",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "fees": "Host fees not confirmed; platform membership may apply.",
+    "opportunityType": "Volunteer / work exchange",
+    "minimumStay": "at least 2 weeks"
+  },
+  {
+    "id": "91",
+    "title": "Beara Farm Animal Sanctuary Volunteer",
+    "place": "Beara Peninsula, County Cork",
+    "country": "Ireland",
+    "region": "Europe",
+    "lat": 51.72,
+    "lng": -9.85,
+    "url": "https://www.workaway.info/en/host/399657593621",
+    "platform": "Workaway",
+    "postedDate": null,
+    "locationPrecision": "Approximate town or region, not an exact site address",
+    "opportunityType": "Work exchange",
+    "summary": "Help feed and groom rescued animals, clean shelters and maintain the sanctuary. Host requests confident animal handling and fluent English.",
+    "fees": "Host fees not confirmed; Workaway membership may apply.",
+    "firstSeen": "2026-10-06",
+    "lastChecked": "2026-10-06",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "minimumStay": "At least 2 weeks",
+    "accommodation": "Room in the host home; confirm meal arrangements."
+  },
+  {
+    "id": "92",
+    "title": "Catalonia Animal Sanctuary Volunteer",
+    "place": "Catalonia",
+    "country": "Spain",
+    "region": "Europe",
+    "lat": 41.88,
+    "lng": 2.24,
+    "url": "https://www.workaway.info/en/host/439976256191",
+    "platform": "Workaway",
+    "postedDate": null,
+    "locationPrecision": "Approximate town or region, not an exact site address",
+    "opportunityType": "Work exchange",
+    "summary": "Support daily animal care and sanctuary maintenance at a vegan sanctuary in rural Catalonia.",
+    "fees": "Host fees not confirmed; Workaway membership may apply.",
+    "firstSeen": "2026-10-06",
+    "lastChecked": "2026-10-06",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "minimumStay": "At least 2 weeks",
+    "accommodation": "Shared accommodation."
+  },
+  {
+    "id": "93",
+    "title": "Tenerife Sanctuary Animal-Care Volunteer",
+    "place": "Tenerife",
+    "country": "Spain",
+    "region": "Europe",
+    "lat": 28.29,
+    "lng": -16.63,
+    "url": "https://www.workaway.info/en/host/937426493497",
+    "platform": "Workaway",
+    "postedDate": null,
+    "locationPrecision": "Approximate town or region, not an exact site address",
+    "opportunityType": "Work exchange",
+    "summary": "Help a registered animal charity with animal welfare and daily sanctuary tasks. Longer commitments are requested for direct animal-care roles.",
+    "fees": "Food and accommodation exchanged for help; Workaway membership may apply.",
+    "firstSeen": "2026-10-06",
+    "lastChecked": "2026-10-06",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "minimumStay": "Usually 3 months or more for animal-care roles",
+    "accommodation": "Basic shared community accommodation and food."
+  },
+  {
+    "id": "94",
+    "title": "Rescued Dog and Cat Sanctuary Volunteer",
+    "place": "San Carlos",
+    "country": "Costa Rica",
+    "region": "Americas",
+    "lat": 10.32,
+    "lng": -84.43,
+    "url": "https://www.worldpackers.com/positions/113832",
+    "platform": "Worldpackers",
+    "postedDate": null,
+    "locationPrecision": "Approximate town or region, not an exact site address",
+    "opportunityType": "Fee-based volunteering",
+    "summary": "Support rescued dogs and cats through cleaning, walking, socialisation and related sanctuary tasks. Listing specifies about 25 hours of help weekly.",
+    "fees": "USD 10 per day contribution; Worldpackers membership also applies.",
+    "firstSeen": "2026-10-06",
+    "lastChecked": "2026-10-06",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "minimumStay": "1 week",
+    "accommodation": "Shared dormitory; lunch listed as included."
+  },
+  {
+    "id": "95",
+    "title": "African Wildlife Orphanage Volunteer",
+    "place": "Bulawayo",
+    "country": "Zimbabwe",
+    "region": "Africa",
+    "lat": -20.15,
+    "lng": 28.58,
+    "url": "https://www.goeco.org/area/volunteer-in-africa/zimbabwe/african-wildlife-orphanage/",
+    "platform": "GoEco",
+    "postedDate": null,
+    "locationPrecision": "Approximate town or region, not an exact site address",
+    "opportunityType": "Fee-based volunteering",
+    "summary": "Assist with wildlife food preparation, enclosure cleaning and rehabilitation support at a wildlife orphanage. Duties depend on the animals and staff needs.",
+    "fees": "Programme fee required; obtain a current quote.",
+    "firstSeen": "2026-10-06",
+    "lastChecked": "2026-10-06",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "minimumStay": "2–12 weeks",
+    "accommodation": "Shared housing and three meals daily included in programme fee."
+  },
+  {
+    "id": "96",
+    "title": "Wildlife Rescue Veterinary Internship",
+    "place": "Lilongwe",
+    "country": "Malawi",
+    "region": "Africa",
+    "lat": -13.96,
+    "lng": 33.79,
+    "url": "https://www.goeco.org/area/volunteer-in-africa/malawi/wildlife-rescue-center-veterinary-internship/",
+    "platform": "GoEco",
+    "postedDate": null,
+    "locationPrecision": "Approximate town or region, not an exact site address",
+    "opportunityType": "Fee-based veterinary internship",
+    "summary": "For currently enrolled veterinary students. Support wildlife husbandry, rehabilitation and supervised clinical work when needed; clinical procedures are not guaranteed daily.",
+    "fees": "Programme fee required; optional veterinary courses cost extra.",
+    "firstSeen": "2026-10-06",
+    "lastChecked": "2026-10-06",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "minimumStay": "2–12 weeks",
+    "accommodation": "Shared on-site accommodation and meals included in programme fee."
+  },
+  {
+    "id": "97",
+    "title": "Giant Tortoise Conservation Volunteer",
+    "place": "Galápagos Islands",
+    "country": "Ecuador",
+    "region": "Americas",
+    "lat": -0.75,
+    "lng": -90.5,
+    "url": "https://www.goabroad.com/providers/ioi-abroad/programs/galapagos-tortoise-breeding-center-127339",
+    "platform": "GoAbroad",
+    "postedDate": null,
+    "locationPrecision": "Approximate town or region, not an exact site address",
+    "opportunityType": "Fee-based volunteering",
+    "summary": "Join IOI’s tortoise conservation placement to support care, growth monitoring and visitor education. Basic to intermediate Spanish is requested.",
+    "fees": "Contact IOI for programme costs and current terms.",
+    "firstSeen": "2026-10-06",
+    "lastChecked": "2026-10-06",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "minimumStay": "See provider for available durations"
+  },
+  {
+    "id": "98",
+    "title": "Moholoholo Wildlife Rehabilitation Volunteer",
+    "place": "Hoedspruit",
+    "country": "South Africa",
+    "region": "Africa",
+    "lat": -24.35,
+    "lng": 30.95,
+    "url": "https://www.goabroad.com/providers/african-conservation-experience/programs/moholoholo-wildlife-rehabilitation-centre-52509",
+    "platform": "GoAbroad",
+    "postedDate": null,
+    "locationPrecision": "Approximate town or region, not an exact site address",
+    "opportunityType": "Fee-based volunteering",
+    "summary": "African Conservation Experience placement supporting rescued wildlife through food preparation, enrichment and rehabilitation-centre tasks.",
+    "fees": "Programme fee required; contact provider for a quote.",
+    "firstSeen": "2026-10-06",
+    "lastChecked": "2026-10-06",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "minimumStay": "Year-round programme; confirm dates",
+    "accommodation": "Dormitory or group accommodation listed."
+  },
+  {
+    "id": "99",
+    "title": "Almeirim Animal Rescue Caretaker",
+    "place": "Almeirim",
+    "country": "Portugal",
+    "region": "Europe",
+    "lat": 39.21,
+    "lng": -8.63,
+    "url": "https://www.volunteerworld.com/en/volunteer-program/animal-rescue-caretaker-in-portugal-almeirim",
+    "platform": "Volunteer World",
+    "postedDate": null,
+    "locationPrecision": "Approximate town or region, not an exact site address",
+    "opportunityType": "Fee-based volunteering",
+    "summary": "Care for rescued domestic animals through feeding, cleaning, enrichment and sanctuary maintenance. Published programme dates extend into late 2026.",
+    "fees": "Participation fee required; check selected dates for the current price.",
+    "firstSeen": "2026-10-06",
+    "lastChecked": "2026-10-06",
+    "lastCheckAttempt": "2026-10-06",
+    "sourceStatus": "page_checked",
+    "availabilityNote": "Source page checked; confirm dates and availability with the host.",
+    "minimumStay": "2–12 weeks",
+    "accommodation": "Shared volunteer house; self-prepared meals."
   }
 ];

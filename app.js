@@ -1,11 +1,24 @@
 'use strict';
-const items = window.OPPORTUNITIES;
+const items = [...window.OPPORTUNITIES].sort((a, b) =>
+  (b.firstSeen || '').localeCompare(a.firstSeen || '') || Number(a.id) - Number(b.id));
 const list = document.querySelector('#list');
 const detail = document.querySelector('#detail');
 const escapeHTML = value => String(value).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 let selected = null, map = null, clusters = null;
 const markers = new Map();
 const locationLabel = item => item.place === item.country ? item.country : `${item.place}, ${item.country}`;
+const formatDate = value => new Date(`${value}T12:00:00Z`).toLocaleDateString('en-GB', {day:'numeric',month:'short',year:'numeric',timeZone:'UTC'});
+const detailRow = (label, value, note = '') => `<div><dt>${escapeHTML(label)}</dt><dd>${escapeHTML(value)}${note ? `<small>${escapeHTML(note)}</small>` : ''}</dd></div>`;
+document.querySelector('#total').textContent = items.length;
+document.querySelector('#list-count').textContent = `${items.length} listed`;
+document.querySelector('#region-count').textContent = new Set(items.map(item => item.region)).size;
+const refreshDate = items.map(item => item.lastCheckAttempt).filter(Boolean).sort().at(-1);
+if (refreshDate) document.querySelector('#refresh-note').textContent = `Refreshed ${formatDate(refreshDate)}. Availability and terms must be confirmed with each host.`;
+const displayNumbers = new Map();
+let displayNumber = 0;
+for (const region of ['Europe','Africa','Asia','Americas','Oceania']) {
+  for (const item of items.filter(item => item.region === region)) displayNumbers.set(item.id, ++displayNumber);
+}
 for (const region of ['Europe','Africa','Asia','Americas','Oceania']) {
   const group = items.filter(item => item.region === region);
   const heading = document.createElement('div');
@@ -18,7 +31,7 @@ for (const region of ['Europe','Africa','Asia','Americas','Oceania']) {
     button.type = 'button';
     button.id = `opportunity-${item.id}`;
     button.setAttribute('aria-pressed','false');
-    button.innerHTML = `<span class="number">${item.id.padStart(2,'0')}</span><span><span class="item-title">${escapeHTML(item.title)}</span><span class="item-location">${escapeHTML(locationLabel(item))}</span></span>`;
+    button.innerHTML = `<span class="number">${String(displayNumbers.get(item.id)).padStart(2,'0')}</span><span><span class="item-title">${escapeHTML(item.title)}</span><span class="item-location">${escapeHTML(locationLabel(item))}</span>${item.firstSeen ? `<span class="listing-badge">Added ${formatDate(item.firstSeen)}</span>` : ''}${item.sourceStatus === 'unverified' ? '<span class="listing-badge needs-review">Needs recheck</span>' : ''}</span>`;
     button.addEventListener('click', () => selectItem(item, true));
     list.append(button);
   }
@@ -34,7 +47,20 @@ function selectItem(item, navigate = false) {
   button.classList.add('active');
   button.setAttribute('aria-pressed','true');
   if (!navigate) button.scrollIntoView({block:'nearest'});
-  detail.innerHTML = `<div class="detail-top"></div><button class="close" type="button" aria-label="Close opportunity card">×</button><div class="detail-body"><div class="eyebrow">${escapeHTML(item.region)} · ${escapeHTML(item.platform)}</div><h2 id="detail-title" tabindex="-1">${escapeHTML(item.title)}</h2><dl><div><dt>Location</dt><dd>${escapeHTML(locationLabel(item))}<small>Approximate town or region</small></dd></div><div><dt>Posted</dt><dd>${item.postedDate ? escapeHTML(item.postedDate) : 'Not provided'}<small>${item.postedDate ? '' : 'No verified posting date available'}</small></dd></div></dl><p class="detail-note">Check the original listing for current availability, costs, and work exchange terms.</p><a class="source-link" href="${escapeHTML(item.url)}" target="_blank" rel="noopener noreferrer">View ${item.platform === 'Host website' ? 'host website' : escapeHTML(item.platform) + ' listing'}</a></div>`;
+  const sourceNote = item.sourceStatus === 'unverified'
+    ? `${item.availabilityNote} Last attempt: ${formatDate(item.lastCheckAttempt)}.`
+    : item.availabilityNote || 'Confirm current availability with the host.';
+  const rows = [
+    detailRow('Location', locationLabel(item), item.locationPrecision || 'Approximate town or region'),
+    detailRow('Type', item.opportunityType || 'Volunteering'),
+    detailRow('Source check', item.lastChecked ? formatDate(item.lastChecked) : 'Not verified', sourceNote),
+    ...(item.minimumStay ? [detailRow('Stay', item.minimumStay)] : []),
+    ...(item.fees ? [detailRow('Fees', item.fees)] : []),
+    ...(item.accommodation ? [detailRow('Stay includes', item.accommodation)] : []),
+    ...(item.postedDate ? [detailRow('Posted', formatDate(item.postedDate))] : [])
+  ].join('');
+  const alternateLinks = (item.alternateSources || []).map(source => `<a class="alternate-source" href="${escapeHTML(source.url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(source.label)}</a>`).join('');
+  detail.innerHTML = `<div class="detail-top"></div><button class="close" type="button" aria-label="Close opportunity card">×</button><div class="detail-body"><div class="eyebrow">${escapeHTML(item.region)} · ${escapeHTML(item.platform)}</div><h2 id="detail-title" tabindex="-1">${escapeHTML(item.title)}</h2>${item.summary ? `<p class="listing-summary">${escapeHTML(item.summary)}</p>` : ''}<dl>${rows}</dl><p class="detail-note">A source check does not guarantee a vacancy. Confirm dates, costs and requirements on the original listing.</p><a class="source-link" href="${escapeHTML(item.url)}" target="_blank" rel="noopener noreferrer">View ${item.platform === 'Host website' ? 'host website' : escapeHTML(item.platform) + ' listing'}</a>${alternateLinks}</div>`;
   detail.hidden = false;
   detail.querySelector('.close').addEventListener('click', closeCard);
   if (navigate && map) {
