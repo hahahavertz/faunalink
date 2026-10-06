@@ -9,3 +9,13 @@
 .listing-badge.needs-review{background:#fff0d9;color:#85591e}
 .alternate-source{display:block;margin-top:12px;font-size:12px;line-height:1.5;color:#365c47;text-align:center}
 @media(max-width:700px){.detail{max-height:calc(100% - 76px)}}
+
+/* Political-atlas basemap: country colours, inked borders and readable labels. */
+.map-area,#map{background:#e2f1f0}
+.country-label{color:#263d3b;font-family:'DM Sans',sans-serif;font-weight:600;letter-spacing:.55px;line-height:1.25;text-transform:uppercase;text-shadow:0 0 3px #ffffffe6,0 1px 1px #ffffffb3;pointer-events:none;display:flex;align-items:center;justify-content:center}
+.ocean-label{color:#4c94a9;font-size:11px;font-weight:500;line-height:1.65;text-align:center;text-transform:uppercase;letter-spacing:2.2px;pointer-events:none}
+.country-tooltip{font-size:12px;color:#213e37;border:1px solid #bccfc4;background:#fffffff2;box-shadow:0 2px 8px #24473815}
+.cluster{background:#fcfdf3ed;border:2px solid #315846;box-shadow:0 0 0 4px #ffffff55}
+.cluster.large{background:#254e3e;border:3px solid #fff;box-shadow:0 0 0 4px #254e3e22}
+
+.cluster{font-size:12px}.cluster.large{border-width:2px}
