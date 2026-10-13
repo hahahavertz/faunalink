@@ -60,3 +60,13 @@ main{height:calc(100dvh - 64px)}
 .detail .close{position:sticky;float:right;top:12px;margin:8px 12px -40px 0;z-index:8}
 .coverage-link{margin-left:auto;color:#526d5d;font-size:12px;text-underline-offset:3px}
 .detail dd{overflow-wrap:anywhere}
+
+/* Passport entry references stay separate from the placement's work permission. */
+.travel-info{margin-top:21px;border-top:1px solid #dce5dc;padding-top:17px;font-size:12px;line-height:1.55}
+.travel-info h3{font-family:'DM Sans',sans-serif;font-size:13px;margin:0 0 12px;color:#254e3e}.travel-info h3 span{display:block;font-size:11px;font-weight:400;color:#71806c;margin-top:2px}
+.travel-entry{background:#f3f7ee;border:1px solid #e0e8d8;border-radius:7px;padding:12px}
+.travel-entry strong{display:block;font-size:17px;line-height:1.35;margin-top:7px;color:#254e3e}
+.travel-status{display:inline-block;font-size:10px;color:#41663c}.travel-status.reference,.travel-status.unverified{color:#846021}
+.travel-info p{margin:7px 0 0;color:#61735e}.travel-info .travel-route{font-weight:600;color:#365640}
+.placement-info{padding:12px 0}.placement-info h4{font-size:12px;line-height:1.5;margin:0;color:#765c2e}
+.travel-sources{border-top:1px solid #e4eae1;padding-top:10px;font-size:11px}.travel-sources summary{cursor:pointer;color:#456442}.travel-sources a{display:block;color:#365c47;margin-top:9px;overflow-wrap:anywhere}.travel-sources p{font-size:11px}
