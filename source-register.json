@@ -1,0 +1,511 @@
+{
+  "updatedAt": "2026-10-13",
+  "permanentSources": [
+    {
+      "organization": "PAWS-PATAS",
+      "country": "Spain",
+      "place": "Los Gallardos",
+      "listingId": "8",
+      "urls": [
+        "https://paws-patas.org/45641-2"
+      ],
+      "originalGem": true,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "Chimfunshi",
+      "country": "Zambia",
+      "place": "Chingola",
+      "listingId": "35",
+      "urls": [
+        "https://www.chimfunshi.de/freiwilligenprogramm/"
+      ],
+      "originalGem": true,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "Naankuse",
+      "country": "Namibia",
+      "place": "Windhoek",
+      "listingId": "37",
+      "urls": [
+        "https://www.naankuse.com/education-wildlife-rehabilitation-and-captive-care-experience"
+      ],
+      "originalGem": true,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "Soi Dog Foundation",
+      "country": "Thailand",
+      "place": "Phuket",
+      "listingId": "46",
+      "urls": [
+        "https://www.soidog.org/volunteer"
+      ],
+      "originalGem": true,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "Wanicare / Cikananga",
+      "country": "Indonesia",
+      "place": "Sukabumi",
+      "listingId": "51",
+      "urls": [
+        "https://www.wanicare.com/en-EU/internships-and-volunteers/",
+        "https://www.worldpackers.com/positions/88732"
+      ],
+      "originalGem": true,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "Comunidad Inti Wara Yassi — Jacj Cuisi",
+      "country": "Bolivia",
+      "place": "Rurrenabaque",
+      "listingId": "60",
+      "urls": [
+        "https://www.intiwarayassi.org/volunteering/volunteering-at-parque-jacj-cuisi/"
+      ],
+      "originalGem": true,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "amaZOOnico",
+      "country": "Ecuador",
+      "place": "Tena",
+      "listingId": "61",
+      "urls": [
+        "https://www.amazoonicorescue.org/volunteer"
+      ],
+      "originalGem": true,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "Yanacocha Rescue",
+      "country": "Ecuador",
+      "place": "Puyo",
+      "listingId": "62",
+      "urls": [
+        "https://yanacocharescue.com/volunteering-yanacocha-rescue-center/",
+        "https://www.worldpackers.com/positions/106147"
+      ],
+      "originalGem": true,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "Rescate Wildlife Rescue Center",
+      "country": "Costa Rica",
+      "place": "Alajuela",
+      "listingId": "66",
+      "urls": [
+        "https://www.worldpackers.com/positions/59767",
+        "https://rescatewildlife.org/volunteer-opportunities/",
+        "https://www.worldpackers.com/positions/59372"
+      ],
+      "originalGem": false,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "Sibu Wildlife Sanctuary",
+      "country": "Costa Rica",
+      "place": "Nosara",
+      "listingId": "70",
+      "urls": [
+        "https://www.workaway.info/en/host/252357334278",
+        "https://sibusanctuary.org/volunteer-monkey-animal-sanctuary-costa-rica/",
+        "https://www.worldpackers.com/positions/114219"
+      ],
+      "originalGem": false,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "Refugio Animal Costa Rica",
+      "country": "Costa Rica",
+      "place": "Santa Ana",
+      "listingId": "84",
+      "urls": [
+        "https://en.refugioanimalcr.com/voluntariado-1"
+      ],
+      "originalGem": true,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "Black Sheep Animal Sanctuary",
+      "country": "New Zealand",
+      "place": "Otaki",
+      "listingId": "87",
+      "urls": [
+        "https://www.theblacksheep.org.nz/join-our-crew.html",
+        "https://www.workaway.info/en/host/322582473838"
+      ],
+      "originalGem": true,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "Animal Aid Unlimited",
+      "country": "India",
+      "place": "Udaipur, Rajasthan",
+      "listingId": "100",
+      "urls": [
+        "https://www.animalaidunlimited.org/how-to-help/volunteer-with-animals-in-india/"
+      ],
+      "originalGem": false,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "Wildlife Friends Foundation Thailand (WFFT)",
+      "country": "Thailand",
+      "place": "Tha Mai Ruak, Phetchaburi",
+      "listingId": "101",
+      "urls": [
+        "https://www.wildlifevolunteer.org/wildlife-rescue-centre/",
+        "https://www.wildlifevolunteer.org/"
+      ],
+      "originalGem": false,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "Bornean Sun Bear Conservation Centre (BSBCC)",
+      "country": "Malaysia",
+      "place": "Sepilok, Sabah",
+      "listingId": "102",
+      "urls": [
+        "https://www.bsbcc.org.my/volunteer",
+        "https://www.bsbcc.org.my/non-malaysian-volunteer-application"
+      ],
+      "originalGem": false,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "Tasikoki Wildlife Rescue & Education Centre",
+      "country": "Indonesia",
+      "place": "Bitung, North Sulawesi",
+      "listingId": "103",
+      "urls": [
+        "https://www.tasikoki.org/become-volunteer/"
+      ],
+      "originalGem": false,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "Vervet Monkey Foundation",
+      "country": "South Africa",
+      "place": "Tzaneen, Limpopo",
+      "listingId": "104",
+      "urls": [
+        "https://www.vervet.org/volunteering/",
+        "https://www.worldpackers.com/positions/115504",
+        "https://www.worldpackers.com/positions/112323"
+      ],
+      "originalGem": false,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "Sanaga-Yong Chimpanzee Rescue",
+      "country": "Cameroon",
+      "place": "Mbargue Forest",
+      "listingId": "105",
+      "urls": [
+        "https://www.sychimprescue.org/volunteering-at-sycr/"
+      ],
+      "originalGem": false,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "ARCAS",
+      "country": "Guatemala",
+      "place": "Petén / Flores",
+      "listingId": "106",
+      "urls": [
+        "https://arcasguatemala.org/volunteering/"
+      ],
+      "originalGem": false,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "ARCAS",
+      "country": "Guatemala",
+      "place": "Hawaii, Pacific coast",
+      "listingId": "107",
+      "urls": [
+        "https://arcasguatemala.org/volunteering/"
+      ],
+      "originalGem": false,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "Jaguar Rescue Center",
+      "country": "Costa Rica",
+      "place": "Puerto Viejo de Talamanca",
+      "listingId": "108",
+      "urls": [
+        "https://www.jaguarrescue.foundation/en-us/SupportUs/Volunteering/JRC4-WeeksMinimumVolunteerProgram"
+      ],
+      "originalGem": false,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "Toucan Rescue Ranch",
+      "country": "Costa Rica",
+      "place": "San Isidro, Heredia",
+      "listingId": "109",
+      "urls": [
+        "https://toucanrescueranch.org/get-involved/internships/"
+      ],
+      "originalGem": false,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "Mayday Algarve",
+      "country": "Portugal",
+      "place": "Vila do Bispo",
+      "listingId": "110",
+      "urls": [
+        "https://www.maydayalgarve.com/get-involved/volunteer"
+      ],
+      "originalGem": false,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "Wigglestail Animal Sanctuary",
+      "country": "Portugal",
+      "place": "São Bartolomeu de Messines, Algarve",
+      "listingId": "111",
+      "urls": [
+        "https://wigglestail-animal-sanctuary.pt/volunteer/"
+      ],
+      "originalGem": false,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "SANCCOB",
+      "country": "South Africa",
+      "place": "Cape Town / Table View",
+      "listingId": "112",
+      "urls": [
+        "https://sanccob.co.za/sanccob-training/"
+      ],
+      "originalGem": false,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "Centro Urku",
+      "country": "Peru",
+      "place": "Tarapoto, San Martín",
+      "listingId": "113",
+      "urls": [
+        "https://www.centrourku.org/programa-de-voluntariado-centro-urku/"
+      ],
+      "originalGem": false,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "Proyecto Carayá",
+      "country": "Argentina",
+      "place": "La Cumbre, Córdoba",
+      "listingId": "114",
+      "urls": [
+        "https://proyectocaraya.org/voluntario-con-proyecto-caraya/"
+      ],
+      "originalGem": false,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "Lanta Animal Welfare",
+      "country": "Thailand",
+      "place": "Koh Lanta, Krabi",
+      "listingId": "115",
+      "urls": [
+        "https://lantaanimalwelfare.com/support-us/become-volunteer/",
+        "https://www.workaway.info/en/host/478651361637"
+      ],
+      "originalGem": false,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "Kathmandu Animal Treatment Centre (KAT Centre)",
+      "country": "Nepal",
+      "place": "Budhanilkantha, Kathmandu",
+      "listingId": "116",
+      "urls": [
+        "https://katcentre.org/en/volunteer"
+      ],
+      "originalGem": false,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "Save Vietnam's Wildlife (SVW)",
+      "country": "Vietnam",
+      "place": "Cúc Phương, Ninh Bình",
+      "listingId": "117",
+      "urls": [
+        "https://www.svw.vn/volunteer-with-us"
+      ],
+      "originalGem": false,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "Turpentine Creek Wildlife Refuge",
+      "country": "United States",
+      "place": "Eureka Springs, Arkansas",
+      "listingId": "118",
+      "urls": [
+        "https://www.turpentinecreek.org/about/internships/"
+      ],
+      "originalGem": false,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "WildCat Ridge Sanctuary",
+      "country": "United States",
+      "place": "Scotts Mills, Oregon",
+      "listingId": "119",
+      "urls": [
+        "https://wildcatridgesanctuary.org/internships/"
+      ],
+      "originalGem": false,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "Trowunna Wildlife Sanctuary",
+      "country": "Australia",
+      "place": "Mole Creek, Tasmania",
+      "listingId": "120",
+      "urls": [
+        "https://www.trowunna.com.au/volunteer"
+      ],
+      "originalGem": false,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "BirdCare Aotearoa",
+      "country": "New Zealand",
+      "place": "Green Bay, Auckland",
+      "listingId": "121",
+      "urls": [
+        "https://birdcareaotearoa.org.nz/volunteer-opportunities/"
+      ],
+      "originalGem": false,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "Tacugama Chimpanzee Sanctuary",
+      "country": "Sierra Leone",
+      "place": "Freetown / Regent",
+      "listingId": "122",
+      "urls": [
+        "https://www.tacugama.com/volunteer/"
+      ],
+      "originalGem": false,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "SOS Animal",
+      "country": "Portugal",
+      "place": "Santarém",
+      "listingId": "123",
+      "urls": [
+        "https://sosanimal.com/en/turismo-de-voluntariado/"
+      ],
+      "originalGem": false,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "Fundación Santuario Gaia",
+      "country": "Spain",
+      "place": "Camprodon / El Ripollès, Girona",
+      "listingId": "124",
+      "urls": [
+        "https://fundacionsantuariogaia.org/voluntariado-larga-duracion/",
+        "https://fundacionsantuariogaia.org/voluntariado-europeo/"
+      ],
+      "originalGem": false,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    },
+    {
+      "organization": "International Bird Rescue",
+      "country": "United States",
+      "place": "San Pedro, California",
+      "listingId": "125",
+      "urls": [
+        "https://www.birdrescue.org/get-involved/volunteering-internships/rehabilitation-internship-program/"
+      ],
+      "originalGem": false,
+      "status": "retain",
+      "note": "Keep as an independent discovery source; do not drop solely because a future scan cannot fetch it."
+    }
+  ],
+  "pendingSources": [
+    {
+      "organization": "Free the Bears",
+      "url": "https://freethebears.org/pages/visit-volunteer",
+      "reason": "General invitation found, but current volunteer country/route and detailed terms need confirmation."
+    },
+    {
+      "organization": "TIERART",
+      "url": "https://www.tierart.de/en-us/about-us/faqs-about-tierart",
+      "reason": "Current FAQ says no volunteer placements; student internships may be possible. Old volunteer packs are not evidence of a current programme."
+    },
+    {
+      "organization": "Three Ring Ranch",
+      "url": "https://www.threeringranch.org/",
+      "reason": "Seasonal application window and current intake need rechecking; not added as an open opportunity in October."
+    },
+    {
+      "organization": "Lilongwe Wildlife Trust",
+      "url": "https://lilongwewildlife.org/volunteer/",
+      "reason": "Official route found; establish whether it overlaps the existing GoEco programme before adding another pin."
+    },
+    {
+      "organization": "Kids Saving the Rainforest / Naranjito reserve",
+      "url": "https://www.kidssavingtherainforest.org/",
+      "reason": "Named Worldpackers programme added; confirm whether existing Workaway listing 81 is the same site or a separate reserve."
+    },
+    {
+      "organization": "SOS Animal / Almeirim provider programme",
+      "url": "https://sosanimal.com/en/turismo-de-voluntariado/",
+      "reason": "Official programme added; confirm whether the retained intermediary listing 99 places at this exact sanctuary."
+    },
+    {
+      "organization": "Pitovo horse-rescue identity",
+      "url": "https://www.worldpackers.com/positions/102027",
+      "reason": "The readable Stanpede programme may replace the old redirected Pitovo listing 25; exact host identity of the retired URL needs confirmation. Entries are not yet merged."
+    }
+  ]
+}

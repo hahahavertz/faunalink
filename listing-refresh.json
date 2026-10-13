@@ -1,69 +1,768 @@
 {
-  "updatedAt": "2026-10-06",
-  "mode": "Manual source refresh; weekly automation is not enabled.",
-  "previousCount": 90,
-  "currentCount": 97,
-  "existingLinksAttempted": 90,
-  "newIds": [
-    "91",
-    "92",
-    "93",
-    "94",
-    "95",
-    "96",
-    "97",
-    "98",
-    "99"
-  ],
-  "archivedIds": [
-    "50"
-  ],
-  "mergedIds": {
-    "45": "44"
-  },
+  "updatedAt": "2026-10-13",
+  "mode": "Manual research refresh; weekly automation is not enabled.",
+  "previousCount": 97,
+  "currentCount": 251,
+  "newCount": 154,
+  "existingLinksAttempted": 97,
+  "existingPagesReadable": 94,
   "unverifiedRetainedIds": [
     "25",
     "31",
     "65"
   ],
-  "verificationMeaning": "Page checked means the source described the opportunity when reviewed; it does not confirm vacancies, dates, fees, welfare standards or exact coordinates.",
-  "coverage": "Bounded first refresh, not an exhaustive scan of all source websites. Original sources were checked directly; blocked Volunteer World and Black Sheep pages were reviewed through web retrieval.",
-  "discoverySources": [
-    "Workaway",
-    "Worldpackers",
-    "HelpStay",
-    "HelpX",
-    "Volunteer World",
-    "GoAbroad",
-    "GoEco",
-    "WWF Hong Kong",
-    "The Wildlife Society",
-    "EcoJobs"
+  "newIds": [
+    "100",
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "111",
+    "112",
+    "113",
+    "114",
+    "115",
+    "116",
+    "117",
+    "118",
+    "119",
+    "120",
+    "121",
+    "122",
+    "123",
+    "124",
+    "125",
+    "126",
+    "127",
+    "129",
+    "130",
+    "131",
+    "132",
+    "133",
+    "134",
+    "135",
+    "136",
+    "137",
+    "138",
+    "139",
+    "140",
+    "141",
+    "142",
+    "143",
+    "144",
+    "145",
+    "146",
+    "147",
+    "148",
+    "149",
+    "150",
+    "151",
+    "152",
+    "153",
+    "154",
+    "155",
+    "156",
+    "157",
+    "158",
+    "159",
+    "160",
+    "161",
+    "162",
+    "163",
+    "164",
+    "165",
+    "166",
+    "167",
+    "168",
+    "169",
+    "170",
+    "171",
+    "172",
+    "173",
+    "174",
+    "175",
+    "176",
+    "178",
+    "179",
+    "180",
+    "181",
+    "182",
+    "183",
+    "184",
+    "185",
+    "186",
+    "188",
+    "189",
+    "190",
+    "191",
+    "192",
+    "193",
+    "194",
+    "195",
+    "196",
+    "197",
+    "198",
+    "199",
+    "200",
+    "201",
+    "202",
+    "203",
+    "204",
+    "205",
+    "206",
+    "207",
+    "208",
+    "209",
+    "210",
+    "211",
+    "212",
+    "213",
+    "214",
+    "215",
+    "216",
+    "217",
+    "218",
+    "219",
+    "220",
+    "221",
+    "222",
+    "223",
+    "224",
+    "225",
+    "226",
+    "227",
+    "228",
+    "229",
+    "230",
+    "231",
+    "232",
+    "233",
+    "234",
+    "235",
+    "236",
+    "237",
+    "238",
+    "239",
+    "240",
+    "241",
+    "242",
+    "243",
+    "244",
+    "245",
+    "246",
+    "247",
+    "248",
+    "249",
+    "250",
+    "251",
+    "252",
+    "253",
+    "254",
+    "255",
+    "256"
   ],
-  "excludedCandidates": [
+  "platformCandidatesReviewed": 238,
+  "candidateDecisions": {
+    "deferred": 57,
+    "included": 128,
+    "merged": 53
+  },
+  "independentProgrammeEntriesAdded": 26,
+  "verificationMeaning": "A readable source describing an application/enquiry route. Current vacancies, intake dates and welfare standards are not independently confirmed. Coordinates are approximate.",
+  "coverage": [
     {
-      "url": "https://www.workaway.info/en/host/766569181168",
-      "reason": "Profile paused; not active."
+      "source": "Worldpackers",
+      "status": "Defined category traversed",
+      "scope": "Animal Shelter + Animal Care filter across seven platform regions; all exposed pagination followed (15 result pages).",
+      "gap": "NGO, farm, homestay and other host categories were not exhaustively traversed. Search results and vacancies can change.",
+      "nextAction": "Scan Animal Care in NGO and other host categories, then compare host identities with this map."
     },
     {
-      "url": "https://www.goeco.org/area/volunteer-in-africa/south-africa/wildlife-sanctuary-expedition/",
-      "reason": "Explicitly not accepting new applications."
+      "source": "Workaway",
+      "status": "Partial",
+      "scope": "Animal Welfare category, first two pages per continent where present; rescue/shelter/sanctuary descriptions screened.",
+      "gap": "Europe exposed 19 pages; only pages 1–2 reviewed. Other remaining pages and hosts in different categories are not covered. Africa narrow category exposed seven results on one page.",
+      "nextAction": "Continue Europe at page 3, then remaining regional pagination and other animal-care categories."
     },
     {
-      "url": "https://ecojobs.com/job/environmental-education-interns-5/",
-      "reason": "Application deadline was October 1, 2026."
+      "source": "HelpStay",
+      "status": "Partial — dynamic results",
+      "scope": "Animal/environment search requested on pages 1–2; a Koh Samui detail programme independently checked.",
+      "gap": "Search HTML did not expose a usable full result list; the checked programme overlaps an existing host.",
+      "nextAction": "Review the interactive result list and record pagination."
     },
     {
-      "url": "https://careers.wildlife.org/job/wildlife-meds-help-intern/76301817/",
-      "reason": "Current detail page returned a robot verification challenge; not added from old search text."
+      "source": "HelpX",
+      "status": "Incomplete — page did not render",
+      "scope": "Known animal-refuge URL attempted.",
+      "gap": "No usable details; original listing 31 retained for rechecking. No full directory scan completed.",
+      "nextAction": "Recheck the refuge and use the interactive directory when it is available."
     },
     {
-      "url": "https://www.wwf.org.hk/en/support/be_our_volunteer/",
-      "reason": "General volunteer sign-up page; no specific current wildlife-care placement confirmed."
+      "source": "Volunteer World",
+      "status": "Partial — category access blocked",
+      "scope": "Three category URLs attempted; four retained programme pages read through web retrieval and targeted search used for leads.",
+      "gap": "Category requests returned HTTP 403; no complete result traversal.",
+      "nextAction": "Manually review Animal Shelter, Dogs and Wildlife Conservation filters."
     },
     {
-      "url": "https://www.helpx.net/host/OG78E7CJC",
-      "reason": "Directory described a role but the individual detail page did not render; deferred."
+      "source": "GoAbroad",
+      "status": "Partial — index and search leads",
+      "scope": "Seven regional Animal Welfare entry pages plus targeted web queries.",
+      "gap": "Downloaded indices did not expose a usable complete native programme list. Full pagination not traversed.",
+      "nextAction": "Review native regional programme results; identify actual host, provider fee and duplicate programmes."
+    },
+    {
+      "source": "GoEco",
+      "status": "Partial",
+      "scope": "Wildlife & Animal Conservation entry page (eight programme cards exposed), plus selected programme detail checks.",
+      "gap": "Load-more results not exhaustively traversed; several providers may place volunteers at already listed hosts.",
+      "nextAction": "Continue the category’s remaining results and verify host identities before adding pins."
+    },
+    {
+      "source": "WWF Hong Kong",
+      "status": "Scope checked",
+      "scope": "Official general volunteer page reviewed.",
+      "gap": "No specific residential animal-care placement established; regional WWF offices not fully searched.",
+      "nextAction": "Follow specific role announcements rather than treating general signup as a placement."
+    },
+    {
+      "source": "EcoJobs / The Wildlife Society",
+      "status": "Partial",
+      "scope": "Career entry/category pages and targeted internship searches.",
+      "gap": "Expired deadlines excluded; blocked/insufficient job detail pages deferred. No complete job-board scan.",
+      "nextAction": "Check fresh husbandry/rehabilitation internships with readable employer pages."
+    },
+    {
+      "source": "Independent organisations / networks",
+      "status": "Selected leads verified",
+      "scope": "Open-web searches including Spanish, Portuguese, French and German; GFAS job-board leads, PASA members, WReNNZ member leads and known-organisation omission checks. 26 additional programme entries verified on host sites.",
+      "gap": "No exhaustive global organisation list. Directory inclusion is a lead, not proof of vacancies or welfare standards.",
+      "nextAction": "Keep the permanent source register; revisit pending hosts and expand country/language searches."
     }
-  ]
+  ],
+  "categoryPages": [
+    {
+      "source": "Workaway",
+      "url": "https://www.workaway.info/en/hostlist?ht[]=hosttype_animal_welfare&ct=europe&Page=1",
+      "httpStatus": 200,
+      "scope": "europe animal welfare; page 1"
+    },
+    {
+      "source": "Workaway",
+      "url": "https://www.workaway.info/en/hostlist?ht[]=hosttype_animal_welfare&ct=europe&Page=2",
+      "httpStatus": 200,
+      "scope": "europe animal welfare; page 2"
+    },
+    {
+      "source": "Workaway",
+      "url": "https://www.workaway.info/en/hostlist?ht[]=hosttype_animal_welfare&ct=africa&Page=1",
+      "httpStatus": 200,
+      "scope": "africa animal welfare; page 1"
+    },
+    {
+      "source": "Workaway",
+      "url": "https://www.workaway.info/en/hostlist?ht[]=hosttype_animal_welfare&ct=africa&Page=2",
+      "httpStatus": 200,
+      "scope": "africa animal welfare; page 2"
+    },
+    {
+      "source": "Workaway",
+      "url": "https://www.workaway.info/en/hostlist?ht[]=hosttype_animal_welfare&ct=asia&Page=1",
+      "httpStatus": 200,
+      "scope": "asia animal welfare; page 1"
+    },
+    {
+      "source": "Workaway",
+      "url": "https://www.workaway.info/en/hostlist?ht[]=hosttype_animal_welfare&ct=asia&Page=2",
+      "httpStatus": 200,
+      "scope": "asia animal welfare; page 2"
+    },
+    {
+      "source": "Workaway",
+      "url": "https://www.workaway.info/en/hostlist?ht[]=hosttype_animal_welfare&ct=northamerica&Page=1",
+      "httpStatus": 200,
+      "scope": "northamerica animal welfare; page 1"
+    },
+    {
+      "source": "Workaway",
+      "url": "https://www.workaway.info/en/hostlist?ht[]=hosttype_animal_welfare&ct=northamerica&Page=2",
+      "httpStatus": 200,
+      "scope": "northamerica animal welfare; page 2"
+    },
+    {
+      "source": "Workaway",
+      "url": "https://www.workaway.info/en/hostlist?ht[]=hosttype_animal_welfare&ct=southamerica&Page=1",
+      "httpStatus": 200,
+      "scope": "southamerica animal welfare; page 1"
+    },
+    {
+      "source": "Workaway",
+      "url": "https://www.workaway.info/en/hostlist?ht[]=hosttype_animal_welfare&ct=southamerica&Page=2",
+      "httpStatus": 200,
+      "scope": "southamerica animal welfare; page 2"
+    },
+    {
+      "source": "Workaway",
+      "url": "https://www.workaway.info/en/hostlist?ht[]=hosttype_animal_welfare&ct=oceania&Page=1",
+      "httpStatus": 200,
+      "scope": "oceania animal welfare; page 1"
+    },
+    {
+      "source": "Workaway",
+      "url": "https://www.workaway.info/en/hostlist?ht[]=hosttype_animal_welfare&ct=oceania&Page=2",
+      "httpStatus": 200,
+      "scope": "oceania animal welfare; page 2"
+    },
+    {
+      "source": "Worldpackers",
+      "url": "https://www.worldpackers.com/search/europe/type_animal_shelter?skills[]=animal_care",
+      "httpStatus": 200,
+      "scope": "europe animal shelter; initial page"
+    },
+    {
+      "source": "Worldpackers",
+      "url": "https://www.worldpackers.com/search/africa/type_animal_shelter?skills[]=animal_care",
+      "httpStatus": 200,
+      "scope": "africa animal shelter; initial page"
+    },
+    {
+      "source": "Worldpackers",
+      "url": "https://www.worldpackers.com/search/asia/type_animal_shelter?skills[]=animal_care",
+      "httpStatus": 200,
+      "scope": "asia animal shelter; initial page"
+    },
+    {
+      "source": "Worldpackers",
+      "url": "https://www.worldpackers.com/search/north_america/type_animal_shelter?skills[]=animal_care",
+      "httpStatus": 200,
+      "scope": "north_america animal shelter; initial page"
+    },
+    {
+      "source": "Worldpackers",
+      "url": "https://www.worldpackers.com/search/south_america/type_animal_shelter?skills[]=animal_care",
+      "httpStatus": 200,
+      "scope": "south_america animal shelter; initial page"
+    },
+    {
+      "source": "Worldpackers",
+      "url": "https://www.worldpackers.com/search/oceania/type_animal_shelter?skills[]=animal_care",
+      "httpStatus": 200,
+      "scope": "oceania animal shelter; initial page"
+    },
+    {
+      "source": "HelpStay",
+      "url": "https://www.helpstay.com/search?stay[query_category_hidden]=1&stay[global_search]=animal&page=1",
+      "httpStatus": 200,
+      "scope": "Animals & Environment + animal; requested page 1"
+    },
+    {
+      "source": "HelpStay",
+      "url": "https://www.helpstay.com/search?stay[query_category_hidden]=1&stay[global_search]=animal&page=2",
+      "httpStatus": 200,
+      "scope": "Animals & Environment + animal; requested page 2"
+    },
+    {
+      "source": "GoEco",
+      "url": "https://www.goeco.org/project-search/?categories[]=355",
+      "httpStatus": 200,
+      "scope": "Wildlife & Animal Conservation category"
+    },
+    {
+      "source": "GoAbroad",
+      "url": "https://www.goabroad.com/volunteer-abroad/search/western-europe/animal-welfare/volunteer-abroad-1",
+      "httpStatus": 200,
+      "scope": "western-europe animal welfare; initial page"
+    },
+    {
+      "source": "GoAbroad",
+      "url": "https://www.goabroad.com/volunteer-abroad/search/eastern-europe-russia/animal-welfare/volunteer-abroad-1",
+      "httpStatus": 200,
+      "scope": "eastern-europe-russia animal welfare; initial page"
+    },
+    {
+      "source": "GoAbroad",
+      "url": "https://www.goabroad.com/volunteer-abroad/search/africa/animal-welfare/volunteer-abroad-1",
+      "httpStatus": 200,
+      "scope": "africa animal welfare; initial page"
+    },
+    {
+      "source": "GoAbroad",
+      "url": "https://www.goabroad.com/volunteer-abroad/search/asia/animal-welfare/volunteer-abroad-1",
+      "httpStatus": 200,
+      "scope": "asia animal welfare; initial page"
+    },
+    {
+      "source": "GoAbroad",
+      "url": "https://www.goabroad.com/volunteer-abroad/search/central-america/animal-welfare/volunteer-abroad-1",
+      "httpStatus": 200,
+      "scope": "central-america animal welfare; initial page"
+    },
+    {
+      "source": "GoAbroad",
+      "url": "https://www.goabroad.com/volunteer-abroad/search/south-america/animal-welfare/volunteer-abroad-1",
+      "httpStatus": 200,
+      "scope": "south-america animal welfare; initial page"
+    },
+    {
+      "source": "GoAbroad",
+      "url": "https://www.goabroad.com/volunteer-abroad/search/australia-oceania/animal-welfare/volunteer-abroad-1",
+      "httpStatus": 200,
+      "scope": "australia-oceania animal welfare; initial page"
+    },
+    {
+      "source": "Volunteer World",
+      "url": "https://www.volunteerworld.com/en/volunteer-abroad/animal-shelter",
+      "httpStatus": 403,
+      "scope": "animal-shelter initial category page"
+    },
+    {
+      "source": "Volunteer World",
+      "url": "https://www.volunteerworld.com/en/volunteer-abroad/wildlife-conservation",
+      "httpStatus": 403,
+      "scope": "wildlife-conservation initial category page"
+    },
+    {
+      "source": "Volunteer World",
+      "url": "https://www.volunteerworld.com/en/volunteer-abroad/dogs",
+      "httpStatus": 403,
+      "scope": "dogs initial category page"
+    },
+    {
+      "source": "HelpX",
+      "url": "https://www.helpx.net/host/1449631IP",
+      "httpStatus": 200,
+      "scope": "Known animal-refuge host"
+    },
+    {
+      "source": "EcoJobs",
+      "url": "https://ecojobs.com/job-tag/environmental-internships/",
+      "httpStatus": 200,
+      "scope": "Internship category; initial page"
+    },
+    {
+      "source": "The Wildlife Society",
+      "url": "https://careers.wildlife.org/home/",
+      "httpStatus": 200,
+      "scope": "Career centre initial page"
+    },
+    {
+      "source": "WWF Hong Kong",
+      "url": "https://www.wwf.org.hk/support/be_our_volunteer/",
+      "httpStatus": 200,
+      "scope": "Volunteer signup; wildlife-care relevance check"
+    },
+    {
+      "source": "Worldpackers",
+      "url": "https://www.worldpackers.com/search/central_america/type_animal_shelter?skills[]=animal_care",
+      "httpStatus": 200,
+      "scope": "Follow-up category / pagination page"
+    },
+    {
+      "source": "Worldpackers",
+      "url": "https://www.worldpackers.com/search/europe/type_animal_shelter?page=2&skills%5B%5D=animal_care",
+      "httpStatus": 200,
+      "scope": "Follow-up category / pagination page"
+    },
+    {
+      "source": "Worldpackers",
+      "url": "https://www.worldpackers.com/search/europe/type_animal_shelter?page=3&skills%5B%5D=animal_care",
+      "httpStatus": 200,
+      "scope": "Follow-up category / pagination page"
+    },
+    {
+      "source": "Worldpackers",
+      "url": "https://www.worldpackers.com/search/europe/type_animal_shelter?page=5&skills%5B%5D=animal_care",
+      "httpStatus": 200,
+      "scope": "Follow-up category / pagination page"
+    },
+    {
+      "source": "Worldpackers",
+      "url": "https://www.worldpackers.com/search/asia/type_animal_shelter?page=2&skills%5B%5D=animal_care",
+      "httpStatus": 200,
+      "scope": "Follow-up category / pagination page"
+    },
+    {
+      "source": "Worldpackers",
+      "url": "https://www.worldpackers.com/search/south_america/type_animal_shelter?page=2&skills%5B%5D=animal_care",
+      "httpStatus": 200,
+      "scope": "Follow-up category / pagination page"
+    },
+    {
+      "source": "Worldpackers",
+      "url": "https://www.worldpackers.com/search/central_america/type_animal_shelter?page=2&skills%5B%5D=animal_care",
+      "httpStatus": 200,
+      "scope": "Follow-up category / pagination page"
+    },
+    {
+      "source": "Worldpackers",
+      "url": "https://www.worldpackers.com/search/central_america/type_animal_shelter?page=3&skills%5B%5D=animal_care",
+      "httpStatus": 200,
+      "scope": "Follow-up category / pagination page"
+    },
+    {
+      "source": "Worldpackers",
+      "url": "https://www.worldpackers.com/search/europe/type_animal_shelter?page=4&skills%5B%5D=animal_care",
+      "httpStatus": 200,
+      "scope": "Follow-up category / pagination page"
+    }
+  ],
+  "queries": [
+    {
+      "query": "site.wildlifesos.org volunteer India",
+      "domains": []
+    },
+    {
+      "query": "site.freethebears.org volunteer Cambodia Laos",
+      "domains": []
+    },
+    {
+      "query": "site.bsbcc.org.my volunteer",
+      "domains": []
+    },
+    {
+      "query": "site.animalaidunlimited.org volunteer India",
+      "domains": []
+    },
+    {
+      "query": "Free the Bears volunteer programme Cambodia Laos official",
+      "domains": []
+    },
+    {
+      "query": "Vervet Monkey Foundation volunteer official",
+      "domains": []
+    },
+    {
+      "query": "Lilongwe Wildlife Trust volunteer sanctuary official",
+      "domains": []
+    },
+    {
+      "query": "Sanaga Yong chimpanzee rescue volunteer official",
+      "domains": []
+    },
+    {
+      "query": "site.freethebears.org \"volunteer\" \"Cambodia\" \"weeks\"",
+      "domains": []
+    },
+    {
+      "query": "wildlife rescue volunteer Costa Rica Guatemala Belize official",
+      "domains": []
+    },
+    {
+      "query": "voluntariado centro rescate fauna Ecuador Colombia alojamiento",
+      "domains": []
+    },
+    {
+      "query": "animal sanctuary residential volunteer Europe Portugal Spain volunteer alojamiento",
+      "domains": []
+    },
+    {
+      "query": "wildlife rehabilitation volunteer Australia New Zealand accommodation official",
+      "domains": []
+    },
+    {
+      "query": "Jaguar Rescue Center volunteer official",
+      "domains": []
+    },
+    {
+      "query": "Toucan Rescue Ranch volunteer internship official",
+      "domains": []
+    },
+    {
+      "query": "ARCAS Guatemala volunteer official",
+      "domains": []
+    },
+    {
+      "query": "site.sanccob.co.za volunteer international",
+      "domains": []
+    },
+    {
+      "query": "site.daktaribushschool.org volunteer",
+      "domains": []
+    },
+    {
+      "query": "site.lwiroprimates.org volunteer",
+      "domains": []
+    },
+    {
+      "query": "site.jackchimp.com volunteer",
+      "domains": []
+    },
+    {
+      "query": "wildlife rehabilitation volunteer Australia accommodation official sanctuary",
+      "domains": []
+    },
+    {
+      "query": "wildlife volunteer New Zealand rescue centre official",
+      "domains": []
+    },
+    {
+      "query": "site.ecojobs.com wildlife rehabilitation internship volunteer October 2026",
+      "domains": []
+    },
+    {
+      "query": "site.careers.wildlife.org \"wildlife sanctuary\" \"caretaker\"",
+      "domains": []
+    },
+    {
+      "query": "site.wwf.org.hk volunteer animal wildlife internship",
+      "domains": []
+    },
+    {
+      "query": "site.wwf.org careers \"animal care\" volunteer",
+      "domains": []
+    },
+    {
+      "query": "voluntariado rescate animales Peru Colombia oficial centro",
+      "domains": []
+    },
+    {
+      "query": "volunteer wildlife rescue Belize Ecuador official centre",
+      "domains": []
+    },
+    {
+      "query": "volunteer sanctuary Argentina Brasil animais voluntariado",
+      "domains": []
+    },
+    {
+      "query": "site.katcentre.org.np volunteer",
+      "domains": []
+    },
+    {
+      "query": "site.lantaanimalwelfare.com volunteer",
+      "domains": []
+    },
+    {
+      "query": "site.animalsos-sl.com volunteer",
+      "domains": []
+    },
+    {
+      "query": "site.savevietnamswildlife.org volunteer",
+      "domains": []
+    },
+    {
+      "query": "volunteer",
+      "domains": [
+        "katcentre.org"
+      ]
+    },
+    {
+      "query": "volunteer",
+      "domains": [
+        "svw.vn"
+      ]
+    },
+    {
+      "query": "volunteering",
+      "domains": [
+        "animalsos-sl.com"
+      ]
+    },
+    {
+      "query": "volunteer internship",
+      "domains": [
+        "birdcareaotearoa.org.nz",
+        "birdrescue.org.nz"
+      ]
+    },
+    {
+      "query": "volunteer wildlife rehabilitation internship",
+      "domains": [
+        "internationalbirdrescue.org"
+      ]
+    },
+    {
+      "query": "volunteer internship",
+      "domains": [
+        "caneandkatierescue.com",
+        "animalexperienceinternational.com"
+      ]
+    },
+    {
+      "query": "volunteer wildlife rehabilitation internship",
+      "domains": [
+        "birdrescue.org"
+      ]
+    },
+    {
+      "query": "volunteer animal sanctuary France Germany refuge bénévolat logement",
+      "domains": []
+    },
+    {
+      "query": "Lilongwe Wildlife Centre Vervet Monkey Foundation",
+      "domains": [
+        "sanctuaryfederation.org"
+      ]
+    },
+    {
+      "query": "Turpentine Creek Wildcat Ridge",
+      "domains": [
+        "sanctuaryfederation.org"
+      ]
+    },
+    {
+      "query": "volunteer sanctuary horse dog rescue United Kingdom Ireland accommodation official",
+      "domains": []
+    },
+    {
+      "query": "volunteer",
+      "domains": [
+        "tierart.de"
+      ]
+    },
+    {
+      "query": "volunteer",
+      "domains": [
+        "tacugama.com"
+      ]
+    },
+    {
+      "query": "volunteer",
+      "domains": [
+        "rescatewildlife.org"
+      ]
+    },
+    {
+      "query": "volunteer",
+      "domains": [
+        "icarerescue.org",
+        "kids-saving-the-rainforest.org"
+      ]
+    },
+    {
+      "query": "volunteer",
+      "domains": [
+        "animalsos-sl.com",
+        "dogcare-clinic.com"
+      ]
+    },
+    {
+      "query": "TIERART volunteer",
+      "domains": [
+        "four-paws.org",
+        "tierart.de"
+      ]
+    },
+    {
+      "query": "Sibu sanctuary power lines volunteers Nosara",
+      "domains": []
+    },
+    {
+      "query": "site.kidssavingtherainforest.org volunteer 42",
+      "domains": []
+    },
+    {
+      "query": "My Lovely Pig Kildare sanctuary volunteer",
+      "domains": []
+    }
+  ],
+  "candidateLedger": "candidate-review.json",
+  "sourceRegister": "source-register.json",
+  "history": "research-history/refresh-2026-10-06.json"
 }

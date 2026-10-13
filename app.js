@@ -7,6 +7,9 @@ const normalize=value=>String(value).normalize('NFD').replace(/[\u0300-\u036f]/g
 const formatDate=value=>new Date(value.length===10?`${value}T12:00:00Z`:value).toLocaleDateString('en-GB',{day:'numeric',month:'short',year:'numeric',timeZone:'UTC'});
 const locationLabel=item=>item.place===item.country?item.country:`${item.place}, ${item.country}`;
 const detailRow=(label,value)=>`<div><dt>${escapeHTML(label)}</dt><dd>${escapeHTML(value)}</dd></div>`;
+const sourcePlatform=source=>source.platform||Object.entries({'workaway.info':'Workaway','worldpackers.com':'Worldpackers','helpstay.com':'HelpStay','helpx.net':'HelpX','volunteerworld.com':'Volunteer World','goeco.org':'GoEco','goabroad.com':'GoAbroad'}).find(([domain])=>new URL(source.url).hostname.endsWith(domain))?.[1]||'Host website';
+const platformsFor=item=>[item.platform,...(item.alternateSources||[]).map(sourcePlatform)];
+const postingLabel=item=>item.postedDateNote?'GFAS board':'Posted';
 let selected=null,selectedPlace=null,placeFilter=null,cardOpener=null,map=null,clusters=null;
 let visibleItems=items,refreshMapMarkers=()=>{};
 const markers=new Map();
@@ -25,8 +28,8 @@ function matchesPlace(item,place){return !place||(place.kind==='continent'?windo
 function renderList(){
   const terms=normalize(keyword.value).trim().split(/\s+/).filter(Boolean);
   visibleItems=items.filter(item=>{
-    const text=normalize([item.title,item.country,item.place,window.continentFor(item),item.platform,item.summary||'',item.opportunityType||''].join(' ')).replace(/equine/g,'equine horse').replace(/canine/g,'canine dog').replace(/feline/g,'feline cat').replace(/united states/g,'united states usa');
-    return terms.every(term=>text.includes(term))&&(!platform.value||item.platform===platform.value)&&matchesPlace(item,placeFilter);
+    const text=normalize([item.title,item.country,item.place,window.continentFor(item),...platformsFor(item),item.organization||'',item.platformHost||'',item.summary||'',item.opportunityType||''].join(' ')).replace(/equine/g,'equine horse').replace(/canine/g,'canine dog').replace(/feline/g,'feline cat').replace(/united states/g,'united states usa');
+    return terms.every(term=>text.includes(term))&&(!platform.value||platformsFor(item).includes(platform.value))&&matchesPlace(item,placeFilter);
   });
   if(selected&&!visibleItems.includes(selected))closeCard(false);
   list.replaceChildren();let number=0;
@@ -39,7 +42,7 @@ function renderList(){
     for(const item of group){
       const button=document.createElement('button');button.type='button';button.className='list-item';button.id=`opportunity-${item.id}`;
       button.setAttribute('aria-pressed',String(selected===item));if(selected===item)button.classList.add('active');
-      button.innerHTML=`<span class="number">${String(++number).padStart(2,'0')}</span><span><span class="item-title">${escapeHTML(item.title)}</span><span class="item-location">${escapeHTML(locationLabel(item))}</span><span class="item-platform">${escapeHTML(item.platform)}</span>${item.postedDate?`<span class="posted-date">Posted ${formatDate(item.postedDate)}</span>`:''}</span>`;
+      button.innerHTML=`<span class="number">${String(++number).padStart(2,'0')}</span><span><span class="item-title">${escapeHTML(item.title)}</span><span class="item-location">${escapeHTML(locationLabel(item))}</span><span class="item-platform">${escapeHTML(item.platform)}</span>${item.postedDate?`<span class="posted-date">${postingLabel(item)} ${formatDate(item.postedDate)}</span>`:''}${item.sourceStatus==='needs_recheck'?'<span class="listing-badge needs-review">Needs recheck</span>':''}</span>`;
       button.addEventListener('click',()=>selectItem(item,true,button));list.append(button);
     }
   }
@@ -60,9 +63,9 @@ function selectItem(item,navigate=false,opener=null){
   if(!visibleItems.includes(item)){keyword.value='';platform.value='';placeFilter=null;renderList();}
   clearSelection();selectedPlace=null;selected=item;
   const button=document.getElementById(`opportunity-${item.id}`);button.classList.add('active');button.setAttribute('aria-pressed','true');if(!navigate)button.scrollIntoView({block:'nearest'});
-  const rows=[detailRow('Location',locationLabel(item)),detailRow('Type',item.opportunityType||'Volunteering'),detailRow('Posted',item.postedDate?formatDate(item.postedDate):'Not provided'),...(item.minimumStay?[detailRow('Stay',item.minimumStay)]:[]),...(item.fees?[detailRow('Fees',item.fees)]:[]),...(item.accommodation?[detailRow('Includes',item.accommodation)]:[])].join('');
+  const rows=[detailRow('Location',locationLabel(item)),detailRow('Type',item.opportunityType||'Volunteering'),detailRow('Posted',item.postedDate?`${formatDate(item.postedDate)}${item.postedDateNote?' · '+item.postedDateNote:''}`:'Not provided'),...(item.minimumStay?[detailRow('Stay',item.minimumStay)]:[]),...(item.fees?[detailRow('Fees',item.fees)]:[]),...(item.accommodation?[detailRow('Includes',item.accommodation)]:[]),...(item.eligibility?[detailRow('Eligibility',item.eligibility)]:[]),...(item.applicationDeadline?[detailRow('Apply by',item.applicationDeadline)]:[]),...(item.availabilityNote?[detailRow('Availability',item.availabilityNote)]:[])].join('');
   const alternatives=(item.alternateSources||[]).map(source=>`<a class="alternate-source" href="${escapeHTML(source.url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(source.label)}</a>`).join('');
-  openCard(`<div class="eyebrow">${escapeHTML(window.continentFor(item))} · ${escapeHTML(item.platform)}</div><h2 id="detail-title" tabindex="-1">${escapeHTML(item.title)}</h2>${item.summary?`<p class="listing-summary">${escapeHTML(item.summary)}</p>`:''}<dl>${rows}</dl><a class="source-link" href="${escapeHTML(item.url)}" target="_blank" rel="noopener noreferrer">View ${item.platform==='Host website'?'host website':escapeHTML(item.platform)+' listing'} ↗</a>${alternatives}`,opener||button);
+  openCard(`<div class="eyebrow">${escapeHTML(window.continentFor(item))} · ${escapeHTML(item.platform)}</div><h2 id="detail-title" tabindex="-1">${escapeHTML(item.title)}</h2>${item.summary?`<p class="listing-summary">${escapeHTML(item.summary)}</p>`:''}<dl>${rows}</dl><a class="source-link" href="${escapeHTML(item.url)}" target="_blank" rel="noopener noreferrer">View ${item.platform==='Host website'?'host website':escapeHTML(item.platform)+' listing'} ↗</a>${item.postedDateSource?`<a class="alternate-source" href="${escapeHTML(item.postedDateSource)}" target="_blank" rel="noopener noreferrer">Posting date source ↗</a>`:''}${alternatives}${item.alternateTermsNote?`<p class="detail-note">${escapeHTML(item.alternateTermsNote)}</p>`:''}`,opener||button);
   if(navigate&&map){const lng=item.lng+360*Math.round((map.getCenter().lng-item.lng)/360);map.setView([item.lat,lng],7,{animate:false});const copies=markers.get(item.id)||[];const marker=copies.length?copies.reduce((best,m)=>Math.abs(m.getLatLng().lng-lng)<Math.abs(best.getLatLng().lng-lng)?m:best):null;if(marker)clusters.zoomToShowLayer(marker,()=>marker.getElement()?.classList.add('selected'));if(matchMedia('(max-width:700px)').matches)document.querySelector('.map-area').scrollIntoView({block:'start'});}
   for(const marker of markers.get(item.id)||[])marker.getElement()?.classList.add('selected');
 }

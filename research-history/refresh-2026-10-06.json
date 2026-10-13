@@ -1,0 +1,69 @@
+{
+  "updatedAt": "2026-10-06",
+  "mode": "Manual source refresh; weekly automation is not enabled.",
+  "previousCount": 90,
+  "currentCount": 97,
+  "existingLinksAttempted": 90,
+  "newIds": [
+    "91",
+    "92",
+    "93",
+    "94",
+    "95",
+    "96",
+    "97",
+    "98",
+    "99"
+  ],
+  "archivedIds": [
+    "50"
+  ],
+  "mergedIds": {
+    "45": "44"
+  },
+  "unverifiedRetainedIds": [
+    "25",
+    "31",
+    "65"
+  ],
+  "verificationMeaning": "Page checked means the source described the opportunity when reviewed; it does not confirm vacancies, dates, fees, welfare standards or exact coordinates.",
+  "coverage": "Bounded first refresh, not an exhaustive scan of all source websites. Original sources were checked directly; blocked Volunteer World and Black Sheep pages were reviewed through web retrieval.",
+  "discoverySources": [
+    "Workaway",
+    "Worldpackers",
+    "HelpStay",
+    "HelpX",
+    "Volunteer World",
+    "GoAbroad",
+    "GoEco",
+    "WWF Hong Kong",
+    "The Wildlife Society",
+    "EcoJobs"
+  ],
+  "excludedCandidates": [
+    {
+      "url": "https://www.workaway.info/en/host/766569181168",
+      "reason": "Profile paused; not active."
+    },
+    {
+      "url": "https://www.goeco.org/area/volunteer-in-africa/south-africa/wildlife-sanctuary-expedition/",
+      "reason": "Explicitly not accepting new applications."
+    },
+    {
+      "url": "https://ecojobs.com/job/environmental-education-interns-5/",
+      "reason": "Application deadline was October 1, 2026."
+    },
+    {
+      "url": "https://careers.wildlife.org/job/wildlife-meds-help-intern/76301817/",
+      "reason": "Current detail page returned a robot verification challenge; not added from old search text."
+    },
+    {
+      "url": "https://www.wwf.org.hk/en/support/be_our_volunteer/",
+      "reason": "General volunteer sign-up page; no specific current wildlife-care placement confirmed."
+    },
+    {
+      "url": "https://www.helpx.net/host/OG78E7CJC",
+      "reason": "Directory described a role but the individual detail page did not render; deferred."
+    }
+  ]
+}
