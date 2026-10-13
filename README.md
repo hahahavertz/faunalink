@@ -1,4 +1,4 @@
-# Sanctuary Atlas
+# FaunaLink
 
 An interactive map of 90 animal sanctuary volunteer and work exchange opportunities.
 
@@ -37,3 +37,7 @@ Map coordinates represent approximate towns or regions, not exact sanctuary site
 This was a bounded manual update. Weekly scanning is not configured yet, and no
 paid APIs are used. Relevant candidates from blocked or unreadable sources were
 not added based only on old search results.
+
+The UI uses the FaunaLink name, keyword/platform filters, six continent groups, and horizontally repeating country geometry. Country shapes and continent buttons open five external animal-opportunity search shortcuts. Source-check metadata stays in the dataset for maintenance but is not displayed. Posting dates are shown only if the source provides one; discovery/check dates are never substituted.
+
+Shortcut platforms: Workaway, Worldpackers, HelpStay, GoAbroad and GoEco. Native country searches that redirect away from the geographic/animal scope use a clearly labelled regional fallback. European and Central American subregion links are shown where platforms divide those regions. `shortcut-coverage.json` records the validation scope and fallback destinations.
