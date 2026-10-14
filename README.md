@@ -1,6 +1,6 @@
 # FaunaLink
 
-An interactive map of 50 wildlife volunteer, work-exchange and related internship opportunities across 27 countries and six continents.
+An interactive map of 89 wildlife volunteer, work-exchange and related internship opportunities across 39 countries and six continents.
 
 ## Run locally
 
@@ -99,3 +99,17 @@ input files and the previous active dataset are backed up in the local workspace
 `work/import-2026-10-14`, outside this public checkout. Existing HKSAR guidance
 remains a dated snapshot; new countries without guidance use the explicit
 needs-confirmation fallback. No weekly automation or paid API was added.
+
+## Second supplied batch — 14 October 2026
+
+Added all 39 supplied opportunities to the existing 50, preserving their IDs and
+content. The active map now has 89 entries across 39 countries and six continents.
+No canonical primary/alternate source links overlapped the previous batch.
+Nearby or similarly named programmes are retained as separate supplied records;
+actual host identities have not been independently revalidated.
+
+Both batches' research coverage and candidate decisions remain available on the
+coverage page. Original second-batch inputs and the pre-append dataset are backed
+up in `work/import-2026-10-14-pass2` outside the public checkout. Two supplied
+metadata dates are labelled as reported page dates rather than confirmed posting
+dates. HKSAR guidance continues to show unknown-country fallbacks where required.

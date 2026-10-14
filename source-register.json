@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-10-14",
-  "origin": "Current imported list only",
+  "origin": "Current imported list (two batches)",
   "permanentSources": [
     {
       "organization": "Chimfunshi Wildlife Orphanage Trust (CWOT)",
@@ -536,6 +536,410 @@
         "https://www.goeco.org/area/volunteer-in-asia/sri-lanka/sea-turtle-rescue-and-rehabilitation/"
       ],
       "status": "imported"
+    },
+    {
+      "organization": "Colobus Conservation",
+      "country": "Kenya",
+      "place": "Diani Beach, Kwale County",
+      "listingId": "296",
+      "urls": [
+        "https://www.colobusconservation.org/volunteer-with-us/",
+        "https://www.colobusconservation.org/volunteer-costs/",
+        "https://africanimpact.com/volunteer-projects/wildlife-conservation/colobus-monkey-conservation-volunteer-project/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Centre for Animal Rehabilitation and Education (Primate C.A.R.E.)",
+      "country": "South Africa",
+      "place": "Phalaborwa (Grietjie Private Nature Reserve, Greater Kruger), Limpopo",
+      "listingId": "297",
+      "urls": [
+        "https://www.primatecare.org/planning-your-trip",
+        "https://www.primatecare.org/what-to-expect",
+        "https://www.volunteerworld.com/en/volunteer-program/baboon-orphan-caretaker-in-south-africa-phalaborwa"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "VulPro",
+      "country": "South Africa",
+      "place": "Hartbeespoort (North West) & Shamwari (Eastern Cape)",
+      "listingId": "298",
+      "urls": [
+        "https://www.vulpro.com/volunteer/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Limbe Wildlife Centre (Pandrillus Cameroon)",
+      "country": "Cameroon",
+      "place": "Limbe, South-West Region",
+      "listingId": "299",
+      "urls": [
+        "https://limbewildlife.org/helpus/volunteer/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Love The Oceans",
+      "country": "Mozambique",
+      "place": "Guinjata Bay, Jangamo District, Inhambane Province",
+      "listingId": "300",
+      "urls": [
+        "https://lovetheoceans.org/expeditions/",
+        "https://lovetheoceans.org/looking-to-do-your-thesis-with-us/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Fundació MONA",
+      "country": "Spain",
+      "place": "Riudellots de la Selva, Girona, Catalonia",
+      "listingId": "301",
+      "urls": [
+        "https://fundaciomona.org/en/volunteering/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Fundación CRAM (Fundación para la Conservación y Recuperación de Animales Marinos)",
+      "country": "Spain",
+      "place": "El Prat de Llobregat, Barcelona, Catalonia",
+      "listingId": "302",
+      "urls": [
+        "https://cram.org/ayuda/voluntariado-ambiental/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "GREFA (Grupo de Rehabilitación de la Fauna Autóctona y su Hábitat)",
+      "country": "Spain",
+      "place": "Majadahonda, Madrid",
+      "listingId": "303",
+      "urls": [
+        "https://www.grefa.org/socios-y-padrinos/voluntarios.html"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Centro Tutela e Ricerca Fauna Esotica e Selvatica – Monte Adone",
+      "country": "Italy",
+      "place": "Sasso Marconi, Bologna, Emilia-Romagna",
+      "listingId": "304",
+      "urls": [
+        "https://centrotutelafauna.org/volontariato/",
+        "https://youth.europa.eu/volunteering/organisation/74498_es"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "ANIMA (Hellenic Wildlife Care Association)",
+      "country": "Greece",
+      "place": "Kallithea (Athens), Kalivia Thorikou & Chaidari, Attica",
+      "listingId": "305",
+      "urls": [
+        "https://www.wild-anima.gr/en/support/voluntary-work/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "ARCTUROS",
+      "country": "Greece",
+      "place": "Aetos & Nymfaio, Florina, Western Macedonia",
+      "listingId": "306",
+      "urls": [
+        "https://www.arcturos.gr/en/participate/volunteerism/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Sealcentre Pieterburen (WEC – World Heritage Centre Wadden Sea)",
+      "country": "Netherlands",
+      "place": "Lauwersoog, Groningen",
+      "listingId": "307",
+      "urls": [
+        "https://www.zeehondencentrum.nl/en/how-to-help-2/become-a-volunteer-2/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Seehundstation Friedrichskoog",
+      "country": "Germany",
+      "place": "Friedrichskoog, Schleswig-Holstein",
+      "listingId": "308",
+      "urls": [
+        "https://www.seehundstation-friedrichskoog.de/praktikum/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Hegalaldia (Centre de Sauvegarde de la Faune Sauvage)",
+      "country": "France",
+      "place": "Ustaritz, Pyrénées-Atlantiques, Nouvelle-Aquitaine",
+      "listingId": "309",
+      "urls": [
+        "https://www.hegalaldia.org/vous-voulez-nous-aider/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Centre Athénas – SOS Faune Sauvage",
+      "country": "France",
+      "place": "L'Étoile, Jura, Bourgogne-Franche-Comté",
+      "listingId": "310",
+      "urls": [
+        "https://www.athenas.fr/events-category/recrutement/",
+        "https://www.athenas.fr/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Friends of Nature, People and Forests (FNPF) — Bali Wildlife Rescue Center",
+      "country": "Indonesia",
+      "place": "Tabanan, Bali",
+      "listingId": "311",
+      "urls": [
+        "https://www.fnpf.org/services/wildlife-rescue-centre-volunteering/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Friends of Nature, People and Forests (FNPF) — Nusa Penida & Kalimantan",
+      "country": "Indonesia",
+      "place": "Nusa Penida (Bali) & Jerumbun / Tanjung Puting National Park (Central Kalimantan)",
+      "listingId": "312",
+      "urls": [
+        "https://www.fnpf.org/services/nusa-penida-volunteering/",
+        "https://www.fnpf.org/services/kalimantan-volunteering/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Perhentian Turtle Project (PTP / Fuze Ecoteer)",
+      "country": "Malaysia",
+      "place": "Kampung Pasir Hantu (Perhentian Kecil) & Pantai Tiga Ruang (Perhentian Besar), Terengganu",
+      "listingId": "313",
+      "urls": [
+        "https://www.fuze-ecoteer.com/astra-portfolio/turtle-volunteer-conservation-project/",
+        "https://www.fuze-ecoteer.com/perhentian-turtle-conservation-internship/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "PULIHARA (formerly Lang Tengah Turtle Watch)",
+      "country": "Malaysia",
+      "place": "Pasir Tok Enjut (Turtle Bay), Pulau Lang Tengah & Pantai Chakar Hutan (Kerteh), Terengganu",
+      "listingId": "314",
+      "urls": [
+        "https://marineparksofmalaysia.com/redang/pulihara-lang-tengah-turtle-watch/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Tropical Research and Conservation Centre (TRACC)",
+      "country": "Malaysia",
+      "place": "Pom Pom Island, Semporna, Sabah (Borneo)",
+      "listingId": "315",
+      "urls": [
+        "https://tracc.org/prices/p/volunteer-at-tracc",
+        "https://tracc.org/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Large Marine Vertebrates Research Institute Philippines (LAMAVE)",
+      "country": "Philippines",
+      "place": "Puerto Princesa & Palawan Field Sites, Mimaropa",
+      "listingId": "316",
+      "urls": [
+        "https://www.lamave.org/volunteer"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Olive Ridley Project (ORP)",
+      "country": "Maldives",
+      "place": "Lhaviyani Atoll (Sea Turtle Health Institute) & Baa Atoll (Marine Turtle Rescue Centre)",
+      "listingId": "317",
+      "urls": [
+        "https://oliveridleyproject.org/sea-turtle-conservation-volunteer-programme-maldives/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Wildlife SOS",
+      "country": "India",
+      "place": "Agra & Mathura (Uttar Pradesh) and Bannerghatta Biological Park (Bengaluru, Karnataka)",
+      "listingId": "318",
+      "urls": [
+        "https://wildlifesos.org/get-involved/volunteer-with-us/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "WildOne Taiwan (社團法人臺灣野灣野生動物保育協會)",
+      "country": "Taiwan",
+      "place": "Chishang (Taitung County) & Linluo (Pingtung County)",
+      "listingId": "319",
+      "urls": [
+        "https://www.wildonetaiwan.org/join"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Friends of the Koala",
+      "country": "Australia",
+      "place": "East Lismore, Northern Rivers, New South Wales",
+      "listingId": "320",
+      "urls": [
+        "https://friendsofthekoala.org/volunteer/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Possumwood Wildlife",
+      "country": "Australia",
+      "place": "Bungendore (near Canberra), New South Wales",
+      "listingId": "321",
+      "urls": [
+        "https://www.possumwood.com.au/recovery-centre"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "South Island Wildlife Hospital",
+      "country": "New Zealand",
+      "place": "Northwood, Christchurch, Canterbury",
+      "listingId": "322",
+      "urls": [
+        "https://wildlifehospital.co.nz/volunteering/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Clinic for the Rehabilitation of Wildlife (CROW)",
+      "country": "United States",
+      "place": "Sanibel Island, Florida",
+      "listingId": "323",
+      "urls": [
+        "https://crowclinic.org/get-involved/student-programs-internships/",
+        "https://crowclinic.org/wp-content/uploads/2025/11/Student-Program-General-Info-Packet-11.2025.pdf"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "The Marine Mammal Center (TMMC)",
+      "country": "United States",
+      "place": "Sausalito (Marin Headlands), San Luis Obispo, Monterey & Kailua-Kona (Hawaii)",
+      "listingId": "324",
+      "urls": [
+        "https://www.marinemammalcenter.org/opportunities"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Hope for Wildlife",
+      "country": "Canada",
+      "place": "Seaforth, Nova Scotia",
+      "listingId": "325",
+      "urls": [
+        "https://www.hopeforwildlife.net/internships"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Le Nichoir Wild Bird Conservation Centre",
+      "country": "Canada",
+      "place": "Hudson, Quebec",
+      "listingId": "326",
+      "urls": [
+        "https://lenichoir.org/volunteering/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Barbados Sea Turtle Project (BSTP / Wild Isle Trust)",
+      "country": "Barbados",
+      "place": "Wildey / Bridgetown, St. Michael",
+      "listingId": "327",
+      "urls": [
+        "https://barbadosseaturtles.org/volunteer"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Rainforest Awareness Rescue and Education Center (RAREC)",
+      "country": "Peru",
+      "place": "Iquitos (Carretera Iquitos-Nauta Km 47), Loreto",
+      "listingId": "328",
+      "urls": [
+        "https://rarec.org/animal-care-volunteer-program/",
+        "https://rarec.org/our-programs/wildlife-conservation-internship/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Hoja Nueva",
+      "country": "Peru",
+      "place": "Las Piedras / Madre de Dios River, Madre de Dios",
+      "listingId": "329",
+      "urls": [
+        "https://hojanueva.org/get-involved/courses/wildlife-rehab-course/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Merazonia Wildlife Rehabilitation Center",
+      "country": "Ecuador",
+      "place": "Mera, Pastaza Province",
+      "listingId": "330",
+      "urls": [
+        "https://www.merazonia.org/volunteer",
+        "https://www.merazonia.org/faqs"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "NATUWA Wildlife Sanctuary (Santuario de Fauna Silvestre NATUWA)",
+      "country": "Costa Rica",
+      "place": "Aranjuez (Pitahaya) & Monteverde, Puntarenas",
+      "listingId": "331",
+      "urls": [
+        "https://www.natuwa.com/biology-internships-in-costa-rica/",
+        "https://www.volunteerworld.com/en/review/natuwa-wildlife-sanctuary"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Nosara Wildlife Sanctuary (Workaway Host 252357334278)",
+      "country": "Costa Rica",
+      "place": "Nosara, Guanacaste",
+      "listingId": "332",
+      "urls": [
+        "https://www.workaway.info/en/host/252357334278"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Tesoro Beachfront Sea Turtle Sanctuary & Eco-Community (Workaway Host 325783292488)",
+      "country": "Nicaragua",
+      "place": "Pacific Coast near León, León Department",
+      "listingId": "333",
+      "urls": [
+        "https://www.workaway.info/en/host/325783292488"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Barra de Pacuare Community Sea Turtle Hatchery Support (Worldpackers Host 69313)",
+      "country": "Costa Rica",
+      "place": "Barra de Pacuare (via Bataan / Siquirres), Limón Province",
+      "listingId": "334",
+      "urls": [
+        "https://www.worldpackers.com/positions/69313/details"
+      ],
+      "status": "imported"
     }
   ],
   "pendingSources": [
@@ -585,6 +989,34 @@
       "organization": "Turtle Foundation — Sea Turtle Conservation Internship Listing",
       "country": "Cape Verde / Indonesia",
       "url": "https://www.turtle-foundation.org/en/",
+      "decision": "needs_recheck",
+      "reason": "Decision reported in supplied research; this entry is outside the active map list."
+    },
+    {
+      "organization": "Lwiro Primates Rehabilitation Center (CRPL)",
+      "country": "Democratic Republic of the Congo",
+      "url": "https://www.lwiroprimates.org/",
+      "decision": "needs_recheck",
+      "reason": "Decision reported in supplied research; this entry is outside the active map list."
+    },
+    {
+      "organization": "Angkor Centre for Conservation of Biodiversity (ACCB)",
+      "country": "Cambodia",
+      "url": "https://www.accbcambodia.org/",
+      "decision": "needs_recheck",
+      "reason": "Decision reported in supplied research; this entry is outside the active map list."
+    },
+    {
+      "organization": "Endangered Primate Rescue Center (EPRC) Cuc Phuong",
+      "country": "Vietnam",
+      "url": "https://www.eprc.asia/",
+      "decision": "needs_recheck",
+      "reason": "Decision reported in supplied research; this entry is outside the active map list."
+    },
+    {
+      "organization": "Worldpackers Position 114362 — Sea Turtle Protection & Beach Conservation",
+      "country": "Costa Rica",
+      "url": "https://www.worldpackers.com/positions/114362/details",
       "decision": "needs_recheck",
       "reason": "Decision reported in supplied research; this entry is outside the active map list."
     }

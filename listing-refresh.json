@@ -1,11 +1,11 @@
 {
   "updatedAt": "2026-10-14",
   "mode": "Supplied research import; listing content not independently revalidated during import.",
-  "previousCount": 251,
-  "currentCount": 50,
-  "countryCount": 27,
+  "previousCount": 50,
+  "currentCount": 89,
+  "countryCount": 39,
   "continentCount": 6,
-  "directHostCount": 44,
+  "directHostCount": 80,
   "coverage": [
     {
       "source": "Workaway (https://www.workaway.info/)",
@@ -127,20 +127,102 @@
       "included_count": "36",
       "blocked_or_unchecked": "Kids Saving the Rainforest /internships subpage returned server error (main /volunteer page verified); Instituto Vida Livre Brazil and Wildtierstation Berlin/Hamburg had no readable international volunteer/internship openings at check time",
       "next_step": "Expand Portuguese (CETAS/CRAS Brazil), French (Réseau Centres de Soins Faune Sauvage), and German (Wildtierstationen) direct website checks for 2027 spring/summer intakes"
+    },
+    {
+      "source": "Pass 2 — European Wildlife Hospitals, Marine Centres & Sanctuary Networks (EARS / Réseau Centres de Soins / National Parks)",
+      "region": "Europe (Spain, Italy, Greece, Netherlands, Germany, France)",
+      "categories_or_queries": "Multilingual ES/IT/FR/DE/NL/EN queries: Fundació MONA, CRAM Barcelona, GREFA Madrid, Monte Adone Bologna, ANIMA Greece, ARCTUROS Greece, Sealcentre Pieterburen WEC, Seehundstation Friedrichskoog, Hegalaldia, Centre Athénas",
+      "pages_checked": "14 official host volunteer/internship/recruitment pages read directly",
+      "pagination_complete": "true",
+      "candidates_screened": "22",
+      "included_count": "10",
+      "blocked_or_unchecked": "Several local German Wildtierstationen and UK regional hospitals only accept local day-shift volunteers or had closed 2026 summer cohorts",
+      "next_step": "Follow up with Portuguese (CRAS) and Scandinavian wildlife rehabilitation centers for 2027 spring intakes"
+    },
+    {
+      "source": "Pass 2 — PASA, African Vulture & Marine Megafauna Research Organizations",
+      "region": "Africa (Kenya, South Africa, Cameroon, Mozambique, DRC)",
+      "categories_or_queries": "Colobus Conservation Kenya, Primate C.A.R.E. South Africa, VulPro South Africa, Limbe Wildlife Centre Cameroon, Love The Oceans Mozambique, Lwiro Primates DRC",
+      "pages_checked": "11 official host and partner pages read directly",
+      "pagination_complete": "true",
+      "candidates_screened": "14",
+      "included_count": "5",
+      "blocked_or_unchecked": "Lwiro Primates DRC (lwiroprimates.org) main site loaded but did not publish a structured volunteer fee/application subpage (logged as needs_recheck)",
+      "next_step": "Email info@lwiroprimates.org and check J.A.C.K. DRC and Chimp Eden South Africa for 2027 international volunteer resumption"
+    },
+    {
+      "source": "Pass 2 — Asian & East Asian Wildlife Rescue, Marine Turtle & Megafauna Centers",
+      "region": "Asia (Indonesia, Malaysia, Philippines, Maldives, India, Taiwan)",
+      "categories_or_queries": "FNPF Bali/Nusa Penida/Kalimantan, Perhentian Turtle Project (Fuze Ecoteer), PULIHARA Lang Tengah, TRACC Borneo, LAMAVE Philippines, Olive Ridley Project Maldives, Wildlife SOS India, WildOne Taiwan (野灣)",
+      "pages_checked": "15 official host volunteer/internship/job pages read directly",
+      "pagination_complete": "true",
+      "candidates_screened": "19",
+      "included_count": "9",
+      "blocked_or_unchecked": "LAMAVE's 2026 Whale Shark Research cohort is full (logged as closed; LAMAVE's Marine Turtle and Shark Catch tracks are open and included); EPRC Vietnam had no active volunteer subpage",
+      "next_step": "Check Taiwan Biodiversity Research Institute (生物多樣性研究所急救站) and Pingtung Rescue Center (屏科大收容中心) during winter for 2027 summer student internship announcements"
+    },
+    {
+      "source": "Pass 2 — Australian & New Zealand Native Wildlife Hospitals & Recovery Centres (WReNNZ & NSW/VIC Shelters)",
+      "region": "Oceania (Australia & New Zealand)",
+      "categories_or_queries": "Friends of the Koala (Lismore NSW), Possumwood Wildlife (Bungendore NSW), South Island Wildlife Hospital (Christchurch NZ), Dunedin Wildlife Hospital (Otago NZ)",
+      "pages_checked": "6 official host pages read directly",
+      "pagination_complete": "true",
+      "candidates_screened": "10",
+      "included_count": "3",
+      "blocked_or_unchecked": "Dunedin Wildlife Hospital explicitly states it cannot accept international students for placements at this time (logged as local_only)",
+      "next_step": "Screen additional NSW/QLD/VIC wombats and macropod shelters (e.g., Sleepy Burrows, Bohollow, Currumbin Wildlife Hospital) for live-in placements"
+    },
+    {
+      "source": "Pass 2 — North American, Caribbean & South American Teaching Hospitals & Rainforest Centres",
+      "region": "North America (USA, Canada, Barbados, Costa Rica) & South America (Peru, Ecuador)",
+      "categories_or_queries": "CROW Sanibel FL, The Marine Mammal Center CA, Hope for Wildlife NS Canada, Le Nichoir QC Canada, Barbados Sea Turtle Project, RAREC Iquitos Peru, Hoja Nueva Madre de Dios Peru, Merazonia Ecuador, NATUWA Costa Rica, Wolf Hollow WA, PAWS WA",
+      "pages_checked": "16 official host pages and student information packets read directly",
+      "pagination_complete": "true",
+      "candidates_screened": "18",
+      "included_count": "9",
+      "blocked_or_unchecked": "Wolf Hollow WA and PAWS Wildlife Center WA have closed their 2026 internship intakes and will post 2027 applications in winter 2026/2027 (both logged as closed)",
+      "next_step": "Re-check Wolf Hollow WA and PAWS WA in December 2026 / January 2027 when Summer 2027 paid/housed internships open"
+    },
+    {
+      "source": "Pass 2 — Country-Targeted Workaway & Worldpackers Host Deep-Dive",
+      "region": "North America (Costa Rica, Nicaragua) & Global",
+      "categories_or_queries": "site:workaway.info/en/host & site:worldpackers.com/positions country-level wildlife sanctuary, sea turtle, and rehabilitation queries",
+      "pages_checked": "8 host/position detail pages read directly (Workaway 252357334278 Nosara CR, Workaway 325783292488 Nicaragua, Worldpackers 69313 Barra de Pacuare CR, Worldpackers 114362)",
+      "pagination_complete": "false",
+      "candidates_screened": "24",
+      "included_count": "3",
+      "blocked_or_unchecked": "Worldpackers position 114362 blocked by access wall (logged as needs_recheck); remaining Workaway/Worldpackers results were domestic pet/farm stays or duplicates of Pass 1 hosts",
+      "next_step": "Run targeted site:workaway.info/en/host searches for Colombia, Chile, and South Africa"
     }
   ],
   "candidateDecisions": {
-    "out_of_scope": 4,
-    "local_only": 2,
-    "closed": 3,
-    "needs_recheck": 7,
-    "duplicate": 4
+    "out_of_scope": 5,
+    "local_only": 3,
+    "closed": 6,
+    "needs_recheck": 11,
+    "duplicate": 6
   },
   "verificationMeaning": "Checked JSON structure, coordinates within valid ranges, dates and link schemes. Imported source claims and programme terms are supplied research, not fresh verification. Coordinates have not been geographically revalidated.",
   "weeklyAutomation": false,
   "inputFiles": [
-    "wildlife-opportunities.json",
-    "research-coverage.csv",
-    "pending-and-excluded.csv"
+    "wildlife-opportunities (1).json",
+    "research-coverage (1).csv",
+    "pending-and-excluded.csv",
+    "wildlife-opportunities (2).json",
+    "research-coverage (2).csv",
+    "pending-and-excluded (1).csv"
+  ],
+  "addedCount": 39,
+  "batches": [
+    {
+      "label": "First supplied batch",
+      "count": 50,
+      "folder": "research-imports/2026-10-14"
+    },
+    {
+      "label": "Second supplied batch",
+      "count": 39,
+      "folder": "research-imports/2026-10-14-pass2"
+    }
   ]
 }

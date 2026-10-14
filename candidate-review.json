@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-10-14",
-  "origin": "Supplied research",
+  "origin": "Supplied research (two batches)",
   "candidates": [
     {
       "organization": "PAWS-PATAS",
@@ -137,6 +137,83 @@
     },
     {
       "organization": "Batch Exclusion — Domestic Dog/Cat Shelters, Pet Sitting, Horse Stables, Hobby Farms & Eco-Hostels (Workaway, Worldpackers, HelpX, HelpStay)",
+      "country": "Multiple",
+      "url": "https://www.workaway.info/",
+      "decision": "out_of_scope",
+      "reason": "Decision reported in supplied research; this entry is outside the active map list."
+    },
+    {
+      "organization": "Dunedin Wildlife Hospital",
+      "country": "New Zealand",
+      "url": "https://www.wildlifehospitaldunedin.org.nz/training",
+      "decision": "local_only",
+      "reason": "Decision reported in supplied research; this entry is outside the active map list."
+    },
+    {
+      "organization": "Wolf Hollow Wildlife Rehabilitation Center",
+      "country": "United States",
+      "url": "https://wolfhollowwildlife.org/about-wolf-hollow/careers/about-our-program/",
+      "decision": "closed",
+      "reason": "Decision reported in supplied research; this entry is outside the active map list."
+    },
+    {
+      "organization": "Progressive Animal Welfare Society (PAWS) Wildlife Rehabilitation Center",
+      "country": "United States",
+      "url": "https://www.paws.org/about/careers/internships-externships/wildlife-rehabilitation-internship/",
+      "decision": "closed",
+      "reason": "Decision reported in supplied research; this entry is outside the active map list."
+    },
+    {
+      "organization": "LAMAVE — Whale Shark Research and Conservation Project (Palawan)",
+      "country": "Philippines",
+      "url": "https://www.lamave.org/volunteer",
+      "decision": "closed",
+      "reason": "Decision reported in supplied research; this entry is outside the active map list."
+    },
+    {
+      "organization": "Lwiro Primates Rehabilitation Center (CRPL)",
+      "country": "Democratic Republic of the Congo",
+      "url": "https://www.lwiroprimates.org/",
+      "decision": "needs_recheck",
+      "reason": "Decision reported in supplied research; this entry is outside the active map list."
+    },
+    {
+      "organization": "Angkor Centre for Conservation of Biodiversity (ACCB)",
+      "country": "Cambodia",
+      "url": "https://www.accbcambodia.org/",
+      "decision": "needs_recheck",
+      "reason": "Decision reported in supplied research; this entry is outside the active map list."
+    },
+    {
+      "organization": "Endangered Primate Rescue Center (EPRC) Cuc Phuong",
+      "country": "Vietnam",
+      "url": "https://www.eprc.asia/",
+      "decision": "needs_recheck",
+      "reason": "Decision reported in supplied research; this entry is outside the active map list."
+    },
+    {
+      "organization": "Worldpackers Position 114362 — Sea Turtle Protection & Beach Conservation",
+      "country": "Costa Rica",
+      "url": "https://www.worldpackers.com/positions/114362/details",
+      "decision": "needs_recheck",
+      "reason": "Decision reported in supplied research; this entry is outside the active map list."
+    },
+    {
+      "organization": "African Impact — Colobus Monkey Conservation Volunteer Project",
+      "country": "Kenya",
+      "url": "https://africanimpact.com/volunteer-projects/wildlife-conservation/colobus-monkey-conservation-volunteer-project/",
+      "decision": "duplicate",
+      "reason": "Decision reported in supplied research; this entry is outside the active map list."
+    },
+    {
+      "organization": "Volunteer World — Baboon Rehabilitator & Care-Giver (Phalaborwa) & NATUWA Wildlife Sanctuary",
+      "country": "South Africa / Costa Rica",
+      "url": "https://www.volunteerworld.com/en/volunteer-program/baboon-orphan-caretaker-in-south-africa-phalaborwa",
+      "decision": "duplicate",
+      "reason": "Decision reported in supplied research; this entry is outside the active map list."
+    },
+    {
+      "organization": "Pass 2 Batch Exclusion — Permaculture Farms, Yoga/Surf Hostels & Domestic Animal Care (Workaway & Worldpackers)",
       "country": "Multiple",
       "url": "https://www.workaway.info/",
       "decision": "out_of_scope",
