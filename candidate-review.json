@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-10-14",
-  "origin": "Supplied research (two batches)",
+  "origin": "Supplied research (three batches)",
   "candidates": [
     {
       "organization": "PAWS-PATAS",
@@ -217,6 +217,86 @@
       "country": "Multiple",
       "url": "https://www.workaway.info/",
       "decision": "out_of_scope",
+      "reason": "Decision reported in supplied research; this entry is outside the active map list."
+    },
+    {
+      "organization": "Melrakkasetur Íslands (The Arctic Fox Centre)",
+      "country": "Iceland",
+      "url": "https://www.melrakki.is/generated-homepage/home/about-us/",
+      "decision": "closed",
+      "title": "Hornstrandir & Súðavík Arctic Fox Volunteer Program",
+      "reason": "Decision reported in supplied research; this entry is outside the active map list."
+    },
+    {
+      "organization": "SEA LIFE Trust Beluga Whale Sanctuary & Puffin Rescue Centre",
+      "country": "Iceland",
+      "url": "https://belugasanctuary.sealifetrust.org/en/about-us/job-opportunities/",
+      "decision": "closed",
+      "title": "Puffling Season Volunteer (Summer Track)",
+      "reason": "Decision reported in supplied research; this entry is outside the active map list."
+    },
+    {
+      "organization": "Dyrenes Beskyttelse",
+      "country": "Denmark",
+      "url": "https://www.dyrenesbeskyttelse.dk/vildtplejestationer",
+      "decision": "local_only",
+      "title": "Frivillig på Vildtplejestationer (Wildlife Care Stations)",
+      "reason": "Decision reported in supplied research; this entry is outside the active map list."
+    },
+    {
+      "organization": "FugleAdvokatene",
+      "country": "Norway",
+      "url": "https://frivillig.no/fugleadvokatene/rehabhjem-for-byfugler-i-nod",
+      "decision": "local_only",
+      "title": "Rehabhjem for byfugler i nød (Urban Bird Foster Home)",
+      "reason": "Decision reported in supplied research; this entry is outside the active map list."
+    },
+    {
+      "organization": "Pingtung Rescue Center for Endangered Wild Animals (國立屏東科技大學保育類野生動物收容中心 PTRC)",
+      "country": "Taiwan",
+      "url": "https://ptrc.npust.edu.tw/2026/01/%F0%9F%90%BE%E3%80%90%E5%B0%8B%E6%89%BE%E9%87%8E%E6%80%A7%E6%88%B0%E5%8F%8B%EF%BC%812026-%E5%B9%B4%E6%9A%91%E6%9C%9F%E5%AF%A6%E7%BF%92%E7%94%9F%E7%86%B1%E8%A1%80%E6%8B%9B%E5%8B%9F%E4%B8%AD%EF%BC%81/",
+      "decision": "closed",
+      "title": "College Summer Wildlife Care, Veterinary Clinical & Outreach Internship",
+      "reason": "Decision reported in supplied research; this entry is outside the active map list."
+    },
+    {
+      "organization": "Associação Mata Ciliar — Centro de Reabilitação de Animais Silvestres (CRAS)",
+      "country": "Brazil",
+      "url": "https://mataciliar.org.br/site/programa-de-estagio/",
+      "decision": "closed",
+      "title": "Programa de Estágio e Voluntariado em Fauna Silvestre",
+      "reason": "Decision reported in supplied research; this entry is outside the active map list."
+    },
+    {
+      "organization": "Tenikwa Wildlife Rehabilitation & Awareness Centre",
+      "country": "South Africa",
+      "url": "https://tenikwa.com/cats-in-conservation/",
+      "decision": "out_of_scope",
+      "title": "Cats in Conservation / EcoKidz Family Program",
+      "reason": "Decision reported in supplied research; this entry is outside the active map list."
+    },
+    {
+      "organization": "RIAS (Centro de Recuperação e Investigação de Animais Selvagens)",
+      "country": "Portugal",
+      "url": "https://www.rias.pt/o-rias/",
+      "decision": "needs_recheck",
+      "title": "Voluntariado e Estágios no Parque Natural da Ria Formosa",
+      "reason": "Decision reported in supplied research; this entry is outside the active map list."
+    },
+    {
+      "organization": "Everlasting Nature of Asia (ELNA) — Ogasawara Marine Center",
+      "country": "Japan",
+      "url": "https://bonin-ocean.net/en/",
+      "decision": "needs_recheck",
+      "title": "Green Sea Turtle Conservation Volunteering",
+      "reason": "Decision reported in supplied research; this entry is outside the active map list."
+    },
+    {
+      "organization": "Workaway Nordic Homestead Hosts (926589197127 & 587733987422)",
+      "country": "Norway",
+      "url": "https://www.workaway.info/en/host/926589197127",
+      "decision": "out_of_scope",
+      "title": "Arctic Permaculture & Homestead Work Exchange",
       "reason": "Decision reported in supplied research; this entry is outside the active map list."
     }
   ]

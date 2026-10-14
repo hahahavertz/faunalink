@@ -9,6 +9,7 @@
     return rule.validUntil&&today>rule.validUntil?{...rule,...rule.expired,status:'unverified',stayLimit:null}:rule;
   };
   window.hkTravelCard=country=>{
+    if(window.countryName(country)==='Hong Kong')return '<section class="travel-info" aria-label="Hong Kong placement eligibility"><h3>Hong Kong placement</h3><p>Check any local resident, student or professional requirements, training and registration with the host.</p></section>';
     const rule=window.hkTravelRule(country),work=rule.placement;
     const sources=[...rule.sources,...work.sources].filter((source,index,array)=>array.findIndex(item=>item.url===source.url)===index);
     const sourceLinks=sources.map(source=>`<a href="${escape(source.url)}" target="_blank" rel="noopener noreferrer">${escape(source.label)} ↗</a>`).join('');

@@ -5296,5 +5296,2123 @@
       }
     ],
     "id": "334"
+  },
+  {
+    "id": "335",
+    "title": "University Wildlife Conservation & Husbandry Internship",
+    "organization": "Nordens Ark",
+    "organizationType": "wildlife_conservation_ngo",
+    "url": "https://en.nordensark.se/about-nordens-ark/internship/",
+    "source": "Nordens Ark Official Website",
+    "sourceUrl": "https://en.nordensark.se/",
+    "summary": "University student internship at Sweden's endangered species breeding and reintroduction foundation on the Åby Fjord, assisting animal keepers with daily husbandry for threatened Nordic and Palearctic wildlife.",
+    "description": "Interns work alongside zookeepers across different animal sections at Nordens Ark, gaining practical experience in animal husbandry, enclosure maintenance, diet preparation, and conservation breeding for endangered Nordic and cold-climate species. Placement requires a minimum of three weeks, ability to work independently and in a team, and enrolment at a university or college (with priority given to students in natural sciences).",
+    "country": "Sweden",
+    "region": "Europe",
+    "city": "Hunnebostrand",
+    "stateOrProvince": "Västra Götaland County",
+    "locationText": "Åby säteri, 456 93 Hunnebostrand, Sweden",
+    "coordinates": {
+      "lat": 58.4436,
+      "lng": 11.4344,
+      "precision": "exact"
+    },
+    "species": [
+      "Eurasian lynx",
+      "Wolverine",
+      "Peregrine falcon",
+      "White-backed woodpecker",
+      "Lesser white-fronted goose",
+      "European green toad",
+      "Snow leopard",
+      "Amur tiger"
+    ],
+    "animalGroup": [
+      "mammals",
+      "birds",
+      "amphibians",
+      "big_cats",
+      "carnivores"
+    ],
+    "categories": [
+      "husbandry",
+      "conservation_breeding",
+      "reintroduction",
+      "internship"
+    ],
+    "programType": "internship",
+    "compensation": "unpaid",
+    "cost": {
+      "hasFee": false,
+      "amount": 0,
+      "currency": "SEK",
+      "period": "total",
+      "includes": [
+        "On-site student accommodation (subject to limited availability)"
+      ],
+      "excludes": [
+        "Flights",
+        "Meals",
+        "Local transport"
+      ],
+      "costNotes": "No internship fee. Nordens Ark offers free student accommodation to a limited extent; nearby hostels are also available."
+    },
+    "accommodationProvided": true,
+    "foodProvided": false,
+    "stipend": null,
+    "minAge": 18,
+    "minStayWeeks": 3,
+    "maxStayWeeks": null,
+    "startDates": [
+      "Year-round by university placement agreement (high demand; apply well in advance)"
+    ],
+    "applicationDeadline": null,
+    "availabilityStatus": "ongoing_programme",
+    "availabilityNote": "Ongoing university internship programme; because demand for internships is very high, applicants must contact nordensark@nordensark.se well in advance to check seasonal slot availability.",
+    "requirements": [
+      "Currently studying at a university or college (priority given to natural sciences students)",
+      "Minimum placement duration of 3 weeks",
+      "Able to work both independently and in a team"
+    ],
+    "languages": [
+      "Swedish",
+      "English"
+    ],
+    "featured": false,
+    "lastChecked": "2026-10-14",
+    "confidence": "high",
+    "verificationNotes": "Verified directly via Nordens Ark's official English internship page (https://en.nordensark.se/about-nordens-ark/internship/).",
+    "importedId": "fl-p3-001",
+    "place": "Hunnebostrand, Västra Götaland County",
+    "lat": 58.4436,
+    "lng": 11.4344,
+    "locationPrecision": "exact",
+    "locationSource": "Åby säteri, 456 93 Hunnebostrand, Sweden",
+    "platform": "Host website",
+    "alternateSources": [],
+    "wildlifeCategory": "husbandry, conservation breeding, reintroduction, internship",
+    "opportunityType": "Internship",
+    "minimumStay": "3 weeks",
+    "fees": "No internship fee. Nordens Ark offers free student accommodation to a limited extent; nearby hostels are also available.",
+    "accommodation": "Included: On-site student accommodation (subject to limited availability). Not included: Flights, Meals, Local transport",
+    "eligibility": "Currently studying at a university or college (priority given to natural sciences students); Minimum placement duration of 3 weeks; Able to work both independently and in a team; Minimum age: 18",
+    "internationalApplicants": "unclear",
+    "postedDate": null,
+    "postedDateSource": null,
+    "sourceStatus": "supplied_research",
+    "welfareAssessment": "Not independently assessed"
+  },
+  {
+    "id": "336",
+    "title": "Sub-Arctic Marine Conservation, Cetacean & Plankton Research Volunteering / Internship",
+    "organization": "Ocean Missions",
+    "organizationType": "marine_conservation_ngo",
+    "url": "https://oceanmissions.org/volunteer/",
+    "source": "Ocean Missions Official Website",
+    "sourceUrl": "https://oceanmissions.org/",
+    "summary": "Seasonal field conservation and marine research placement in Húsavík, Iceland (May–September), conducting whale research, zooplankton/microplastic sampling, eDNA studies, and OSPAR coastal surveys in Skjálfandi Bay.",
+    "description": "Working closely with the University of Iceland's Húsavík Research Centre and North Sailing, volunteers and interns assist with ongoing citizen science and marine conservation projects in Skjálfandi Bay during the May–September field season. Core duties include zooplankton, microplastics, and marine macro-fauna sampling, eDNA sampling, managing the Ocean Missions conservation exhibition, leading guided conservation tours and OSPAR beach litter monitoring in Langanes, and promoting sustainable whale watching.",
+    "country": "Iceland",
+    "region": "Europe",
+    "city": "Húsavík",
+    "stateOrProvince": "Norðurland eystra",
+    "locationText": "Húsavík Harbour, Skjálfandi Bay, 640 Húsavík, Iceland",
+    "coordinates": {
+      "lat": 66.0449,
+      "lng": -17.3389,
+      "precision": "exact"
+    },
+    "species": [
+      "Humpback whale",
+      "Blue whale",
+      "Minke whale",
+      "White-beaked dolphin",
+      "Harbour porpoise",
+      "Atlantic puffin",
+      "Arctic tern"
+    ],
+    "animalGroup": [
+      "marine_mammals",
+      "cetaceans",
+      "seabirds",
+      "marine_life"
+    ],
+    "categories": [
+      "marine_research",
+      "field_monitoring",
+      "citizen_science",
+      "environmental_education"
+    ],
+    "programType": "internship",
+    "compensation": "unpaid",
+    "cost": {
+      "hasFee": null,
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "includes": [
+        "Field research training",
+        "Vessel survey access"
+      ],
+      "excludes": [
+        "Flights",
+        "Personal expenses"
+      ],
+      "costNotes": "Exact living/accommodation cost details are provided upon selection; Erasmus+ traineeship grants are commonly used by European students."
+    },
+    "accommodationProvided": null,
+    "foodProvided": false,
+    "stipend": null,
+    "minAge": 18,
+    "minStayWeeks": 8,
+    "maxStayWeeks": 20,
+    "startDates": [
+      "May to September field season (annual application deadline in mid-January)"
+    ],
+    "applicationDeadline": "2027-01-17",
+    "availabilityStatus": "ongoing_programme",
+    "availabilityNote": "Field season runs May–September each year; applications (CV and motivation letter to info@oceanmissions.org) close mid-January for the upcoming summer season.",
+    "requirements": [
+      "University students or graduates in marine biology, environmental science, science communication, or related fields",
+      "Strong English communication skills and readiness to work outdoors in sub-Arctic weather and at sea"
+    ],
+    "languages": [
+      "English"
+    ],
+    "featured": true,
+    "lastChecked": "2026-10-14",
+    "confidence": "high",
+    "verificationNotes": "Verified directly via Ocean Missions' official volunteer/internship page (https://oceanmissions.org/volunteer/).",
+    "importedId": "fl-p3-002",
+    "place": "Húsavík, Norðurland eystra",
+    "lat": 66.0449,
+    "lng": -17.3389,
+    "locationPrecision": "exact",
+    "locationSource": "Húsavík Harbour, Skjálfandi Bay, 640 Húsavík, Iceland",
+    "platform": "Host website",
+    "alternateSources": [],
+    "wildlifeCategory": "marine research, field monitoring, citizen science, environmental education",
+    "opportunityType": "Internship",
+    "minimumStay": "8–20 weeks",
+    "fees": "Exact living/accommodation cost details are provided upon selection; Erasmus+ traineeship grants are commonly used by European students.",
+    "accommodation": "Included: Field research training, Vessel survey access. Not included: Flights, Personal expenses",
+    "eligibility": "University students or graduates in marine biology, environmental science, science communication, or related fields; Strong English communication skills and readiness to work outdoors in sub-Arctic weather and at sea; Minimum age: 18",
+    "internationalApplicants": "unclear",
+    "postedDate": null,
+    "postedDateSource": null,
+    "sourceStatus": "supplied_research",
+    "welfareAssessment": "Not independently assessed"
+  },
+  {
+    "id": "337",
+    "title": "Cetacean Research Internship & Field Volunteering",
+    "organization": "Whale Wise",
+    "organizationType": "marine_research_charity",
+    "url": "https://whalewise.org/iceland/",
+    "source": "Whale Wise Official Website",
+    "sourceUrl": "https://whalewise.org/",
+    "summary": "Field cetacean research internships and volunteering in Húsavík and the Westfjords of Iceland, using drone photogrammetry, blow sampling, photo-identification, and land/boat surveys to study humpback and baleen whales.",
+    "description": "Whale Wise is a UK- and Iceland-active marine mammal research charity working alongside the University of Iceland's Húsavík Research Centre. Interns and research volunteers monitor whale responses to vessel traffic and fishing gear entanglements, collect drone-based photogrammetry and whale-blow samples, conduct land-based theodolite tracking and boat-based photo-ID surveys across 23 recorded cetacean species in Icelandic waters, and assist with community outreach.",
+    "country": "Iceland",
+    "region": "Europe",
+    "city": "Húsavík",
+    "stateOrProvince": "Norðurland eystra & Westfjords",
+    "locationText": "Húsavík (Skjálfandi Bay) and Westfjords (Steingrímsfjörður), Iceland",
+    "coordinates": {
+      "lat": 66.0449,
+      "lng": -17.3389,
+      "precision": "approximate"
+    },
+    "species": [
+      "Humpback whale",
+      "Minke whale",
+      "White-beaked dolphin",
+      "Harbour porpoise",
+      "Orca",
+      "Blue whale",
+      "Fin whale",
+      "Sperm whale"
+    ],
+    "animalGroup": [
+      "marine_mammals",
+      "cetaceans"
+    ],
+    "categories": [
+      "marine_research",
+      "photo_identification",
+      "drone_monitoring",
+      "field_surveys"
+    ],
+    "programType": "internship",
+    "compensation": "unpaid",
+    "cost": {
+      "hasFee": null,
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "includes": [
+        "Research supervision and field training"
+      ],
+      "excludes": [
+        "International travel"
+      ],
+      "costNotes": "Whale Wise runs seasonal research internships in Iceland; check directly via info@whalewise.org for cohort-specific accommodation and living arrangements."
+    },
+    "accommodationProvided": null,
+    "foodProvided": false,
+    "stipend": null,
+    "minAge": 18,
+    "minStayWeeks": 4,
+    "maxStayWeeks": 12,
+    "startDates": [
+      "Summer/Autumn Icelandic field research cohorts"
+    ],
+    "applicationDeadline": null,
+    "availabilityStatus": "ongoing_programme",
+    "availabilityNote": "Recurring seasonal research internship programme; prospective interns can monitor upcoming cohort openings or contact info@whalewise.org.",
+    "requirements": [
+      "Background or active degree study in biology, marine science, ecology, or conservation",
+      "Ability to conduct long land-based and boat-based observation shifts in cold coastal conditions"
+    ],
+    "languages": [
+      "English"
+    ],
+    "featured": false,
+    "lastChecked": "2026-10-14",
+    "confidence": "high",
+    "verificationNotes": "Verified via Whale Wise's official Iceland research and team pages (https://whalewise.org/iceland/ and https://whalewise.org/team/).",
+    "importedId": "fl-p3-003",
+    "place": "Húsavík, Norðurland eystra & Westfjords",
+    "lat": 66.0449,
+    "lng": -17.3389,
+    "locationPrecision": "approximate",
+    "locationSource": "Húsavík (Skjálfandi Bay) and Westfjords (Steingrímsfjörður), Iceland",
+    "platform": "Host website",
+    "alternateSources": [],
+    "wildlifeCategory": "marine research, photo identification, drone monitoring, field surveys",
+    "opportunityType": "Internship",
+    "minimumStay": "4–12 weeks",
+    "fees": "Whale Wise runs seasonal research internships in Iceland; check directly via info@whalewise.org for cohort-specific accommodation and living arrangements.",
+    "accommodation": "Included: Research supervision and field training. Not included: International travel",
+    "eligibility": "Background or active degree study in biology, marine science, ecology, or conservation; Ability to conduct long land-based and boat-based observation shifts in cold coastal conditions; Minimum age: 18",
+    "internationalApplicants": "unclear",
+    "postedDate": null,
+    "postedDateSource": null,
+    "sourceStatus": "supplied_research",
+    "welfareAssessment": "Not independently assessed"
+  },
+  {
+    "id": "338",
+    "title": "Commercial Diving Supervisor & Facilities Manager (Sanctuary Operations)",
+    "organization": "SEA LIFE Trust Beluga Whale Sanctuary & Puffin Rescue Centre",
+    "organizationType": "wildlife_sanctuary",
+    "url": "https://belugasanctuary.sealifetrust.org/en/about-us/job-opportunities/",
+    "source": "SEA LIFE Trust Beluga Whale Sanctuary Official Website",
+    "sourceUrl": "https://belugasanctuary.sealifetrust.org/en/",
+    "summary": "Full-time Commercial Diving Supervisor & Facilities Manager role at the world's first open-water Beluga Whale Sanctuary and Puffin Rescue Centre in Vestmannaeyjar (Westman Islands), Iceland.",
+    "description": "Based on Heimaey in the Westman Islands (Vestmannaeyjar), the SEA LIFE Trust Beluga Whale Sanctuary cares for resident beluga whales Little Grey and Little White in Klettsvík Bay alongside Iceland's only dedicated Puffin Rescue Centre. The Commercial Diving Supervisor & Facilities Manager works closely with the animal care and marine operations teams to oversee sea-sanctuary net/mooring diving inspections, landside hospital life-support systems, and marine infrastructure. Note: International applicants outside the EEA require an Icelandic work permit, which takes 8–10 months to process.",
+    "country": "Iceland",
+    "region": "Europe",
+    "city": "Vestmannaeyjar",
+    "stateOrProvince": "Southern Region (Suðurland)",
+    "locationText": "Ægisgata 2, 900 Vestmannaeyjar, Heimaey, Iceland",
+    "coordinates": {
+      "lat": 63.4422,
+      "lng": -20.2731,
+      "precision": "exact"
+    },
+    "species": [
+      "Beluga whale",
+      "Atlantic puffin"
+    ],
+    "animalGroup": [
+      "marine_mammals",
+      "cetaceans",
+      "seabirds"
+    ],
+    "categories": [
+      "sanctuary_operations",
+      "commercial_diving",
+      "facilities_management",
+      "paid_job"
+    ],
+    "programType": "paid_job",
+    "compensation": "paid",
+    "cost": {
+      "hasFee": false,
+      "amount": 0,
+      "currency": "ISK",
+      "period": "total",
+      "includes": [],
+      "excludes": [],
+      "costNotes": "Paid full-time position; salary commensurate with qualifications."
+    },
+    "accommodationProvided": false,
+    "foodProvided": false,
+    "stipend": "Full-time paid salary",
+    "minAge": 18,
+    "minStayWeeks": 52,
+    "maxStayWeeks": null,
+    "startDates": [
+      "Open until filled (note: 8–10 month Icelandic work permit processing for non-EEA nationals)"
+    ],
+    "applicationDeadline": null,
+    "availabilityStatus": "accepting_applications",
+    "availabilityNote": "Full-time Commercial Diving Supervisor & Facilities Manager role is actively accepting applications via info@belugasanctuary.com. (The seasonal Puffling Rescue Volunteer programme is closed for 2026 and reopens for Summer 2027, logged in pending-and-excluded.csv.)",
+    "requirements": [
+      "Commercial diving supervisor qualification and facilities/life-support maintenance experience",
+      "Fluent English; eligibility to work in Iceland/EEA or willingness to undergo the 8–10 month Icelandic work permit process"
+    ],
+    "languages": [
+      "English"
+    ],
+    "featured": true,
+    "lastChecked": "2026-10-14",
+    "confidence": "high",
+    "verificationNotes": "Verified directly via SEA LIFE Trust Beluga Whale Sanctuary's official Job Opportunities page (https://belugasanctuary.sealifetrust.org/en/about-us/job-opportunities/).",
+    "importedId": "fl-p3-004",
+    "place": "Vestmannaeyjar, Southern Region (Suðurland)",
+    "lat": 63.4422,
+    "lng": -20.2731,
+    "locationPrecision": "exact",
+    "locationSource": "Ægisgata 2, 900 Vestmannaeyjar, Heimaey, Iceland",
+    "platform": "Host website",
+    "alternateSources": [],
+    "wildlifeCategory": "sanctuary operations, commercial diving, facilities management, paid job",
+    "opportunityType": "Paid job",
+    "minimumStay": "52 weeks",
+    "fees": "Paid full-time position; salary commensurate with qualifications.",
+    "accommodation": null,
+    "eligibility": "Commercial diving supervisor qualification and facilities/life-support maintenance experience; Fluent English; eligibility to work in Iceland/EEA or willingness to undergo the 8–10 month Icelandic work permit process; Minimum age: 18",
+    "internationalApplicants": "unclear",
+    "postedDate": null,
+    "postedDateSource": null,
+    "sourceStatus": "supplied_research",
+    "welfareAssessment": "Not independently assessed"
+  },
+  {
+    "id": "339",
+    "title": "Wild Bird Rehabilitation Volunteer Program",
+    "organization": "Stockholms Vildfågel Rehab (SVR)",
+    "organizationType": "wildlife_rehabilitation_center",
+    "url": "https://svr.nu/",
+    "source": "Stockholms Vildfågel Rehab Official Website",
+    "sourceUrl": "https://svr.nu/",
+    "summary": "Volunteer wild bird rehabilitation and rescue transport with Stockholm County's permitted avian rehabilitation centre, caring for sick, injured, orphaned, and oiled native Swedish birds.",
+    "description": "Stockholms Vildfågel Rehab (SVR) operates under permits from the Swedish County Administrative Board (Länsstyrelsen) and the Swedish Board of Agriculture (Jordbruksverket) in collaboration with the National Veterinary Institute (SVA). Volunteers assist with feeding, cleaning cages and aviaries, species-specific rehabilitation protocols, and emergency wildlife transport for injured raptors, owls, waterfowl, seabirds, and songbirds across Stockholm County.",
+    "country": "Sweden",
+    "region": "Europe",
+    "city": "Stockholm",
+    "stateOrProvince": "Stockholm County",
+    "locationText": "Stockholm County, Sweden",
+    "coordinates": {
+      "lat": 59.3293,
+      "lng": 18.0686,
+      "precision": "approximate"
+    },
+    "species": [
+      "Tawny owl",
+      "Eurasian eagle-owl",
+      "Common buzzard",
+      "White-tailed eagle",
+      "Mute swan",
+      "Common swift",
+      "Herring gull",
+      "Native Swedish songbirds"
+    ],
+    "animalGroup": [
+      "birds",
+      "raptors",
+      "seabirds"
+    ],
+    "categories": [
+      "wildlife_rehabilitation",
+      "avian_care",
+      "wildlife_rescue"
+    ],
+    "programType": "volunteering",
+    "compensation": "unpaid",
+    "cost": {
+      "hasFee": false,
+      "amount": 0,
+      "currency": "SEK",
+      "period": "total",
+      "includes": [
+        "On-site avian rehabilitation training"
+      ],
+      "excludes": [
+        "Accommodation",
+        "Meals",
+        "Local transport"
+      ],
+      "costNotes": "No volunteer fee; non-residential local/regional volunteering."
+    },
+    "accommodationProvided": false,
+    "foodProvided": false,
+    "stipend": null,
+    "minAge": 18,
+    "minStayWeeks": null,
+    "maxStayWeeks": null,
+    "startDates": [
+      "Year-round shifts (peak baby bird and raptor intake from April to September)"
+    ],
+    "applicationDeadline": null,
+    "availabilityStatus": "ongoing_programme",
+    "availabilityNote": "Ongoing volunteer recruitment for bird care at the rehabilitation facility and volunteer rescue drivers across Stockholm.",
+    "requirements": [
+      "Minimum age 18",
+      "Reliable commitment to regular shifts during peak spring/summer avian season"
+    ],
+    "languages": [
+      "Swedish",
+      "English"
+    ],
+    "featured": false,
+    "lastChecked": "2026-10-14",
+    "confidence": "high",
+    "verificationNotes": "Verified directly via Stockholms Vildfågel Rehab's official website (https://svr.nu/).",
+    "importedId": "fl-p3-005",
+    "place": "Stockholm, Stockholm County",
+    "lat": 59.3293,
+    "lng": 18.0686,
+    "locationPrecision": "approximate",
+    "locationSource": "Stockholm County, Sweden",
+    "platform": "Host website",
+    "alternateSources": [],
+    "wildlifeCategory": "wildlife rehabilitation, avian care, wildlife rescue",
+    "opportunityType": "Volunteering",
+    "minimumStay": null,
+    "fees": "No volunteer fee; non-residential local/regional volunteering.",
+    "accommodation": "Included: On-site avian rehabilitation training. Not included: Accommodation, Meals, Local transport",
+    "eligibility": "Minimum age 18; Reliable commitment to regular shifts during peak spring/summer avian season; Minimum age: 18",
+    "internationalApplicants": "unclear",
+    "postedDate": null,
+    "postedDateSource": null,
+    "sourceStatus": "supplied_research",
+    "welfareAssessment": "Not independently assessed"
+  },
+  {
+    "id": "340",
+    "title": "Wild Animal Rescue Team — Fauna Conservation Volunteer",
+    "organization": "Kadoorie Farm and Botanic Garden (KFBG) — Wild Animal Rescue Centre",
+    "organizationType": "wildlife_rehabilitation_center",
+    "url": "https://www.kfbg.org/en/volunteer/fauna-conservation-volunteer/wild-animal-rescue-team",
+    "source": "Kadoorie Farm and Botanic Garden Official Website",
+    "sourceUrl": "https://www.kfbg.org/en/volunteer/fauna-conservation-volunteer",
+    "summary": "Hands-on wildlife hospital husbandry and rehabilitation volunteering at Hong Kong's primary Wild Animal Rescue Centre (WARC) in Tai Po, caring for native raptors, mammals, reptiles, and confiscated exotic wildlife.",
+    "description": "Operated by Kadoorie Farm and Botanic Garden (KFBG) under authorization from the Agriculture, Fisheries and Conservation Department (AFCD), the Wild Animal Rescue Centre (WARC) treats injured native Hong Kong wildlife and confiscations from the illegal wildlife trade. Volunteers assist the Rescue Team with indoor and outdoor enclosure cleaning, diet preparation, feeding, enrichment, and pre-release conditioning. Requires a minimum commitment of 2 days per week for 12 months.",
+    "country": "Hong Kong",
+    "region": "Asia",
+    "city": "Tai Po",
+    "stateOrProvince": "New Territories",
+    "locationText": "Lam Kam Road, Tai Po, New Territories, Hong Kong SAR",
+    "coordinates": {
+      "lat": 22.4319,
+      "lng": 114.1169,
+      "precision": "exact"
+    },
+    "species": [
+      "Black-eared kite",
+      "Crested serpent eagle",
+      "Collared scops owl",
+      "Northern red muntjac (barking deer)",
+      "Leopard cat",
+      "Chinese pangolin",
+      "Burmese python",
+      "Confiscated exotic tortoises and parrots"
+    ],
+    "animalGroup": [
+      "birds",
+      "raptors",
+      "mammals",
+      "reptiles"
+    ],
+    "categories": [
+      "wildlife_rehabilitation",
+      "husbandry",
+      "illegal_wildlife_trade_rescue"
+    ],
+    "programType": "volunteering",
+    "compensation": "unpaid",
+    "cost": {
+      "hasFee": false,
+      "amount": 0,
+      "currency": "HKD",
+      "period": "total",
+      "includes": [
+        "On-site training and supervision"
+      ],
+      "excludes": [
+        "Accommodation",
+        "Transport"
+      ],
+      "costNotes": "Free non-residential volunteer programme."
+    },
+    "accommodationProvided": false,
+    "foodProvided": false,
+    "stipend": null,
+    "minAge": 18,
+    "minStayWeeks": 52,
+    "maxStayWeeks": null,
+    "startDates": [
+      "Rolling year-round intake via online KFBG volunteer application form"
+    ],
+    "applicationDeadline": null,
+    "availabilityStatus": "accepting_applications",
+    "availabilityNote": "Actively accepting online applications via the KFBG Fauna Conservation Volunteer portal; best suited to Hong Kong residents or long-term visa holders due to the 12-month (2 days/week) minimum commitment.",
+    "requirements": [
+      "Minimum commitment of 2 days per week (weekdays or weekends) for at least 12 months",
+      "Valid tetanus vaccination required",
+      "Physically fit for outdoor manual work in Hong Kong's subtropical climate; prior animal care experience preferred"
+    ],
+    "languages": [
+      "English",
+      "Cantonese"
+    ],
+    "featured": true,
+    "lastChecked": "2026-10-14",
+    "confidence": "high",
+    "verificationNotes": "Verified directly via KFBG's official Wild Animal Rescue Team volunteer page (https://www.kfbg.org/en/volunteer/fauna-conservation-volunteer/wild-animal-rescue-team).",
+    "importedId": "fl-p3-006",
+    "place": "Tai Po, New Territories",
+    "lat": 22.4319,
+    "lng": 114.1169,
+    "locationPrecision": "exact",
+    "locationSource": "Lam Kam Road, Tai Po, New Territories, Hong Kong SAR",
+    "platform": "Host website",
+    "alternateSources": [],
+    "wildlifeCategory": "wildlife rehabilitation, husbandry, illegal wildlife trade rescue",
+    "opportunityType": "Volunteering",
+    "minimumStay": "52 weeks",
+    "fees": "Free non-residential volunteer programme.",
+    "accommodation": "Included: On-site training and supervision. Not included: Accommodation, Transport",
+    "eligibility": "Minimum commitment of 2 days per week (weekdays or weekends) for at least 12 months; Valid tetanus vaccination required; Physically fit for outdoor manual work in Hong Kong's subtropical climate; prior animal care experience preferred; Minimum age: 18",
+    "internationalApplicants": "unclear",
+    "postedDate": null,
+    "postedDateSource": null,
+    "sourceStatus": "supplied_research",
+    "welfareAssessment": "Not independently assessed"
+  },
+  {
+    "id": "341",
+    "title": "Conservation Volunteer Task Force & Marine Wildlife Conservation Volunteering",
+    "organization": "Ocean Park Conservation Foundation Hong Kong (OPCFHK)",
+    "organizationType": "wildlife_conservation_foundation",
+    "url": "https://www.opcf.org.hk/en/volunteering",
+    "source": "OPCFHK Official Website",
+    "sourceUrl": "https://www.opcf.org.hk/en/",
+    "summary": "Field conservation, coastal habitat restoration, and wildlife education volunteering with Ocean Park Conservation Foundation Hong Kong, supporting Chinese white dolphins, finless porpoises, and horseshoe crabs.",
+    "description": "Ocean Park Conservation Foundation Hong Kong (OPCFHK) runs Hong Kong's marine mammal stranding response team alongside regional Asian wildlife conservation projects. Volunteers join the OPCFHK Volunteer Task Force to assist with horseshoe crab and coastal habitat surveys, marine debris and ghost-gear cleanups, community conservation education, and fundraising events supporting Indo-Pacific humpback dolphins (Chinese white dolphins), finless porpoises, and green sea turtles.",
+    "country": "Hong Kong",
+    "region": "Asia",
+    "city": "Aberdeen",
+    "stateOrProvince": "Hong Kong Island",
+    "locationText": "180 Wong Chuk Hang Road, Aberdeen, Hong Kong Island, Hong Kong SAR",
+    "coordinates": {
+      "lat": 22.2467,
+      "lng": 114.1758,
+      "precision": "exact"
+    },
+    "species": [
+      "Indo-Pacific humpback dolphin (Chinese white dolphin)",
+      "Indo-Pacific finless porpoise",
+      "Green sea turtle",
+      "Chinese horseshoe crab",
+      "Golden birdwing butterfly"
+    ],
+    "animalGroup": [
+      "marine_mammals",
+      "cetaceans",
+      "sea_turtles",
+      "invertebrates"
+    ],
+    "categories": [
+      "marine_conservation",
+      "habitat_restoration",
+      "environmental_education"
+    ],
+    "programType": "volunteering",
+    "compensation": "unpaid",
+    "cost": {
+      "hasFee": false,
+      "amount": 0,
+      "currency": "HKD",
+      "period": "total",
+      "includes": [
+        "Volunteer orientation and activity materials"
+      ],
+      "excludes": [
+        "Accommodation",
+        "Meals"
+      ],
+      "costNotes": "No programme fee."
+    },
+    "accommodationProvided": false,
+    "foodProvided": false,
+    "stipend": null,
+    "minAge": 18,
+    "minStayWeeks": null,
+    "maxStayWeeks": null,
+    "startDates": [
+      "Year-round volunteer activities and university student conservation schemes"
+    ],
+    "applicationDeadline": null,
+    "availabilityStatus": "accepting_applications",
+    "availabilityNote": "Accepting volunteer registrations via the OPCFHK volunteering portal.",
+    "requirements": [
+      "Passion for Asian wildlife and marine conservation",
+      "Fluency in Cantonese or English"
+    ],
+    "languages": [
+      "Cantonese",
+      "English"
+    ],
+    "featured": false,
+    "lastChecked": "2026-10-14",
+    "confidence": "high",
+    "verificationNotes": "Verified directly via OPCFHK's official volunteering page (https://www.opcf.org.hk/en/volunteering).",
+    "importedId": "fl-p3-007",
+    "place": "Aberdeen, Hong Kong Island",
+    "lat": 22.2467,
+    "lng": 114.1758,
+    "locationPrecision": "exact",
+    "locationSource": "180 Wong Chuk Hang Road, Aberdeen, Hong Kong Island, Hong Kong SAR",
+    "platform": "Host website",
+    "alternateSources": [],
+    "wildlifeCategory": "marine conservation, habitat restoration, environmental education",
+    "opportunityType": "Volunteering",
+    "minimumStay": null,
+    "fees": "No programme fee.",
+    "accommodation": "Included: Volunteer orientation and activity materials. Not included: Accommodation, Meals",
+    "eligibility": "Passion for Asian wildlife and marine conservation; Fluency in Cantonese or English; Minimum age: 18",
+    "internationalApplicants": "unclear",
+    "postedDate": null,
+    "postedDateSource": null,
+    "sourceStatus": "supplied_research",
+    "welfareAssessment": "Not independently assessed"
+  },
+  {
+    "id": "342",
+    "title": "Live Cetacean & Sea Turtle Stranding Rehabilitation Volunteer Program",
+    "organization": "Taiwan Cetacean Society (中華鯨豚協會 TCS)",
+    "organizationType": "marine_rescue_ngo",
+    "url": "https://www.whale.org.tw/portal_a1.php?owner_num=a1_604892&button_num=a1",
+    "source": "Taiwan Cetacean Society Official Website",
+    "sourceUrl": "https://www.whale.org.tw/",
+    "summary": "24-hour shift-based rescue and rehabilitation pool volunteering for live stranded whales, dolphins, and sea turtles at Badouzi Stranding Center in Keelung, Taiwan.",
+    "description": "As a core member of the Marine Animal Rescue Network (MARN) under Taiwan's Ocean Conservation Administration, the Taiwan Cetacean Society (TCS) responds to cetacean and sea turtle strandings across Taiwan and operates the Badouzi Cetacean & Sea Turtle Stranding Rescue Station in Keelung. Volunteers work 4-hour day or overnight shifts supporting live stranded whales and dolphins in rehabilitation pools, recording respiration and vital signs, preparing nutrition, disinfecting equipment, and assisting wildlife veterinarians. Strict animal welfare rules prohibit petting, slapping, or recreational contact.",
+    "country": "Taiwan",
+    "region": "Asia",
+    "city": "Keelung",
+    "stateOrProvince": "Keelung City & New Taipei City",
+    "locationText": "Badouzi Cetacean Rescue Station, Beining Road, Zhongzheng District, Keelung City (HQ: Shulin District, New Taipei City), Taiwan",
+    "coordinates": {
+      "lat": 25.1436,
+      "lng": 121.7972,
+      "precision": "exact"
+    },
+    "species": [
+      "Risso's dolphin",
+      "Pantropical spotted dolphin",
+      "Pygmy killer whale",
+      "Fraser's dolphin",
+      "Melon-headed whale",
+      "Green sea turtle",
+      "Olive ridley sea turtle"
+    ],
+    "animalGroup": [
+      "marine_mammals",
+      "cetaceans",
+      "sea_turtles"
+    ],
+    "categories": [
+      "stranding_response",
+      "wildlife_rehabilitation",
+      "veterinary_support",
+      "marine_conservation"
+    ],
+    "programType": "volunteering",
+    "compensation": "unpaid",
+    "cost": {
+      "hasFee": false,
+      "amount": 0,
+      "currency": "TWD",
+      "period": "total",
+      "includes": [
+        "On-site chest waders (青蛙裝)",
+        "Hot showers and rest area for overnight shift volunteers",
+        "Hands-on rescue station orientation"
+      ],
+      "excludes": [
+        "Meals",
+        "Sleeping bag (for overnight shift volunteers)",
+        "Transport"
+      ],
+      "costNotes": "No fee to volunteer during live stranding rehabilitation operations; TCS also runs regular volunteer training courses (https://tcswhale.org.tw/event)."
+    },
+    "accommodationProvided": true,
+    "foodProvided": false,
+    "stipend": null,
+    "minAge": 18,
+    "minStayWeeks": null,
+    "maxStayWeeks": null,
+    "startDates": [
+      "Ongoing volunteer training courses plus 4-hour day/night shifts during active live stranding rescues"
+    ],
+    "applicationDeadline": null,
+    "availabilityStatus": "ongoing_programme",
+    "availabilityNote": "Ongoing training and standby shift recruitment via Taiwan Cetacean Society's official portal.",
+    "requirements": [
+      "Aged 18 to 64 in good physical health (no prior experience required; on-site training provided)",
+      "Strict adherence to veterinary biosecurity and no-petting rules"
+    ],
+    "languages": [
+      "Mandarin Chinese",
+      "English (basic support)"
+    ],
+    "featured": true,
+    "lastChecked": "2026-10-14",
+    "confidence": "high",
+    "verificationNotes": "Verified directly via Taiwan Cetacean Society's official stranding volunteer recruitment page (https://www.whale.org.tw/portal_a1.php?owner_num=a1_604892&button_num=a1) and event portal (https://tcswhale.org.tw/event).",
+    "importedId": "fl-p3-008",
+    "place": "Keelung, Keelung City & New Taipei City",
+    "lat": 25.1436,
+    "lng": 121.7972,
+    "locationPrecision": "exact",
+    "locationSource": "Badouzi Cetacean Rescue Station, Beining Road, Zhongzheng District, Keelung City (HQ: Shulin District, New Taipei City), Taiwan",
+    "platform": "Host website",
+    "alternateSources": [],
+    "wildlifeCategory": "stranding response, wildlife rehabilitation, veterinary support, marine conservation",
+    "opportunityType": "Volunteering",
+    "minimumStay": null,
+    "fees": "No fee to volunteer during live stranding rehabilitation operations; TCS also runs regular volunteer training courses (https://tcswhale.org.tw/event).",
+    "accommodation": "Included: On-site chest waders (青蛙裝), Hot showers and rest area for overnight shift volunteers, Hands-on rescue station orientation. Not included: Meals, Sleeping bag (for overnight shift volunteers), Transport",
+    "eligibility": "Aged 18 to 64 in good physical health (no prior experience required; on-site training provided); Strict adherence to veterinary biosecurity and no-petting rules; Minimum age: 18",
+    "internationalApplicants": "unclear",
+    "postedDate": null,
+    "postedDateSource": null,
+    "sourceStatus": "supplied_research",
+    "welfareAssessment": "Not independently assessed"
+  },
+  {
+    "id": "343",
+    "title": "Asiatic Black Bear Conservation & Human-Wildlife Conflict Management Internship",
+    "organization": "Picchio Wildlife Research Center (ピッキオ)",
+    "organizationType": "wildlife_research_ngo",
+    "url": "https://www.wildlife-picchio.com/conservation/bears/",
+    "source": "Picchio Wildlife Research Center Official Website",
+    "sourceUrl": "https://www.wildlife-picchio.com/",
+    "summary": "Field wildlife management and research internship in Karuizawa, Nagano Prefecture, Japan, radio-tracking Japanese black bears and working with Karelian Bear Dogs to prevent human-bear conflict.",
+    "description": "Picchio Wildlife Research Center pioneers non-lethal human-bear conflict management and wildlife research in the forests of Karuizawa at the foot of Mount Asama. Interns work alongside wildlife biologists from spring through autumn to radio-track collared Japanese black bears (Ursus thibetanus japonicus) daily, deploy trained Karelian Bear Dogs to chase bears away from residential neighborhoods without harming them, maintain bear-proof community dumpsters and electric farm fences, assist with emergency tranquilization and release of bears accidentally caught in deer snares, and monitor Japanese giant flying squirrels via nest-box cameras.",
+    "country": "Japan",
+    "region": "Asia",
+    "city": "Karuizawa",
+    "stateOrProvince": "Nagano Prefecture",
+    "locationText": "Hoshino, Karuizawa-machi, Kitasaku-gun, Nagano 389-0194, Japan",
+    "coordinates": {
+      "lat": 36.3586,
+      "lng": 138.5908,
+      "precision": "exact"
+    },
+    "species": [
+      "Japanese black bear (Ursus thibetanus japonicus)",
+      "Japanese giant flying squirrel (Musasabi)",
+      "Japanese serow",
+      "Japanese macaque"
+    ],
+    "animalGroup": [
+      "bears",
+      "mammals",
+      "carnivores"
+    ],
+    "categories": [
+      "human_wildlife_conflict",
+      "telemetry_tracking",
+      "field_research",
+      "internship"
+    ],
+    "programType": "internship",
+    "compensation": "unpaid",
+    "cost": {
+      "hasFee": false,
+      "amount": 0,
+      "currency": "JPY",
+      "period": "total",
+      "includes": [
+        "Field equipment and telemetry training"
+      ],
+      "excludes": [
+        "Flights",
+        "Personal expenses"
+      ],
+      "costNotes": "No programme fee advertised; contact Picchio directly via the internship inquiry link on the bear conservation page for seasonal dormitory/housing details."
+    },
+    "accommodationProvided": null,
+    "foodProvided": false,
+    "stipend": null,
+    "minAge": 18,
+    "minStayWeeks": 4,
+    "maxStayWeeks": 24,
+    "startDates": [
+      "Spring through Autumn bear activity season (April–November)"
+    ],
+    "applicationDeadline": null,
+    "availabilityStatus": "ongoing_programme",
+    "availabilityNote": "Active internship recruitment via Picchio's official bear conservation portal ('Learn about our internships / Apply for internship').",
+    "requirements": [
+      "Strong interest in wildlife biology, human-wildlife coexistence, and outdoor fieldwork",
+      "Valid driver's license and conversational Japanese or English depending on role track"
+    ],
+    "languages": [
+      "Japanese",
+      "English"
+    ],
+    "featured": true,
+    "lastChecked": "2026-10-14",
+    "confidence": "high",
+    "verificationNotes": "Verified directly via Picchio Wildlife Research Center's official English Bear Conservation & Internship page (https://www.wildlife-picchio.com/conservation/bears/).",
+    "importedId": "fl-p3-009",
+    "place": "Karuizawa, Nagano Prefecture",
+    "lat": 36.3586,
+    "lng": 138.5908,
+    "locationPrecision": "exact",
+    "locationSource": "Hoshino, Karuizawa-machi, Kitasaku-gun, Nagano 389-0194, Japan",
+    "platform": "Host website",
+    "alternateSources": [],
+    "wildlifeCategory": "human wildlife conflict, telemetry tracking, field research, internship",
+    "opportunityType": "Internship",
+    "minimumStay": "4–24 weeks",
+    "fees": "No programme fee advertised; contact Picchio directly via the internship inquiry link on the bear conservation page for seasonal dormitory/housing details.",
+    "accommodation": "Included: Field equipment and telemetry training. Not included: Flights, Personal expenses",
+    "eligibility": "Strong interest in wildlife biology, human-wildlife coexistence, and outdoor fieldwork; Valid driver's license and conversational Japanese or English depending on role track; Minimum age: 18",
+    "internationalApplicants": "unclear",
+    "postedDate": null,
+    "postedDateSource": null,
+    "sourceStatus": "supplied_research",
+    "welfareAssessment": "Not independently assessed"
+  },
+  {
+    "id": "344",
+    "title": "Veterinary & Animal Welfare Wildlife Rehabilitation Volunteering",
+    "organization": "Güirá Oga (Fundación de Historia Natural Félix de Azara)",
+    "organizationType": "wildlife_rehabilitation_center",
+    "url": "https://guiraoga.com.ar/language/es/voluntariado/",
+    "source": "Güirá Oga Official Website",
+    "sourceUrl": "https://guiraoga.com.ar/",
+    "summary": "Two-track wildlife rehabilitation volunteering (Veterinary Area and Animal Welfare Area) at Misiones' premier Atlantic Forest wildlife rescue center in Puerto Iguazú, Argentina.",
+    "description": "Located across 19 hectares of native Paranaense Atlantic Forest on Ruta Nacional 12 in Puerto Iguazú, Güirá Oga rescues, rehabilitates, and releases injured and trafficked subtropical wildlife. Volunteers work daily from 08:00 to 16:00 across one of two tracks (minimum 15 days): (1) Veterinary Area (exclusively for 3rd-year+ veterinary medicine students who have passed Semiology and enrolled in Pharmacology, assisting veterinarians with clinical procedures, anesthesia, and treatments); or (2) Animal Welfare Area (open to anyone 18+ with no prior degree required, assisting keepers with diet preparation, feeding, environmental enrichment, and enclosure upkeep).",
+    "country": "Argentina",
+    "region": "South America",
+    "city": "Puerto Iguazú",
+    "stateOrProvince": "Misiones",
+    "locationText": "Ruta Nacional 12 Km 1638, N3370 Puerto Iguazú, Misiones, Argentina",
+    "coordinates": {
+      "lat": -25.6308,
+      "lng": -54.5528,
+      "precision": "exact"
+    },
+    "species": [
+      "Toco toucan",
+      "Red-and-green macaw",
+      "Harpy eagle",
+      "Ocelot",
+      "Puma",
+      "South American coati",
+      "Black-and-gold howler monkey",
+      "Azara's capuchin",
+      "Southern tamandua",
+      "Lowland tapir"
+    ],
+    "animalGroup": [
+      "birds",
+      "raptors",
+      "mammals",
+      "primates",
+      "big_cats"
+    ],
+    "categories": [
+      "wildlife_rehabilitation",
+      "veterinary_internship",
+      "husbandry",
+      "enrichment"
+    ],
+    "programType": "volunteering",
+    "compensation": "unpaid",
+    "cost": {
+      "hasFee": null,
+      "amount": null,
+      "currency": null,
+      "period": null,
+      "includes": [
+        "Daily veterinary or animal welfare supervision"
+      ],
+      "excludes": [
+        "Flights",
+        "Personal insurance"
+      ],
+      "costNotes": "Contact voluntarios@fundacionazara.org.ar for current on-site residence availability and board details."
+    },
+    "accommodationProvided": null,
+    "foodProvided": false,
+    "stipend": null,
+    "minAge": 18,
+    "minStayWeeks": 2,
+    "maxStayWeeks": 12,
+    "startDates": [
+      "Year-round rolling intake (minimum 15 days)"
+    ],
+    "applicationDeadline": null,
+    "availabilityStatus": "accepting_applications",
+    "availabilityNote": "Actively accepting applications for both the Veterinary Area and Animal Welfare Area tracks via voluntarios@fundacionazara.org.ar.",
+    "requirements": [
+      "Minimum age 18 and minimum stay of 15 days (08:00 to 16:00 shift schedule)",
+      "Veterinary track requires 3rd-year+ veterinary student status (Semiology passed, Pharmacology enrolled); Animal Welfare track is open to all backgrounds"
+    ],
+    "languages": [
+      "Spanish",
+      "Portuguese",
+      "English (basic)"
+    ],
+    "featured": true,
+    "lastChecked": "2026-10-14",
+    "confidence": "high",
+    "verificationNotes": "Verified directly via Güirá Oga's official volunteer page (https://guiraoga.com.ar/language/es/voluntariado/).",
+    "importedId": "fl-p3-010",
+    "place": "Puerto Iguazú, Misiones",
+    "lat": -25.6308,
+    "lng": -54.5528,
+    "locationPrecision": "exact",
+    "locationSource": "Ruta Nacional 12 Km 1638, N3370 Puerto Iguazú, Misiones, Argentina",
+    "platform": "Host website",
+    "alternateSources": [],
+    "wildlifeCategory": "wildlife rehabilitation, veterinary internship, husbandry, enrichment",
+    "opportunityType": "Volunteering",
+    "minimumStay": "2–12 weeks",
+    "fees": "Contact voluntarios@fundacionazara.org.ar for current on-site residence availability and board details.",
+    "accommodation": "Included: Daily veterinary or animal welfare supervision. Not included: Flights, Personal insurance",
+    "eligibility": "Minimum age 18 and minimum stay of 15 days (08:00 to 16:00 shift schedule); Veterinary track requires 3rd-year+ veterinary student status (Semiology passed, Pharmacology enrolled); Animal Welfare track is open to all backgrounds; Minimum age: 18",
+    "internationalApplicants": "unclear",
+    "postedDate": null,
+    "postedDateSource": null,
+    "sourceStatus": "supplied_research",
+    "welfareAssessment": "Not independently assessed"
+  },
+  {
+    "id": "345",
+    "title": "Black Howler Monkey, Capuchin & Puma Sanctuary Live-In Volunteering",
+    "organization": "Proyecto Carayá (Centro Argentino de Rescate, Rehabilitación y Conservación de Primates)",
+    "organizationType": "primate_and_wildlife_sanctuary",
+    "url": "https://proyectocaraya.org/voluntario-con-proyecto-caraya/",
+    "source": "Proyecto Carayá Official Website",
+    "sourceUrl": "https://proyectocaraya.org/",
+    "summary": "Live-in primate and puma sanctuary volunteering in the Sierras of La Cumbre, Córdoba, Argentina, rehabilitating over 170 rescued black howler monkeys, capuchin monkeys, and pumas.",
+    "description": "Founded more than 25 years ago in the Sierras Grandes near La Cumbre, Córdoba, Proyecto Carayá is Argentina's first open-sky primate rescue center, housing over 170 black-and-gold howler monkeys (Alouatta caraya), capuchin monkeys, and rescued pumas confiscated from illegal pet trafficking and laboratories. Volunteers live on-site for a minimum of 15 days and assist veterinarians and biologists with behavioural observation of free-ranging and troop-forming primates, cleaning quarantine enclosures, caring for orphaned infants, preparing diets, building feeders/shelters, and caring for rescued domestic animals on the reserve (mixed wildlife/domestic rescue with primary focus on primates and pumas).",
+    "country": "Argentina",
+    "region": "South America",
+    "city": "La Cumbre",
+    "stateOrProvince": "Córdoba",
+    "locationText": "Camino rural a Tío Mayu, La Cumbre, Punilla, Córdoba, Argentina",
+    "coordinates": {
+      "lat": -30.9819,
+      "lng": -64.4919,
+      "precision": "approximate"
+    },
+    "species": [
+      "Black-and-gold howler monkey (Alouatta caraya)",
+      "Brown capuchin monkey (Sapajus apella)",
+      "Puma (Puma concolor)"
+    ],
+    "animalGroup": [
+      "primates",
+      "big_cats",
+      "mammals"
+    ],
+    "categories": [
+      "primate_rehabilitation",
+      "sanctuary_care",
+      "behavioural_observation",
+      "husbandry"
+    ],
+    "programType": "volunteering",
+    "compensation": "unpaid",
+    "cost": {
+      "hasFee": true,
+      "amount": null,
+      "currency": "USD",
+      "period": "week",
+      "includes": [
+        "On-site shared rooms with wood-heated hot showers",
+        "All 3 daily meals (breakfast, lunch, dinner)",
+        "Sanctuary training and supervision"
+      ],
+      "excludes": [
+        "Transport to La Cumbre",
+        "Travel insurance"
+      ],
+      "costNotes": "Volunteers contribute a board-and-lodging fee that directly funds animal food, medications, and 3 daily meals plus on-site shared room accommodation; request current rate sheet via info@proyectocaraya.com."
+    },
+    "accommodationProvided": true,
+    "foodProvided": true,
+    "stipend": null,
+    "minAge": 18,
+    "minStayWeeks": 2,
+    "maxStayWeeks": null,
+    "startDates": [
+      "Year-round rolling intake (minimum 15 days, no maximum stay)"
+    ],
+    "applicationDeadline": null,
+    "availabilityStatus": "accepting_applications",
+    "availabilityNote": "Actively accepting live-in volunteers year-round via info@proyectocaraya.com.",
+    "requirements": [
+      "Minimum age 18 and minimum stay of 15 days",
+      "Adaptability to rustic off-grid mountain sanctuary life (solar lighting, wood-heated hot water)"
+    ],
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "featured": false,
+    "lastChecked": "2026-10-14",
+    "confidence": "high",
+    "verificationNotes": "Verified directly via Proyecto Carayá's official volunteer page (https://proyectocaraya.org/voluntario-con-proyecto-caraya/).",
+    "importedId": "fl-p3-011",
+    "place": "La Cumbre, Córdoba",
+    "lat": -30.9819,
+    "lng": -64.4919,
+    "locationPrecision": "approximate",
+    "locationSource": "Camino rural a Tío Mayu, La Cumbre, Punilla, Córdoba, Argentina",
+    "platform": "Host website",
+    "alternateSources": [],
+    "wildlifeCategory": "primate rehabilitation, sanctuary care, behavioural observation, husbandry",
+    "opportunityType": "Volunteering",
+    "minimumStay": "2 weeks",
+    "fees": "Volunteers contribute a board-and-lodging fee that directly funds animal food, medications, and 3 daily meals plus on-site shared room accommodation; request current rate sheet via info@proyectocaraya.com.",
+    "accommodation": "Included: On-site shared rooms with wood-heated hot showers, All 3 daily meals (breakfast, lunch, dinner), Sanctuary training and supervision. Not included: Transport to La Cumbre, Travel insurance",
+    "eligibility": "Minimum age 18 and minimum stay of 15 days; Adaptability to rustic off-grid mountain sanctuary life (solar lighting, wood-heated hot water); Minimum age: 18",
+    "internationalApplicants": "unclear",
+    "postedDate": null,
+    "postedDateSource": null,
+    "sourceStatus": "supplied_research",
+    "welfareAssessment": "Not independently assessed"
+  },
+  {
+    "id": "346",
+    "title": "Chilote Wildlife Rehabilitation, Veterinary Practicum & Telemetry Research Volunteering",
+    "organization": "Centro de Conservación de la Biodiversidad Chiloé Silvestre",
+    "organizationType": "wildlife_rehabilitation_center",
+    "url": "https://chiloesilvestre.cl/voluntariado/",
+    "source": "Chiloé Silvestre Official Website",
+    "sourceUrl": "https://chiloesilvestre.cl/",
+    "summary": "Year-round wildlife rehabilitation, veterinary internship, and telemetry research volunteering on Chiloé Island, Chile, protecting the endangered Southern pudú, Darwin's fox, marine otters, and penguins.",
+    "description": "Located on the Lacuy Peninsula in Ancud (Chiloé Archipelago, southern Chile), Chiloé Silvestre operates 365 days a year rescuing and rehabilitating iconic Patagonian and Valdivian temperate rainforest fauna. Participants join one of three structured tracks across summer, autumn, winter, and spring cohorts: (1) Wildlife Rehabilitation (primarily veterinary medicine and vet tech students/professionals plus general volunteers assisting with feeding, clinical care, and environmental enrichment); (2) Field Research & Telemetry (post-release tracking and population ecology); and (3) Environmental Education. On-site shared refuge housing (casa refugio for 8–10 people) is available.",
+    "country": "Chile",
+    "region": "South America",
+    "city": "Ancud (Chiloé Island)",
+    "stateOrProvince": "Los Lagos Region",
+    "locationText": "Península de Lacuy, Sector Nal Bajo, Ancud, Isla Grande de Chiloé, Chile",
+    "coordinates": {
+      "lat": -41.8294,
+      "lng": -73.9986,
+      "precision": "exact"
+    },
+    "species": [
+      "Southern pudú (Pudu puda)",
+      "Darwin's fox (Lycalopex fulvipes)",
+      "Marine otter / Chungungo (Lontra felina)",
+      "Southern river otter / Huillín (Lontra provocax)",
+      "Kodkod / Güiña (Leopardus guigna)",
+      "Magellanic penguin",
+      "Humboldt penguin",
+      "Chilote raptors and waterbirds"
+    ],
+    "animalGroup": [
+      "mammals",
+      "carnivores",
+      "marine_mammals",
+      "seabirds",
+      "raptors"
+    ],
+    "categories": [
+      "wildlife_rehabilitation",
+      "veterinary_internship",
+      "telemetry_research",
+      "environmental_education"
+    ],
+    "programType": "volunteering",
+    "compensation": "unpaid",
+    "cost": {
+      "hasFee": null,
+      "amount": null,
+      "currency": "CLP",
+      "period": null,
+      "includes": [
+        "Shared accommodation in the on-site Casa Refugio (capacity 8–10)",
+        "Clinical and field training"
+      ],
+      "excludes": [
+        "Flights/ferry to Chiloé",
+        "Personal food supplies"
+      ],
+      "costNotes": "Contact voluntariado@chiloesilvestre.cl or submit the online form for seasonal Casa Refugio utility contribution details."
+    },
+    "accommodationProvided": true,
+    "foodProvided": false,
+    "stipend": null,
+    "minAge": 18,
+    "minStayWeeks": 2,
+    "maxStayWeeks": 12,
+    "startDates": [
+      "Open 365 days/year across Summer (Jan–Feb), Autumn, Winter, and Spring cohorts"
+    ],
+    "applicationDeadline": null,
+    "availabilityStatus": "accepting_applications",
+    "availabilityNote": "Actively accepting applications across all three tracks via the online registration form on chiloesilvestre.cl/voluntariado/ or voluntariado@chiloesilvestre.cl.",
+    "requirements": [
+      "Minimum age 18; Rehabilitation track prioritizes Veterinary Medicine and Vet Tech students/graduates, though trained non-vet volunteers are also accepted",
+      "Readiness for cold, rainy southern Chilean coastal weather"
+    ],
+    "languages": [
+      "Spanish",
+      "English (basic)"
+    ],
+    "featured": true,
+    "lastChecked": "2026-10-14",
+    "confidence": "high",
+    "verificationNotes": "Verified directly via Chiloé Silvestre's official volunteering and internship page (https://chiloesilvestre.cl/voluntariado/).",
+    "importedId": "fl-p3-012",
+    "place": "Ancud (Chiloé Island), Los Lagos Region",
+    "lat": -41.8294,
+    "lng": -73.9986,
+    "locationPrecision": "exact",
+    "locationSource": "Península de Lacuy, Sector Nal Bajo, Ancud, Isla Grande de Chiloé, Chile",
+    "platform": "Host website",
+    "alternateSources": [],
+    "wildlifeCategory": "wildlife rehabilitation, veterinary internship, telemetry research, environmental education",
+    "opportunityType": "Volunteering",
+    "minimumStay": "2–12 weeks",
+    "fees": "Contact voluntariado@chiloesilvestre.cl or submit the online form for seasonal Casa Refugio utility contribution details.",
+    "accommodation": "Included: Shared accommodation in the on-site Casa Refugio (capacity 8–10), Clinical and field training. Not included: Flights/ferry to Chiloé, Personal food supplies",
+    "eligibility": "Minimum age 18; Rehabilitation track prioritizes Veterinary Medicine and Vet Tech students/graduates, though trained non-vet volunteers are also accepted; Readiness for cold, rainy southern Chilean coastal weather; Minimum age: 18",
+    "internationalApplicants": "unclear",
+    "postedDate": null,
+    "postedDateSource": null,
+    "sourceStatus": "supplied_research",
+    "welfareAssessment": "Not independently assessed"
+  },
+  {
+    "id": "347",
+    "title": "Sea Turtle Research, Rehabilitation & Conservation Training Internship (Programa de Capacitação)",
+    "organization": "Fundação Projeto TAMAR",
+    "organizationType": "marine_conservation_foundation",
+    "url": "https://tamar.org.br/interna.php?cod=207",
+    "source": "Fundação Projeto TAMAR Official Website",
+    "sourceUrl": "https://tamar.org.br/interna.php?cod=213",
+    "summary": "University sea turtle conservation and rehabilitation internship across Fundação Projeto TAMAR's research bases in Brazil (Bahia, São Paulo, Espírito Santo, Fernando de Noronha, Sergipe, and Santa Catarina).",
+    "description": "Operating since 1980 across the Brazilian coast and oceanic islands, Fundação Projeto TAMAR trains roughly 250 university students and recent graduates each year through its Programa de Capacitação. Interns assist biologists and veterinarians with sea turtle nesting beach patrols, hatchling emergence monitoring, sea turtle rehabilitation tank management, fisheries bycatch mitigation, satellite telemetry, and visitor center environmental education across bases in Praia do Forte (BA), Ubatuba (SP), Vitória/Regência (ES), Fernando de Noronha (PE), Aracaju (SE), and Florianópolis (SC).",
+    "country": "Brazil",
+    "region": "South America",
+    "city": "Praia do Forte (Mata de São João) & Multi-State Coastal Bases",
+    "stateOrProvince": "Bahia, São Paulo, Espírito Santo, Pernambuco, Sergipe & Santa Catarina",
+    "locationText": "Av. Farol Garcia D'Ávila, s/n, Praia do Forte, Mata de São João - BA (plus bases in Ubatuba-SP, Vitória-ES, Fernando de Noronha-PE, Aracaju-SE, Florianópolis-SC), Brazil",
+    "coordinates": {
+      "lat": -12.5769,
+      "lng": -38.0033,
+      "precision": "exact"
+    },
+    "species": [
+      "Loggerhead sea turtle (Caretta caretta)",
+      "Hawksbill sea turtle (Eretmochelys imbricata)",
+      "Leatherback sea turtle (Dermochelys coriacea)",
+      "Olive ridley sea turtle (Lepidochelys olivacea)",
+      "Green sea turtle (Chelonia mydas)"
+    ],
+    "animalGroup": [
+      "sea_turtles",
+      "reptiles",
+      "marine_life"
+    ],
+    "categories": [
+      "sea_turtle_conservation",
+      "wildlife_rehabilitation",
+      "field_monitoring",
+      "environmental_education",
+      "internship"
+    ],
+    "programType": "internship",
+    "compensation": "unpaid",
+    "cost": {
+      "hasFee": false,
+      "amount": 0,
+      "currency": "BRL",
+      "period": "total",
+      "includes": [
+        "Shared intern lodging (alojamento) at participating TAMAR research bases",
+        "Field and visitor center training"
+      ],
+      "excludes": [
+        "Travel to base",
+        "Personal meals (except where base-specific meal support applies)"
+      ],
+      "costNotes": "No internship fee; shared intern housing (alojamento) is provided at major bases such as Espírito Santo, Ubatuba, and Bahia."
+    },
+    "accommodationProvided": true,
+    "foodProvided": false,
+    "stipend": null,
+    "minAge": 18,
+    "minStayWeeks": 4,
+    "maxStayWeeks": 12,
+    "startDates": [
+      "Reproductive season (September–March) and year-round visitor center/rehabilitation intakes by state base"
+    ],
+    "applicationDeadline": null,
+    "availabilityStatus": "accepting_applications",
+    "availabilityNote": "Applications are submitted directly to the state coordination emails listed on https://tamar.org.br/interna.php?cod=219 (e.g., estagio.ubatuba@tamar.org.br, estagio.es@tamar.org.br, museu.praiadoforte@tamar.org.br).",
+    "requirements": [
+      "Undergraduate students or recent graduates in Biology, Veterinary Medicine, Oceanography, Fisheries Engineering, Ecology, or Environmental Management",
+      "CV and motivation letter submitted to the target regional base"
+    ],
+    "languages": [
+      "Portuguese",
+      "Spanish (comprehension)"
+    ],
+    "featured": true,
+    "lastChecked": "2026-10-14",
+    "confidence": "high",
+    "verificationNotes": "Verified directly via Fundação Projeto TAMAR's official Programa de Capacitação pages (https://tamar.org.br/interna.php?cod=207, cod=213, and cod=219).",
+    "importedId": "fl-p3-013",
+    "place": "Praia do Forte (Mata de São João) & Multi-State Coastal Bases, Bahia, São Paulo, Espírito Santo, Pernambuco, Sergipe & Santa Catarina",
+    "lat": -12.5769,
+    "lng": -38.0033,
+    "locationPrecision": "exact",
+    "locationSource": "Av. Farol Garcia D'Ávila, s/n, Praia do Forte, Mata de São João - BA (plus bases in Ubatuba-SP, Vitória-ES, Fernando de Noronha-PE, Aracaju-SE, Florianópolis-SC), Brazil",
+    "platform": "Host website",
+    "alternateSources": [],
+    "wildlifeCategory": "sea turtle conservation, wildlife rehabilitation, field monitoring, environmental education, internship",
+    "opportunityType": "Internship",
+    "minimumStay": "4–12 weeks",
+    "fees": "No internship fee; shared intern housing (alojamento) is provided at major bases such as Espírito Santo, Ubatuba, and Bahia.",
+    "accommodation": "Included: Shared intern lodging (alojamento) at participating TAMAR research bases, Field and visitor center training. Not included: Travel to base, Personal meals (except where base-specific meal support applies)",
+    "eligibility": "Undergraduate students or recent graduates in Biology, Veterinary Medicine, Oceanography, Fisheries Engineering, Ecology, or Environmental Management; CV and motivation letter submitted to the target regional base; Minimum age: 18",
+    "internationalApplicants": "unclear",
+    "postedDate": null,
+    "postedDateSource": null,
+    "sourceStatus": "supplied_research",
+    "welfareAssessment": "Not independently assessed"
+  },
+  {
+    "id": "348",
+    "title": "Dolphin & Cetacean Research Internship in the Algarve",
+    "organization": "AIMM (Associação para a Investigação do Meio Marinho)",
+    "organizationType": "marine_research_ngo",
+    "url": "https://aimmportugal.org/opportunities/dolphin-research-internship/",
+    "source": "AIMM Portugal Official Website",
+    "sourceUrl": "https://aimmportugal.org/",
+    "summary": "Boat-based cetacean research internship in the Algarve, Southern Portugal (Albufeira & Tunes Field Station), conducting photo-identification and behavioural surveys on common dolphins, bottlenose dolphins, and baleen whales.",
+    "description": "AIMM is a Portuguese marine research non-profit conducting long-term cetacean monitoring off the Algarve coast between April and December. Interns live at the Tunes Field Station and go out to sea from Albufeira Harbour aboard AIMM's dedicated research vessel Ketos and whale-watching observation vessels. Duties include dorsal fin photo-identification cataloging, GPS and environmental logging, aerial/video behavioural observation, database entry, and attending marine mammal science lectures.",
+    "country": "Portugal",
+    "region": "Europe",
+    "city": "Albufeira / Tunes",
+    "stateOrProvince": "Faro District (Algarve)",
+    "locationText": "Tunes Field Station & Albufeira Marina, Algarve, Southern Portugal",
+    "coordinates": {
+      "lat": 37.1656,
+      "lng": -8.2611,
+      "precision": "exact"
+    },
+    "species": [
+      "Short-beaked common dolphin (Delphinus delphis)",
+      "Common bottlenose dolphin (Tursiops truncatus)",
+      "Minke whale (Balaenoptera acutorostrata)",
+      "Harbour porpoise (Phocoena phocoena)",
+      "Striped dolphin",
+      "Risso's dolphin",
+      "Orca",
+      "Fin whale"
+    ],
+    "animalGroup": [
+      "marine_mammals",
+      "cetaceans",
+      "seabirds"
+    ],
+    "categories": [
+      "marine_research",
+      "photo_identification",
+      "boat_surveys",
+      "internship"
+    ],
+    "programType": "internship",
+    "compensation": "unpaid",
+    "cost": {
+      "hasFee": true,
+      "amount": null,
+      "currency": "EUR",
+      "period": "week",
+      "includes": [
+        "Shared accommodation at the Tunes Field Station (bedding, Wi-Fi, laundry)",
+        "All 3 daily home-cooked meals (breakfast, lunch, dinner)",
+        "Daily local transport between the field station and Albufeira harbour",
+        "Dedicated research vessel surveys and scientific training"
+      ],
+      "excludes": [
+        "Flights to Faro/Lisbon",
+        "Personal insurance"
+      ],
+      "costNotes": "Programme fee is treated as a tax-deductible donation to AIMM (with a 12% discount for 3+ weeks and up to 40% discount for 4+ weeks); exact seasonal rate sheet provided upon inquiry via interns@aimmportugal.org."
+    },
+    "accommodationProvided": true,
+    "foodProvided": true,
+    "stipend": null,
+    "minAge": 16,
+    "minStayWeeks": 2,
+    "maxStayWeeks": 12,
+    "startDates": [
+      "1st, 8th, 15th, and 22nd of each month from April to December"
+    ],
+    "applicationDeadline": null,
+    "availabilityStatus": "accepting_applications",
+    "availabilityNote": "Actively accepting applications for 2+ week placements via the online application form on aimmportugal.org or interns@aimmportugal.org.",
+    "requirements": [
+      "Minimum age 16; open to students, graduates, and non-students (no prior marine research experience required)",
+      "Working knowledge of English and readiness for boat-based fieldwork"
+    ],
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "featured": true,
+    "lastChecked": "2026-10-14",
+    "confidence": "high",
+    "verificationNotes": "Verified directly via AIMM Portugal's official Dolphin Research Internship page (https://aimmportugal.org/opportunities/dolphin-research-internship/).",
+    "importedId": "fl-p3-014",
+    "place": "Albufeira / Tunes, Faro District (Algarve)",
+    "lat": 37.1656,
+    "lng": -8.2611,
+    "locationPrecision": "exact",
+    "locationSource": "Tunes Field Station & Albufeira Marina, Algarve, Southern Portugal",
+    "platform": "Host website",
+    "alternateSources": [],
+    "wildlifeCategory": "marine research, photo identification, boat surveys, internship",
+    "opportunityType": "Internship",
+    "minimumStay": "2–12 weeks",
+    "fees": "Programme fee is treated as a tax-deductible donation to AIMM (with a 12% discount for 3+ weeks and up to 40% discount for 4+ weeks); exact seasonal rate sheet provided upon inquiry via interns@aimmportugal.org.",
+    "accommodation": "Included: Shared accommodation at the Tunes Field Station (bedding, Wi-Fi, laundry), All 3 daily home-cooked meals (breakfast, lunch, dinner), Daily local transport between the field station and Albufeira harbour, Dedicated research vessel surveys and scientific training. Not included: Flights to Faro/Lisbon, Personal insurance",
+    "eligibility": "Minimum age 16; open to students, graduates, and non-students (no prior marine research experience required); Working knowledge of English and readiness for boat-based fieldwork; Minimum age: 16",
+    "internationalApplicants": "unclear",
+    "postedDate": null,
+    "postedDateSource": null,
+    "sourceStatus": "supplied_research",
+    "welfareAssessment": "Not independently assessed"
+  },
+  {
+    "id": "349",
+    "title": "Bottlenose Dolphin Research & Sea Turtle Rescue Centre Student Internship",
+    "organization": "Blue World Institute of Marine Research and Conservation (Plavi svijet)",
+    "organizationType": "marine_research_institute",
+    "url": "https://www.blue-world.org/get-involved/internships/",
+    "source": "Blue World Institute Official Website",
+    "sourceUrl": "https://www.blue-world.org/",
+    "summary": "Adriatic Sea marine mammal and sea turtle conservation internship on Lošinj Island, Croatia, combining boat-based bottlenose dolphin photo-ID/acoustics with work at the Lošinj Sea Turtle Rescue Centre.",
+    "description": "Based in Veli Lošinj on the island of Lošinj in the northern Adriatic Sea, the Blue World Institute runs one of the longest-running studies of resident common bottlenose dolphins in the Mediterranean alongside the Lošinj Sea Turtle Rescue Centre. Interns participate in Spring (February 1 – end of May) or Autumn (September 1 – end of November) cohorts, conducting boat-based cetacean surveys, dorsal fin photo-ID cataloging (FinFindR), hydrophone bioacoustic analysis (Adobe Audition), GIS mapping (ArcGIS/QGIS and R Studio), and sea turtle rehabilitation, tagging, and release.",
+    "country": "Croatia",
+    "region": "Europe",
+    "city": "Veli Lošinj (Lošinj Island)",
+    "stateOrProvince": "Primorje-Gorski Kotar County",
+    "locationText": "Kaštel 24, HR-51551 Veli Lošinj, Croatia",
+    "coordinates": {
+      "lat": 44.5206,
+      "lng": 14.5028,
+      "precision": "exact"
+    },
+    "species": [
+      "Common bottlenose dolphin (Tursiops truncatus)",
+      "Loggerhead sea turtle (Caretta caretta)",
+      "Striped dolphin"
+    ],
+    "animalGroup": [
+      "marine_mammals",
+      "cetaceans",
+      "sea_turtles"
+    ],
+    "categories": [
+      "marine_research",
+      "bioacoustics",
+      "photo_identification",
+      "sea_turtle_rehabilitation",
+      "internship"
+    ],
+    "programType": "internship",
+    "compensation": "unpaid",
+    "cost": {
+      "hasFee": true,
+      "amount": 28,
+      "currency": "EUR",
+      "period": "day",
+      "includes": [
+        "Shared accommodation at the Veli Lošinj research house (bedding, towels, fully equipped kitchen, Wi-Fi, utilities)",
+        "Research boat fuel and field equipment",
+        "Academic mentorship (Erasmus+ and university thesis support)"
+      ],
+      "excludes": [
+        "Food/groceries",
+        "Travel to Lošinj Island"
+      ],
+      "costNotes": "EUR 28 per day covers accommodation, utilities, research boat fuel, and mentorship (grants/waivers available for Croatian university students)."
+    },
+    "accommodationProvided": true,
+    "foodProvided": false,
+    "stipend": null,
+    "minAge": 18,
+    "minStayWeeks": 12,
+    "maxStayWeeks": 17,
+    "startDates": [
+      "Spring Cohort: February 1 – end of May (deadline November 1)",
+      "Autumn Cohort: September 1 – end of November (deadline May 1)"
+    ],
+    "applicationDeadline": "2026-11-01",
+    "availabilityStatus": "accepting_applications",
+    "availabilityNote": "Actively accepting applications for the upcoming Spring cohort (deadline November 1) and Autumn cohort (deadline May 1).",
+    "requirements": [
+      "Aged 18+ studying or graduated in biology, marine science, veterinary medicine, geography, or related field",
+      "Basic working knowledge of R Studio and ArcGIS/QGIS, ability to swim, and fluent English"
+    ],
+    "languages": [
+      "English",
+      "Croatian"
+    ],
+    "featured": true,
+    "lastChecked": "2026-10-14",
+    "confidence": "high",
+    "verificationNotes": "Verified directly via Blue World Institute's official Internships page (https://www.blue-world.org/get-involved/internships/).",
+    "importedId": "fl-p3-015",
+    "place": "Veli Lošinj (Lošinj Island), Primorje-Gorski Kotar County",
+    "lat": 44.5206,
+    "lng": 14.5028,
+    "locationPrecision": "exact",
+    "locationSource": "Kaštel 24, HR-51551 Veli Lošinj, Croatia",
+    "platform": "Host website",
+    "alternateSources": [],
+    "wildlifeCategory": "marine research, bioacoustics, photo identification, sea turtle rehabilitation, internship",
+    "opportunityType": "Internship",
+    "minimumStay": "12–17 weeks",
+    "fees": "EUR 28 per day covers accommodation, utilities, research boat fuel, and mentorship (grants/waivers available for Croatian university students).",
+    "accommodation": "Included: Shared accommodation at the Veli Lošinj research house (bedding, towels, fully equipped kitchen, Wi-Fi, utilities), Research boat fuel and field equipment, Academic mentorship (Erasmus+ and university thesis support). Not included: Food/groceries, Travel to Lošinj Island",
+    "eligibility": "Aged 18+ studying or graduated in biology, marine science, veterinary medicine, geography, or related field; Basic working knowledge of R Studio and ArcGIS/QGIS, ability to swim, and fluent English; Minimum age: 18",
+    "internationalApplicants": "unclear",
+    "postedDate": null,
+    "postedDateSource": null,
+    "sourceStatus": "supplied_research",
+    "welfareAssessment": "Not independently assessed"
+  },
+  {
+    "id": "350",
+    "title": "Sea Turtle First Aid Centre (Turtle Point) & Cetacean Research Volunteering / University Internship",
+    "organization": "Filicudi Wildlife Conservation",
+    "organizationType": "marine_conservation_ngo",
+    "url": "https://www.filicudiconservation.com/unisciti-a-noi/",
+    "source": "Filicudi Wildlife Conservation Official Website",
+    "sourceUrl": "https://www.filicudiconservation.com/",
+    "summary": "Aeolian Islands cetacean research and sea turtle hospital volunteering or university internship (Tirocinio Universitario) on Filicudi and Lipari in Sicily, Italy.",
+    "description": "Founded by marine biologist Monica Blasi in the Aeolian Archipelago (Sicily), Filicudi Wildlife Conservation operates the Pronto Soccorso Tartarughe Marine (Turtle Point) in Filicudi (Stimpagnato) and Lipari alongside boat-based cetacean research expeditions. Volunteers and university thesis interns assist with rehabilitating injured loggerhead sea turtles entangled in ghost fishing gear or plastic, patrolling Caretta caretta nesting beaches, and conducting photo-identification and acoustic surveys on bottlenose dolphins, striped dolphins, Risso's dolphins, and sperm whales.",
+    "country": "Italy",
+    "region": "Europe",
+    "city": "Filicudi & Lipari (Aeolian Islands)",
+    "stateOrProvince": "Messina (Sicily)",
+    "locationText": "Località Stimpagnato, Isola di Filicudi, 98055 Lipari (ME), Sicily, Italy",
+    "coordinates": {
+      "lat": 38.5667,
+      "lng": 14.5667,
+      "precision": "exact"
+    },
+    "species": [
+      "Loggerhead sea turtle (Caretta caretta)",
+      "Common bottlenose dolphin (Tursiops truncatus)",
+      "Striped dolphin (Stenella coeruleoalba)",
+      "Sperm whale (Physeter macrocephalus)",
+      "Risso's dolphin",
+      "Long-finned pilot whale",
+      "Mediterranean monk seal"
+    ],
+    "animalGroup": [
+      "sea_turtles",
+      "marine_mammals",
+      "cetaceans"
+    ],
+    "categories": [
+      "sea_turtle_rehabilitation",
+      "marine_research",
+      "nesting_beach_patrol",
+      "internship"
+    ],
+    "programType": "volunteering",
+    "compensation": "unpaid",
+    "cost": {
+      "hasFee": true,
+      "amount": null,
+      "currency": "EUR",
+      "period": "week",
+      "includes": [
+        "Field station accommodation on Filicudi or Lipari",
+        "Boat survey participation and scientific training"
+      ],
+      "excludes": [
+        "Hydrofoil/ferry to Filicudi or Lipari"
+      ],
+      "costNotes": "Participants become association members and contribute toward field station lodging and research vessel costs; contact info@filicudiconservation.com for current cohort fees."
+    },
+    "accommodationProvided": true,
+    "foodProvided": null,
+    "stipend": null,
+    "minAge": 18,
+    "minStayWeeks": 1,
+    "maxStayWeeks": 12,
+    "startDates": [
+      "2026/2027 seasonal research camps, nesting patrols, and university thesis placements (May–October peak)"
+    ],
+    "applicationDeadline": null,
+    "availabilityStatus": "accepting_applications",
+    "availabilityNote": "Accepting applications for Eco-Volunteering, Nesting Camp, and University Internships (Tirocini Universitari) via info@filicudiconservation.com.",
+    "requirements": [
+      "Minimum age 18; able to swim and work on research vessels",
+      "University internship track available for partner Italian and European universities"
+    ],
+    "languages": [
+      "Italian",
+      "English"
+    ],
+    "featured": false,
+    "lastChecked": "2026-10-14",
+    "confidence": "high",
+    "verificationNotes": "Verified directly via Filicudi Wildlife Conservation's official 'Unisciti a Noi' page (https://www.filicudiconservation.com/unisciti-a-noi/).",
+    "importedId": "fl-p3-016",
+    "place": "Filicudi & Lipari (Aeolian Islands), Messina (Sicily)",
+    "lat": 38.5667,
+    "lng": 14.5667,
+    "locationPrecision": "exact",
+    "locationSource": "Località Stimpagnato, Isola di Filicudi, 98055 Lipari (ME), Sicily, Italy",
+    "platform": "Host website",
+    "alternateSources": [],
+    "wildlifeCategory": "sea turtle rehabilitation, marine research, nesting beach patrol, internship",
+    "opportunityType": "Volunteering",
+    "minimumStay": "1–12 weeks",
+    "fees": "Participants become association members and contribute toward field station lodging and research vessel costs; contact info@filicudiconservation.com for current cohort fees.",
+    "accommodation": "Included: Field station accommodation on Filicudi or Lipari, Boat survey participation and scientific training. Not included: Hydrofoil/ferry to Filicudi or Lipari",
+    "eligibility": "Minimum age 18; able to swim and work on research vessels; University internship track available for partner Italian and European universities; Minimum age: 18",
+    "internationalApplicants": "unclear",
+    "postedDate": null,
+    "postedDateSource": null,
+    "sourceStatus": "supplied_research",
+    "welfareAssessment": "Not independently assessed"
+  },
+  {
+    "id": "351",
+    "title": "Wildlife Hospital Animal Care Volunteer, Vet Volunteer & Vet Student EMS Placement",
+    "organization": "South Essex Wildlife Hospital (SEWH)",
+    "organizationType": "wildlife_rehabilitation_hospital",
+    "url": "https://southessexwildlife.org/volunteer",
+    "source": "South Essex Wildlife Hospital Official Website",
+    "sourceUrl": "https://southessexwildlife.org/",
+    "summary": "Hands-on wildlife hospital husbandry volunteering, veterinary nursing support, and 1–2 week veterinary student EMS placements at South Essex Wildlife Hospital in Orsett, Essex, UK.",
+    "description": "Treating over 10,000 sick, injured, and orphaned wild patients across 200+ species every year, South Essex Wildlife Hospital (SEWH) offers three structured clinical and husbandry tracks: (1) Animal Care Volunteer (cleaning enclosures, preparing diets, feeding patients, and monitoring recovery); (2) Veterinary / Vet Nurse Volunteer (supporting clinical treatments); and (3) 1–2 Week Veterinary Student EMS Placements supervised by Lead Vet Tom Linsel. Hands-on contact is strictly minimized to clinical necessity so wild patients do not imprint.",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "city": "Orsett (Grays)",
+    "stateOrProvince": "Essex, England",
+    "locationText": "Orsett Road, Orsett, Essex, RM16 3BH, United Kingdom",
+    "coordinates": {
+      "lat": 51.5117,
+      "lng": 0.3644,
+      "precision": "exact"
+    },
+    "species": [
+      "Harbour seal",
+      "Grey seal",
+      "European badger",
+      "Red fox",
+      "European hedgehog",
+      "Roe and muntjac deer",
+      "Barn owl",
+      "Common kestrel",
+      "Mute swan"
+    ],
+    "animalGroup": [
+      "marine_mammals",
+      "mammals",
+      "birds",
+      "raptors"
+    ],
+    "categories": [
+      "wildlife_rehabilitation",
+      "veterinary_internship",
+      "husbandry"
+    ],
+    "programType": "volunteering",
+    "compensation": "unpaid",
+    "cost": {
+      "hasFee": false,
+      "amount": 0,
+      "currency": "GBP",
+      "period": "total",
+      "includes": [
+        "Hospital induction and clinical/husbandry supervision"
+      ],
+      "excludes": [
+        "Accommodation",
+        "Meals",
+        "Transport (own transport recommended due to rural location)"
+      ],
+      "costNotes": "No fee for Animal Care Volunteers, Veterinary Volunteers, or Vet Student EMS placements."
+    },
+    "accommodationProvided": false,
+    "foodProvided": false,
+    "stipend": null,
+    "minAge": 18,
+    "minStayWeeks": 1,
+    "maxStayWeeks": null,
+    "startDates": [
+      "Year-round regular shifts for volunteers; 1–2 week blocks for Vet Student EMS placements"
+    ],
+    "applicationDeadline": null,
+    "availabilityStatus": "accepting_applications",
+    "availabilityNote": "Actively accepting online applications for Animal Care Volunteers, Vet Volunteers, and Vet Student EMS placements via https://southessexwildlife.org/volunteer.",
+    "requirements": [
+      "Minimum age 18 (or enrolled in a recognised Veterinary Medicine / Vet Nursing degree for EMS placements)",
+      "Up-to-date tetanus vaccination and reliable transport to Orsett"
+    ],
+    "languages": [
+      "English"
+    ],
+    "featured": false,
+    "lastChecked": "2026-10-14",
+    "confidence": "high",
+    "verificationNotes": "Verified directly via South Essex Wildlife Hospital's official volunteer and EMS placement page (https://southessexwildlife.org/volunteer).",
+    "importedId": "fl-p3-017",
+    "place": "Orsett (Grays), Essex, England",
+    "lat": 51.5117,
+    "lng": 0.3644,
+    "locationPrecision": "exact",
+    "locationSource": "Orsett Road, Orsett, Essex, RM16 3BH, United Kingdom",
+    "platform": "Host website",
+    "alternateSources": [],
+    "wildlifeCategory": "wildlife rehabilitation, veterinary internship, husbandry",
+    "opportunityType": "Volunteering",
+    "minimumStay": "1 weeks",
+    "fees": "No fee for Animal Care Volunteers, Veterinary Volunteers, or Vet Student EMS placements.",
+    "accommodation": "Included: Hospital induction and clinical/husbandry supervision. Not included: Accommodation, Meals, Transport (own transport recommended due to rural location)",
+    "eligibility": "Minimum age 18 (or enrolled in a recognised Veterinary Medicine / Vet Nursing degree for EMS placements); Up-to-date tetanus vaccination and reliable transport to Orsett; Minimum age: 18",
+    "internationalApplicants": "unclear",
+    "postedDate": null,
+    "postedDateSource": null,
+    "sourceStatus": "supplied_research",
+    "welfareAssessment": "Not independently assessed"
+  },
+  {
+    "id": "352",
+    "title": "1- to 4-Week Chimpanzee Sanctuary Volunteer & Research Assistant Program",
+    "organization": "Ngamba Island Chimpanzee Sanctuary (Chimpanzee Sanctuary & Wildlife Conservation Trust — CSWCT)",
+    "organizationType": "primate_sanctuary",
+    "url": "https://chimpanzeetrust.org/volunteering",
+    "source": "Ngamba Island Chimpanzee Sanctuary Official Website",
+    "sourceUrl": "https://chimpanzeetrust.org/",
+    "summary": "1-week or 4-week residential sanctuary volunteering on Ngamba Island in Lake Victoria, Uganda, caring for 53+ orphaned Eastern chimpanzees and supporting island conservation outreach.",
+    "description": "Managed by the Chimpanzee Sanctuary & Wildlife Conservation Trust (CSWCT) on 100 acres of equatorial rainforest in Lake Victoria (near Entebbe), Ngamba Island Chimpanzee Sanctuary provides lifelong forest care to more than 53 rescued Eastern chimpanzees (Pan troglodytes schweinfurthii) confiscated from poachers and wildlife traffickers. Volunteers join for 1-week or 4-week placements to assist caregivers with preparing and distributing daily feeds, cleaning night holding facilities, crafting behavioural enrichment, recording chimpanzee behavioural and social data, observing veterinary health checks, and participating in Lake Victoria fishing-community conservation outreach.",
+    "country": "Uganda",
+    "region": "Africa",
+    "city": "Ngamba Island / Entebbe",
+    "stateOrProvince": "Wakiso / Mukono District (Lake Victoria)",
+    "locationText": "Ngamba Island, Lake Victoria (Mainland Office: Plot 1 Lugard Avenue, Entebbe), Uganda",
+    "coordinates": {
+      "lat": -0.1014,
+      "lng": 32.6531,
+      "precision": "exact"
+    },
+    "species": [
+      "Eastern chimpanzee (Pan troglodytes schweinfurthii)",
+      "African fish eagle",
+      "Spot-necked otter",
+      "Nile monitor"
+    ],
+    "animalGroup": [
+      "primates",
+      "apes",
+      "mammals",
+      "birds"
+    ],
+    "categories": [
+      "primate_sanctuary",
+      "husbandry",
+      "enrichment",
+      "behavioural_research",
+      "community_outreach"
+    ],
+    "programType": "volunteering",
+    "compensation": "unpaid",
+    "cost": {
+      "hasFee": true,
+      "amount": null,
+      "currency": "USD",
+      "period": "week",
+      "includes": [
+        "On-island volunteer accommodation",
+        "All meals on Ngamba Island",
+        "Boat transfer from Entebbe to Ngamba Island",
+        "Sanctuary orientation and supervision"
+      ],
+      "excludes": [
+        "International flights to Entebbe (EBB)",
+        "Uganda visa and mandatory pre-arrival medical vaccinations (Yellow Fever, TB screen, etc.)"
+      ],
+      "costNotes": "1-week and 4-week residential programme packages cover boat transfers, island lodging, meals, and chimpanzee care support; request current package rates via reservations@chimpanzeetrust.org."
+    },
+    "accommodationProvided": true,
+    "foodProvided": true,
+    "stipend": null,
+    "minAge": 18,
+    "minStayWeeks": 1,
+    "maxStayWeeks": 4,
+    "startDates": [
+      "Year-round 1-Week and 4-Week intakes by reservation"
+    ],
+    "applicationDeadline": null,
+    "availabilityStatus": "accepting_applications",
+    "availabilityNote": "Actively accepting applications for both 1-Week and 4-Week Volunteer Programs via https://chimpanzeetrust.org/volunteering or reservations@chimpanzeetrust.org.",
+    "requirements": [
+      "Minimum age 18",
+      "Mandatory primate sanctuary vaccinations and medical clearance prior to arrival on Ngamba Island"
+    ],
+    "languages": [
+      "English"
+    ],
+    "featured": true,
+    "lastChecked": "2026-10-14",
+    "confidence": "high",
+    "verificationNotes": "Verified directly via Ngamba Island Chimpanzee Sanctuary's official volunteering page (https://chimpanzeetrust.org/volunteering).",
+    "importedId": "fl-p3-018",
+    "place": "Ngamba Island / Entebbe, Wakiso / Mukono District (Lake Victoria)",
+    "lat": -0.1014,
+    "lng": 32.6531,
+    "locationPrecision": "exact",
+    "locationSource": "Ngamba Island, Lake Victoria (Mainland Office: Plot 1 Lugard Avenue, Entebbe), Uganda",
+    "platform": "Host website",
+    "alternateSources": [],
+    "wildlifeCategory": "primate sanctuary, husbandry, enrichment, behavioural research, community outreach",
+    "opportunityType": "Volunteering",
+    "minimumStay": "1–4 weeks",
+    "fees": "1-week and 4-week residential programme packages cover boat transfers, island lodging, meals, and chimpanzee care support; request current package rates via reservations@chimpanzeetrust.org.",
+    "accommodation": "Included: On-island volunteer accommodation, All meals on Ngamba Island, Boat transfer from Entebbe to Ngamba Island, Sanctuary orientation and supervision. Not included: International flights to Entebbe (EBB), Uganda visa and mandatory pre-arrival medical vaccinations (Yellow Fever, TB screen, etc.)",
+    "eligibility": "Minimum age 18; Mandatory primate sanctuary vaccinations and medical clearance prior to arrival on Ngamba Island; Minimum age: 18",
+    "internationalApplicants": "unclear",
+    "postedDate": null,
+    "postedDateSource": null,
+    "sourceStatus": "supplied_research",
+    "welfareAssessment": "Not independently assessed"
+  },
+  {
+    "id": "353",
+    "title": "Wildlife Sanctuary Care, Carnivore Research & Pre-Veterinary Volunteer Programme",
+    "organization": "Chipangali Wildlife Orphanage",
+    "organizationType": "wildlife_orphanage_and_research_center",
+    "url": "https://www.chipangali.com/volunteer/",
+    "source": "Chipangali Wildlife Orphanage Official Website",
+    "sourceUrl": "https://www.chipangali.com/",
+    "summary": "Hands-on wildlife orphanage care, carnivore tracking research, and a dedicated 2-week Pre-Veterinary track at Zimbabwe's oldest wildlife sanctuary outside Bulawayo.",
+    "description": "Established in 1973 by Viv Wilson 25 km outside Bulawayo, Chipangali Wildlife Orphanage rescues orphaned, injured, and conflict wildlife across Matabeleland alongside running the Carnivore Research Institute of Zimbabwe. Participants choose between two structured tracks: (1) Standard Wildlife Volunteering (2 weeks to 3 months: diet prep, feeding, enclosure construction/cleaning, behavioural enrichment, hand-rearing orphaned antelope/primates, and wild carnivore camera-trap/spoor surveys in the Matobo Hills); or (2) a 2-Week International Pre-Veterinary Program shadowing wildlife captures, immobilizations, translocations, ultrasounds, and clinical treatments.",
+    "country": "Zimbabwe",
+    "region": "Africa",
+    "city": "Bulawayo",
+    "stateOrProvince": "Matabeleland North / Bulawayo",
+    "locationText": "23 km peg along Harare Road, PO Box FM 424, Famona, Bulawayo, Zimbabwe",
+    "coordinates": {
+      "lat": -20.2333,
+      "lng": 28.7667,
+      "precision": "exact"
+    },
+    "species": [
+      "African lion",
+      "Leopard",
+      "Serval",
+      "Caracal",
+      "Brown hyena",
+      "Spotted hyena",
+      "Chacma baboon",
+      "Vervet monkey",
+      "Common duiker",
+      "Greater kudu",
+      "Martial eagle"
+    ],
+    "animalGroup": [
+      "big_cats",
+      "carnivores",
+      "primates",
+      "mammals",
+      "raptors"
+    ],
+    "categories": [
+      "wildlife_rehabilitation",
+      "sanctuary_care",
+      "veterinary_internship",
+      "carnivore_research"
+    ],
+    "programType": "volunteering",
+    "compensation": "unpaid",
+    "cost": {
+      "hasFee": true,
+      "amount": null,
+      "currency": "USD",
+      "period": "week",
+      "includes": [
+        "On-site volunteer accommodation",
+        "3 daily meals and laundry",
+        "Airport or bus station transfers from Bulawayo",
+        "Field trips to Matobo National Park and carnivore tracking sessions"
+      ],
+      "excludes": [
+        "Flights to Bulawayo (BUQ)",
+        "Zimbabwe visa and personal travel insurance"
+      ],
+      "costNotes": "All-inclusive residential programme fee (managed via Chipangali's booking partners GoEco, GoXplore, Wild Inside, or direct inquiry to kevin.wilson@chipangali.com)."
+    },
+    "accommodationProvided": true,
+    "foodProvided": true,
+    "stipend": null,
+    "minAge": 18,
+    "minStayWeeks": 2,
+    "maxStayWeeks": 12,
+    "startDates": [
+      "Year-round arrivals for Wildlife Volunteering (2–12 weeks); scheduled 2-week cohorts for the Pre-Veterinary Program"
+    ],
+    "applicationDeadline": null,
+    "availabilityStatus": "accepting_applications",
+    "availabilityNote": "Actively accepting applications for both the Wildlife Volunteer track and the 2-Week Pre-Veterinary track.",
+    "requirements": [
+      "Minimum age 18; Pre-Veterinary track is tailored to pre-vet, veterinary medicine, and animal science students",
+      "Tetanus and rabies pre-exposure prophylaxis recommended"
+    ],
+    "languages": [
+      "English"
+    ],
+    "featured": true,
+    "lastChecked": "2026-10-14",
+    "confidence": "high",
+    "verificationNotes": "Verified directly via Chipangali Wildlife Orphanage's official volunteer page (https://www.chipangali.com/volunteer/).",
+    "importedId": "fl-p3-019",
+    "place": "Bulawayo, Matabeleland North / Bulawayo",
+    "lat": -20.2333,
+    "lng": 28.7667,
+    "locationPrecision": "exact",
+    "locationSource": "23 km peg along Harare Road, PO Box FM 424, Famona, Bulawayo, Zimbabwe",
+    "platform": "Host website",
+    "alternateSources": [],
+    "wildlifeCategory": "wildlife rehabilitation, sanctuary care, veterinary internship, carnivore research",
+    "opportunityType": "Volunteering",
+    "minimumStay": "2–12 weeks",
+    "fees": "All-inclusive residential programme fee (managed via Chipangali's booking partners GoEco, GoXplore, Wild Inside, or direct inquiry to kevin.wilson@chipangali.com).",
+    "accommodation": "Included: On-site volunteer accommodation, 3 daily meals and laundry, Airport or bus station transfers from Bulawayo, Field trips to Matobo National Park and carnivore tracking sessions. Not included: Flights to Bulawayo (BUQ), Zimbabwe visa and personal travel insurance",
+    "eligibility": "Minimum age 18; Pre-Veterinary track is tailored to pre-vet, veterinary medicine, and animal science students; Tetanus and rabies pre-exposure prophylaxis recommended; Minimum age: 18",
+    "internationalApplicants": "unclear",
+    "postedDate": null,
+    "postedDateSource": null,
+    "sourceStatus": "supplied_research",
+    "welfareAssessment": "Not independently assessed"
+  },
+  {
+    "id": "354",
+    "title": "3-Month Wildlife Rehabilitation Student Internship & Volunteering",
+    "organization": "FreeMe Wildlife Rehabilitation Centre",
+    "organizationType": "wildlife_rehabilitation_center",
+    "url": "https://freemewildlife.org/support-us/custodian/",
+    "source": "FreeMe Wildlife Official Website",
+    "sourceUrl": "https://freemewildlife.org/",
+    "summary": "Structured 3-month wildlife rehabilitation student training internship and volunteer program in Howick (KwaZulu-Natal Midlands), South Africa, rehabilitating indigenous raptors, servals, otters, and pangolins.",
+    "description": "Located on a 20-hectare reserve in the Karkloof/Howick area of KwaZulu-Natal, FreeMe Wildlife is a permitted veterinary and ethical wildlife rehabilitation center treating over 2,000 indigenous patients per year. Its 3-month Student Training Internship combines daily classroom lectures on ethical wildlife rehabilitation with intensive practical clinic work: preparing species-specific diets, setting up natural rehabilitation enclosures, conducting daily patient health checks, assisting with veterinary treatments, and hand-rearing orphaned neonates without human imprinting.",
+    "country": "South Africa",
+    "region": "Africa",
+    "city": "Howick",
+    "stateOrProvince": "KwaZulu-Natal",
+    "locationText": "Dry Mountain, 1 Karkloof Road, Howick, 3290, KwaZulu-Natal, South Africa",
+    "coordinates": {
+      "lat": -29.4475,
+      "lng": 30.2286,
+      "precision": "exact"
+    },
+    "species": [
+      "Southern ground hornbill",
+      "Crowned eagle",
+      "Spotted eagle-owl",
+      "Serval",
+      "Caracal",
+      "Cape clawless otter",
+      "Temminck's ground pangolin",
+      "Blue and grey duiker",
+      "Thick-tailed bushbaby"
+    ],
+    "animalGroup": [
+      "birds",
+      "raptors",
+      "carnivores",
+      "mammals",
+      "reptiles"
+    ],
+    "categories": [
+      "wildlife_rehabilitation",
+      "husbandry",
+      "orphan_rearing",
+      "internship"
+    ],
+    "programType": "internship",
+    "compensation": "unpaid",
+    "cost": {
+      "hasFee": true,
+      "amount": null,
+      "currency": "ZAR",
+      "period": "month",
+      "includes": [
+        "Structured 3-month wildlife rehabilitation curriculum and practical clinic mentorship"
+      ],
+      "excludes": [
+        "Flights",
+        "Personal living expenses"
+      ],
+      "costNotes": "Contact admin@freemewildlife.org for current 3-month student internship tuition and on-site cottage housing options."
+    },
+    "accommodationProvided": true,
+    "foodProvided": false,
+    "stipend": null,
+    "minAge": 18,
+    "minStayWeeks": 12,
+    "maxStayWeeks": 12,
+    "startDates": [
+      "Quarterly 3-month student internship intakes and ongoing volunteer shifts"
+    ],
+    "applicationDeadline": null,
+    "availabilityStatus": "accepting_applications",
+    "availabilityNote": "Accepting applications for 3-month Student Training Internships and volunteer placements via admin@freemewildlife.org.",
+    "requirements": [
+      "Minimum age 18; genuine commitment to ethical hands-off wildlife rehabilitation",
+      "Fluent English and tetanus/rabies vaccinations as advised"
+    ],
+    "languages": [
+      "English"
+    ],
+    "featured": false,
+    "lastChecked": "2026-10-14",
+    "confidence": "high",
+    "verificationNotes": "Verified via FreeMe Wildlife's official site (https://freemewildlife.org/support-us/custodian/) and official student programme updates.",
+    "importedId": "fl-p3-020",
+    "place": "Howick, KwaZulu-Natal",
+    "lat": -29.4475,
+    "lng": 30.2286,
+    "locationPrecision": "exact",
+    "locationSource": "Dry Mountain, 1 Karkloof Road, Howick, 3290, KwaZulu-Natal, South Africa",
+    "platform": "Host website",
+    "alternateSources": [],
+    "wildlifeCategory": "wildlife rehabilitation, husbandry, orphan rearing, internship",
+    "opportunityType": "Internship",
+    "minimumStay": "12 weeks",
+    "fees": "Contact admin@freemewildlife.org for current 3-month student internship tuition and on-site cottage housing options.",
+    "accommodation": "Included: Structured 3-month wildlife rehabilitation curriculum and practical clinic mentorship. Not included: Flights, Personal living expenses",
+    "eligibility": "Minimum age 18; genuine commitment to ethical hands-off wildlife rehabilitation; Fluent English and tetanus/rabies vaccinations as advised; Minimum age: 18",
+    "internationalApplicants": "unclear",
+    "postedDate": null,
+    "postedDateSource": null,
+    "sourceStatus": "supplied_research",
+    "welfareAssessment": "Not independently assessed"
+  },
+  {
+    "id": "355",
+    "title": "Sea Turtle Bycatch Rescue, Rehabilitation & Marine Conservation Internship",
+    "organization": "Local Ocean Conservation (LOC / Watamu Turtle Watch)",
+    "organizationType": "marine_conservation_ngo",
+    "url": "https://localocean.co/internships/",
+    "source": "Local Ocean Conservation Official Website",
+    "sourceUrl": "https://localocean.co/all-programmes/",
+    "summary": "Kenyan and international university internship at Local Ocean Conservation (Watamu Turtle Watch) in Watamu and Diani, Kenya, rehabilitating bycatch sea turtles and patrolling Indian Ocean nesting beaches.",
+    "description": "Operating in Watamu since 1997 (and expanded to Diani), Local Ocean Conservation (LOC) runs Kenya's pioneering sea turtle Bycatch Net Release programme (>24,000 rescues recorded) and East Africa's dedicated Sea Turtle Rehabilitation Centre in Watamu. LOC hosts both Kenyan University Interns and International University Interns/student groups to assist with clinical care at the Sea Turtle Rehabilitation Centre, night and dawn nesting beach patrols, mangrove restoration, beach erosion profiling, and artisanal fisher community outreach.",
+    "country": "Kenya",
+    "region": "Africa",
+    "city": "Watamu & Diani",
+    "stateOrProvince": "Kilifi & Kwale Counties",
+    "locationText": "Marine Information Centre & Sea Turtle Rehabilitation Centre, Turtle Bay Road, Watamu, Kilifi County, Kenya",
+    "coordinates": {
+      "lat": -3.3564,
+      "lng": 40.0158,
+      "precision": "exact"
+    },
+    "species": [
+      "Green sea turtle (Chelonia mydas)",
+      "Hawksbill sea turtle (Eretmochelys imbricata)",
+      "Olive ridley sea turtle (Lepidochelys olivacea)",
+      "Loggerhead sea turtle (Caretta caretta)",
+      "Leatherback sea turtle (Dermochelys coriacea)"
+    ],
+    "animalGroup": [
+      "sea_turtles",
+      "reptiles",
+      "marine_life"
+    ],
+    "categories": [
+      "sea_turtle_rehabilitation",
+      "bycatch_mitigation",
+      "nesting_beach_patrol",
+      "mangrove_restoration",
+      "internship"
+    ],
+    "programType": "internship",
+    "compensation": "unpaid",
+    "cost": {
+      "hasFee": null,
+      "amount": null,
+      "currency": "USD",
+      "period": null,
+      "includes": [
+        "Practical marine conservation and sea turtle hospital training"
+      ],
+      "excludes": [
+        "International flights to Mombasa/Malindi"
+      ],
+      "costNotes": "Separate Kenyan University Intern and International University Intern tracks; submit the 'Apply now' form on https://localocean.co/internships/ for track-specific accommodation and cost details."
+    },
+    "accommodationProvided": null,
+    "foodProvided": false,
+    "stipend": null,
+    "minAge": 18,
+    "minStayWeeks": 4,
+    "maxStayWeeks": 12,
+    "startDates": [
+      "Scheduled university internship intakes via Local Ocean Conservation's portal"
+    ],
+    "applicationDeadline": null,
+    "availabilityStatus": "accepting_applications",
+    "availabilityNote": "Actively accepting applications via the 'Apply now' portal on https://localocean.co/internships/ for both Kenyan and International University Interns.",
+    "requirements": [
+      "Enrolled in or recently graduated from a university degree in marine biology, environmental science, veterinary science, or conservation",
+      "Strong swimming ability and readiness for hot coastal fieldwork"
+    ],
+    "languages": [
+      "English",
+      "Swahili (helpful)"
+    ],
+    "featured": true,
+    "lastChecked": "2026-10-14",
+    "confidence": "high",
+    "verificationNotes": "Verified directly via Local Ocean Conservation's official Internships page (https://localocean.co/internships/).",
+    "importedId": "fl-p3-021",
+    "place": "Watamu & Diani, Kilifi & Kwale Counties",
+    "lat": -3.3564,
+    "lng": 40.0158,
+    "locationPrecision": "exact",
+    "locationSource": "Marine Information Centre & Sea Turtle Rehabilitation Centre, Turtle Bay Road, Watamu, Kilifi County, Kenya",
+    "platform": "Host website",
+    "alternateSources": [],
+    "wildlifeCategory": "sea turtle rehabilitation, bycatch mitigation, nesting beach patrol, mangrove restoration, internship",
+    "opportunityType": "Internship",
+    "minimumStay": "4–12 weeks",
+    "fees": "Separate Kenyan University Intern and International University Intern tracks; submit the 'Apply now' form on https://localocean.co/internships/ for track-specific accommodation and cost details.",
+    "accommodation": "Included: Practical marine conservation and sea turtle hospital training. Not included: International flights to Mombasa/Malindi",
+    "eligibility": "Enrolled in or recently graduated from a university degree in marine biology, environmental science, veterinary science, or conservation; Strong swimming ability and readiness for hot coastal fieldwork; Minimum age: 18",
+    "internationalApplicants": "unclear",
+    "postedDate": null,
+    "postedDateSource": null,
+    "sourceStatus": "supplied_research",
+    "welfareAssessment": "Not independently assessed"
   }
 ]

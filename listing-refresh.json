@@ -1,11 +1,11 @@
 {
   "updatedAt": "2026-10-14",
   "mode": "Supplied research import; listing content not independently revalidated during import.",
-  "previousCount": 50,
-  "currentCount": 89,
-  "countryCount": 39,
+  "previousCount": 89,
+  "currentCount": 110,
+  "countryCount": 49,
   "continentCount": 6,
-  "directHostCount": 80,
+  "directHostCount": 101,
   "coverage": [
     {
       "source": "Workaway (https://www.workaway.info/)",
@@ -193,13 +193,202 @@
       "included_count": "3",
       "blocked_or_unchecked": "Worldpackers position 114362 blocked by access wall (logged as needs_recheck); remaining Workaway/Worldpackers results were domestic pet/farm stays or duplicates of Pass 1 hosts",
       "next_step": "Run targeted site:workaway.info/en/host searches for Colombia, Chile, and South Africa"
+    },
+    {
+      "source": "Direct Nordic Sanctuary & Rehab Audit — Nordens Ark & Stockholms Vildfågel Rehab (SVR)",
+      "region": "Sweden (Europe)",
+      "categories_or_queries": "nordens ark internship / vildfågel rehab volontär",
+      "pages_checked": "Page count not recorded in supplied coverage",
+      "pagination_complete": "not reported",
+      "candidates_screened": "4",
+      "included_count": "2",
+      "blocked_or_unchecked": "Pending/excluded reported: 0. Verified Nordens Ark university husbandry internship (Hunnebostrand) and SVR wild bird rehabilitation volunteering (Stockholm).",
+      "next_step": "Not specified in supplied coverage.",
+      "originalCoverage": {
+        "source_type": "Direct Nordic Sanctuary & Rehab Audit",
+        "source_name": "Nordens Ark & Stockholms Vildfågel Rehab (SVR)",
+        "region_or_country": "Sweden (Europe)",
+        "query_or_section": "nordens ark internship / vildfågel rehab volontär",
+        "candidates_found": "4",
+        "verified_added": "2",
+        "excluded_or_pending": "0",
+        "notes": "Verified Nordens Ark university husbandry internship (Hunnebostrand) and SVR wild bird rehabilitation volunteering (Stockholm)."
+      }
+    },
+    {
+      "source": "Direct Nordic Marine & Wildlife Audit — Ocean Missions, Whale Wise, SEA LIFE Trust Beluga Whale Sanctuary & Melrakkasetur",
+      "region": "Iceland (Europe)",
+      "categories_or_queries": "ocean missions husavik volunteer / whale wise iceland internship / beluga sanctuary jobs / arctic fox centre",
+      "pages_checked": "Page count not recorded in supplied coverage",
+      "pagination_complete": "not reported",
+      "candidates_screened": "5",
+      "included_count": "3",
+      "blocked_or_unchecked": "Pending/excluded reported: 2. Verified Ocean Missions (Húsavík), Whale Wise (Húsavík/Westfjords), and SEA LIFE Trust Beluga Sanctuary Diving Supervisor job; excluded Melrakkasetur (summer volunteer banner states closed) and Beluga Sanctuary 2026 Puffling volunteer track (reopens Summer 2027).",
+      "next_step": "Not specified in supplied coverage.",
+      "originalCoverage": {
+        "source_type": "Direct Nordic Marine & Wildlife Audit",
+        "source_name": "Ocean Missions, Whale Wise, SEA LIFE Trust Beluga Whale Sanctuary & Melrakkasetur",
+        "region_or_country": "Iceland (Europe)",
+        "query_or_section": "ocean missions husavik volunteer / whale wise iceland internship / beluga sanctuary jobs / arctic fox centre",
+        "candidates_found": "5",
+        "verified_added": "3",
+        "excluded_or_pending": "2",
+        "notes": "Verified Ocean Missions (Húsavík), Whale Wise (Húsavík/Westfjords), and SEA LIFE Trust Beluga Sanctuary Diving Supervisor job; excluded Melrakkasetur (summer volunteer banner states closed) and Beluga Sanctuary 2026 Puffling volunteer track (reopens Summer 2027)."
+      }
+    },
+    {
+      "source": "Direct Nordic Wildlife Rehab Screening — Dyrenes Beskyttelse & FugleAdvokatene + Workaway Nordic Hosts",
+      "region": "Denmark & Norway (Europe)",
+      "categories_or_queries": "dyrenes beskyttelse vildtplejestationer / fugleadvokatene rehabhjem / workaway norway wildlife",
+      "pages_checked": "Page count not recorded in supplied coverage",
+      "pagination_complete": "not reported",
+      "candidates_screened": "4",
+      "included_count": "0",
+      "blocked_or_unchecked": "Pending/excluded reported: 4. Excluded Danish and Norwegian home-foster wildlife care roles (require owning local property/residence in Denmark or Oslo/Bergen) and 2 Workaway Norway permaculture homesteads.",
+      "next_step": "Not specified in supplied coverage.",
+      "originalCoverage": {
+        "source_type": "Direct Nordic Wildlife Rehab Screening",
+        "source_name": "Dyrenes Beskyttelse & FugleAdvokatene + Workaway Nordic Hosts",
+        "region_or_country": "Denmark & Norway (Europe)",
+        "query_or_section": "dyrenes beskyttelse vildtplejestationer / fugleadvokatene rehabhjem / workaway norway wildlife",
+        "candidates_found": "4",
+        "verified_added": "0",
+        "excluded_or_pending": "4",
+        "notes": "Excluded Danish and Norwegian home-foster wildlife care roles (require owning local property/residence in Denmark or Oslo/Bergen) and 2 Workaway Norway permaculture homesteads."
+      }
+    },
+    {
+      "source": "Direct East Asia Wildlife Rescue Audit — Kadoorie Farm & Botanic Garden (KFBG) & Ocean Park Conservation Foundation (OPCFHK)",
+      "region": "Hong Kong (Asia)",
+      "categories_or_queries": "kfbg wild animal rescue team volunteer / opcfhk volunteering",
+      "pages_checked": "Page count not recorded in supplied coverage",
+      "pagination_complete": "not reported",
+      "candidates_screened": "3",
+      "included_count": "2",
+      "blocked_or_unchecked": "Pending/excluded reported: 0. Verified KFBG Wild Animal Rescue Centre (WARC) Fauna Conservation Volunteer in Tai Po and OPCFHK Conservation Volunteer Task Force in Aberdeen.",
+      "next_step": "Not specified in supplied coverage.",
+      "originalCoverage": {
+        "source_type": "Direct East Asia Wildlife Rescue Audit",
+        "source_name": "Kadoorie Farm & Botanic Garden (KFBG) & Ocean Park Conservation Foundation (OPCFHK)",
+        "region_or_country": "Hong Kong (Asia)",
+        "query_or_section": "kfbg wild animal rescue team volunteer / opcfhk volunteering",
+        "candidates_found": "3",
+        "verified_added": "2",
+        "excluded_or_pending": "0",
+        "notes": "Verified KFBG Wild Animal Rescue Centre (WARC) Fauna Conservation Volunteer in Tai Po and OPCFHK Conservation Volunteer Task Force in Aberdeen."
+      }
+    },
+    {
+      "source": "Direct East Asia Wildlife & Marine Audit — Taiwan Cetacean Society (TCS) & NPUST Pingtung Rescue Center (PTRC)",
+      "region": "Taiwan (Asia)",
+      "categories_or_queries": "中華鯨豚協會 擱淺志工 / 屏科大 保育類野生動物收容中心 實習",
+      "pages_checked": "Page count not recorded in supplied coverage",
+      "pagination_complete": "not reported",
+      "candidates_screened": "3",
+      "included_count": "1",
+      "blocked_or_unchecked": "Pending/excluded reported: 1. Verified Taiwan Cetacean Society (TCS) live stranding rehabilitation pool volunteer shifts at Badouzi (Keelung); excluded NPUST PTRC 2026 summer internship (closed 2026-03-19).",
+      "next_step": "Not specified in supplied coverage.",
+      "originalCoverage": {
+        "source_type": "Direct East Asia Wildlife & Marine Audit",
+        "source_name": "Taiwan Cetacean Society (TCS) & NPUST Pingtung Rescue Center (PTRC)",
+        "region_or_country": "Taiwan (Asia)",
+        "query_or_section": "中華鯨豚協會 擱淺志工 / 屏科大 保育類野生動物收容中心 實習",
+        "candidates_found": "3",
+        "verified_added": "1",
+        "excluded_or_pending": "1",
+        "notes": "Verified Taiwan Cetacean Society (TCS) live stranding rehabilitation pool volunteer shifts at Badouzi (Keelung); excluded NPUST PTRC 2026 summer internship (closed 2026-03-19)."
+      }
+    },
+    {
+      "source": "Direct East Asia Field Research Audit — Picchio Wildlife Research Center & Everlasting Nature of Asia (ELNA)",
+      "region": "Japan (Asia)",
+      "categories_or_queries": "wildlife-picchio conservation bears internship / bonin-ocean elna volunteer",
+      "pages_checked": "Page count not recorded in supplied coverage",
+      "pagination_complete": "not reported",
+      "candidates_screened": "2",
+      "included_count": "1",
+      "blocked_or_unchecked": "Pending/excluded reported: 1. Verified Picchio Wildlife Research Center Asiatic black bear & Karelian Bear Dog internship in Karuizawa (Nagano); logged ELNA Ogasawara Marine Center as needs_recheck (English page 404).",
+      "next_step": "Not specified in supplied coverage.",
+      "originalCoverage": {
+        "source_type": "Direct East Asia Field Research Audit",
+        "source_name": "Picchio Wildlife Research Center & Everlasting Nature of Asia (ELNA)",
+        "region_or_country": "Japan (Asia)",
+        "query_or_section": "wildlife-picchio conservation bears internship / bonin-ocean elna volunteer",
+        "candidates_found": "2",
+        "verified_added": "1",
+        "excluded_or_pending": "1",
+        "notes": "Verified Picchio Wildlife Research Center Asiatic black bear & Karelian Bear Dog internship in Karuizawa (Nagano); logged ELNA Ogasawara Marine Center as needs_recheck (English page 404)."
+      }
+    },
+    {
+      "source": "Direct South America Sanctuary & Rehab Audit — Güirá Oga, Proyecto Carayá, Chiloé Silvestre, Fundação Projeto TAMAR & Mata Ciliar",
+      "region": "Argentina, Chile & Brazil (South America)",
+      "categories_or_queries": "guira oga voluntariado / proyecto caraya voluntariado / chiloe silvestre voluntariado / projeto tamar estagio",
+      "pages_checked": "Page count not recorded in supplied coverage",
+      "pagination_complete": "not reported",
+      "candidates_screened": "5",
+      "included_count": "4",
+      "blocked_or_unchecked": "Pending/excluded reported: 1. Verified Güirá Oga (Puerto Iguazú, Argentina), Proyecto Carayá (La Cumbre, Argentina), Chiloé Silvestre (Ancud, Chile), and Fundação Projeto TAMAR (multi-state bases, Brazil); excluded Associação Mata Ciliar CRAS (internship page states 'Programa fechado temporariamente').",
+      "next_step": "Not specified in supplied coverage.",
+      "originalCoverage": {
+        "source_type": "Direct South America Sanctuary & Rehab Audit",
+        "source_name": "Güirá Oga, Proyecto Carayá, Chiloé Silvestre, Fundação Projeto TAMAR & Mata Ciliar",
+        "region_or_country": "Argentina, Chile & Brazil (South America)",
+        "query_or_section": "guira oga voluntariado / proyecto caraya voluntariado / chiloe silvestre voluntariado / projeto tamar estagio",
+        "candidates_found": "5",
+        "verified_added": "4",
+        "excluded_or_pending": "1",
+        "notes": "Verified Güirá Oga (Puerto Iguazú, Argentina), Proyecto Carayá (La Cumbre, Argentina), Chiloé Silvestre (Ancud, Chile), and Fundação Projeto TAMAR (multi-state bases, Brazil); excluded Associação Mata Ciliar CRAS (internship page states 'Programa fechado temporariamente')."
+      }
+    },
+    {
+      "source": "Direct Southern & Central Europe Marine & Rehab Audit — AIMM Portugal, Blue World Institute, Filicudi Wildlife Conservation, South Essex Wildlife Hospital & RIAS",
+      "region": "Portugal, Croatia, Italy & United Kingdom (Europe)",
+      "categories_or_queries": "aimm portugal dolphin internship / blue world losinj internship / filicudi wildlife conservation / south essex wildlife hospital volunteer",
+      "pages_checked": "Page count not recorded in supplied coverage",
+      "pagination_complete": "not reported",
+      "candidates_screened": "5",
+      "included_count": "4",
+      "blocked_or_unchecked": "Pending/excluded reported: 1. Verified AIMM Portugal (Algarve), Blue World Institute (Lošinj, Croatia), Filicudi Wildlife Conservation (Aeolian Islands, Italy), and South Essex Wildlife Hospital (Orsett, UK); logged RIAS Olhão (Portugal) as needs_recheck after domain migration.",
+      "next_step": "Not specified in supplied coverage.",
+      "originalCoverage": {
+        "source_type": "Direct Southern & Central Europe Marine & Rehab Audit",
+        "source_name": "AIMM Portugal, Blue World Institute, Filicudi Wildlife Conservation, South Essex Wildlife Hospital & RIAS",
+        "region_or_country": "Portugal, Croatia, Italy & United Kingdom (Europe)",
+        "query_or_section": "aimm portugal dolphin internship / blue world losinj internship / filicudi wildlife conservation / south essex wildlife hospital volunteer",
+        "candidates_found": "5",
+        "verified_added": "4",
+        "excluded_or_pending": "1",
+        "notes": "Verified AIMM Portugal (Algarve), Blue World Institute (Lošinj, Croatia), Filicudi Wildlife Conservation (Aeolian Islands, Italy), and South Essex Wildlife Hospital (Orsett, UK); logged RIAS Olhão (Portugal) as needs_recheck after domain migration."
+      }
+    },
+    {
+      "source": "Direct Sub-Saharan Africa Sanctuary & Marine Audit — Ngamba Island Chimpanzee Sanctuary, Chipangali Wildlife Orphanage, FreeMe Wildlife, Local Ocean Conservation & Tenikwa",
+      "region": "Uganda, Zimbabwe, South Africa & Kenya (Africa)",
+      "categories_or_queries": "chimpanzeetrust volunteering / chipangali volunteer / freeme wildlife custodian student / local ocean watamu internships",
+      "pages_checked": "Page count not recorded in supplied coverage",
+      "pagination_complete": "not reported",
+      "candidates_screened": "5",
+      "included_count": "4",
+      "blocked_or_unchecked": "Pending/excluded reported: 1. Verified Ngamba Island Chimpanzee Sanctuary (Uganda), Chipangali Wildlife Orphanage (Zimbabwe), FreeMe Wildlife (KZN, South Africa), and Local Ocean Conservation / Watamu Turtle Watch (Kenya); excluded Tenikwa Cats in Conservation (1-day tourist experience).",
+      "next_step": "Not specified in supplied coverage.",
+      "originalCoverage": {
+        "source_type": "Direct Sub-Saharan Africa Sanctuary & Marine Audit",
+        "source_name": "Ngamba Island Chimpanzee Sanctuary, Chipangali Wildlife Orphanage, FreeMe Wildlife, Local Ocean Conservation & Tenikwa",
+        "region_or_country": "Uganda, Zimbabwe, South Africa & Kenya (Africa)",
+        "query_or_section": "chimpanzeetrust volunteering / chipangali volunteer / freeme wildlife custodian student / local ocean watamu internships",
+        "candidates_found": "5",
+        "verified_added": "4",
+        "excluded_or_pending": "1",
+        "notes": "Verified Ngamba Island Chimpanzee Sanctuary (Uganda), Chipangali Wildlife Orphanage (Zimbabwe), FreeMe Wildlife (KZN, South Africa), and Local Ocean Conservation / Watamu Turtle Watch (Kenya); excluded Tenikwa Cats in Conservation (1-day tourist experience)."
+      }
     }
   ],
   "candidateDecisions": {
-    "out_of_scope": 5,
-    "local_only": 3,
-    "closed": 6,
-    "needs_recheck": 11,
+    "out_of_scope": 7,
+    "local_only": 5,
+    "closed": 10,
+    "needs_recheck": 13,
     "duplicate": 6
   },
   "verificationMeaning": "Checked JSON structure, coordinates within valid ranges, dates and link schemes. Imported source claims and programme terms are supplied research, not fresh verification. Coordinates have not been geographically revalidated.",
@@ -210,9 +399,12 @@
     "pending-and-excluded.csv",
     "wildlife-opportunities (2).json",
     "research-coverage (2).csv",
-    "pending-and-excluded (1).csv"
+    "pending-and-excluded (1).csv",
+    "wildlife-opportunities (3).json",
+    "research-coverage (3).csv",
+    "pending-and-excluded (2).csv"
   ],
-  "addedCount": 39,
+  "addedCount": 21,
   "batches": [
     {
       "label": "First supplied batch",
@@ -223,6 +415,11 @@
       "label": "Second supplied batch",
       "count": 39,
       "folder": "research-imports/2026-10-14-pass2"
+    },
+    {
+      "label": "Third supplied batch",
+      "count": 21,
+      "folder": "research-imports/2026-10-14-pass3"
     }
   ]
 }

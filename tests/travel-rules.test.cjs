@@ -9,7 +9,7 @@ for(const item of items){
  const rule=context.window.hkTravelRule(item.country);assert.ok(rule,item.country);
  assert.ok(rule.stay&&rule.entry&&rule.placement.note);
  for(const source of [...rule.sources,...rule.placement.sources])assert.equal(new URL(source.url).protocol,'https:');
- const html=context.window.hkTravelCard(item.country);assert.ok(html.includes('HKSAR passport'));assert.ok(!html.includes('BN(O)'));
+ const html=context.window.hkTravelCard(item.country);assert.ok(html.includes(item.country==='Hong Kong'?'Hong Kong placement':'HKSAR passport'));assert.ok(!html.includes('BN(O)'));
 }
 for(const c of ['Spain','France','Romania','Switzerland'])assert.equal(data.countries[c].stayLimit.sharedArea,'Schengen');
 for(const c of ['Ireland','Cyprus','French Guiana'])assert.notEqual(data.countries[c].stayLimit.sharedArea,'Schengen');

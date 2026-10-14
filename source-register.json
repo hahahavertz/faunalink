@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-10-14",
-  "origin": "Current imported list (two batches)",
+  "origin": "Current imported list (three batches)",
   "permanentSources": [
     {
       "organization": "Chimfunshi Wildlife Orphanage Trust (CWOT)",
@@ -940,6 +940,216 @@
         "https://www.worldpackers.com/positions/69313/details"
       ],
       "status": "imported"
+    },
+    {
+      "organization": "Nordens Ark",
+      "country": "Sweden",
+      "place": "Hunnebostrand, Västra Götaland County",
+      "listingId": "335",
+      "urls": [
+        "https://en.nordensark.se/about-nordens-ark/internship/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Ocean Missions",
+      "country": "Iceland",
+      "place": "Húsavík, Norðurland eystra",
+      "listingId": "336",
+      "urls": [
+        "https://oceanmissions.org/volunteer/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Whale Wise",
+      "country": "Iceland",
+      "place": "Húsavík, Norðurland eystra & Westfjords",
+      "listingId": "337",
+      "urls": [
+        "https://whalewise.org/iceland/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "SEA LIFE Trust Beluga Whale Sanctuary & Puffin Rescue Centre",
+      "country": "Iceland",
+      "place": "Vestmannaeyjar, Southern Region (Suðurland)",
+      "listingId": "338",
+      "urls": [
+        "https://belugasanctuary.sealifetrust.org/en/about-us/job-opportunities/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Stockholms Vildfågel Rehab (SVR)",
+      "country": "Sweden",
+      "place": "Stockholm, Stockholm County",
+      "listingId": "339",
+      "urls": [
+        "https://svr.nu/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Kadoorie Farm and Botanic Garden (KFBG) — Wild Animal Rescue Centre",
+      "country": "Hong Kong",
+      "place": "Tai Po, New Territories",
+      "listingId": "340",
+      "urls": [
+        "https://www.kfbg.org/en/volunteer/fauna-conservation-volunteer/wild-animal-rescue-team"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Ocean Park Conservation Foundation Hong Kong (OPCFHK)",
+      "country": "Hong Kong",
+      "place": "Aberdeen, Hong Kong Island",
+      "listingId": "341",
+      "urls": [
+        "https://www.opcf.org.hk/en/volunteering"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Taiwan Cetacean Society (中華鯨豚協會 TCS)",
+      "country": "Taiwan",
+      "place": "Keelung, Keelung City & New Taipei City",
+      "listingId": "342",
+      "urls": [
+        "https://www.whale.org.tw/portal_a1.php?owner_num=a1_604892&button_num=a1"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Picchio Wildlife Research Center (ピッキオ)",
+      "country": "Japan",
+      "place": "Karuizawa, Nagano Prefecture",
+      "listingId": "343",
+      "urls": [
+        "https://www.wildlife-picchio.com/conservation/bears/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Güirá Oga (Fundación de Historia Natural Félix de Azara)",
+      "country": "Argentina",
+      "place": "Puerto Iguazú, Misiones",
+      "listingId": "344",
+      "urls": [
+        "https://guiraoga.com.ar/language/es/voluntariado/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Proyecto Carayá (Centro Argentino de Rescate, Rehabilitación y Conservación de Primates)",
+      "country": "Argentina",
+      "place": "La Cumbre, Córdoba",
+      "listingId": "345",
+      "urls": [
+        "https://proyectocaraya.org/voluntario-con-proyecto-caraya/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Centro de Conservación de la Biodiversidad Chiloé Silvestre",
+      "country": "Chile",
+      "place": "Ancud (Chiloé Island), Los Lagos Region",
+      "listingId": "346",
+      "urls": [
+        "https://chiloesilvestre.cl/voluntariado/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Fundação Projeto TAMAR",
+      "country": "Brazil",
+      "place": "Praia do Forte (Mata de São João) & Multi-State Coastal Bases, Bahia, São Paulo, Espírito Santo, Pernambuco, Sergipe & Santa Catarina",
+      "listingId": "347",
+      "urls": [
+        "https://tamar.org.br/interna.php?cod=207"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "AIMM (Associação para a Investigação do Meio Marinho)",
+      "country": "Portugal",
+      "place": "Albufeira / Tunes, Faro District (Algarve)",
+      "listingId": "348",
+      "urls": [
+        "https://aimmportugal.org/opportunities/dolphin-research-internship/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Blue World Institute of Marine Research and Conservation (Plavi svijet)",
+      "country": "Croatia",
+      "place": "Veli Lošinj (Lošinj Island), Primorje-Gorski Kotar County",
+      "listingId": "349",
+      "urls": [
+        "https://www.blue-world.org/get-involved/internships/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Filicudi Wildlife Conservation",
+      "country": "Italy",
+      "place": "Filicudi & Lipari (Aeolian Islands), Messina (Sicily)",
+      "listingId": "350",
+      "urls": [
+        "https://www.filicudiconservation.com/unisciti-a-noi/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "South Essex Wildlife Hospital (SEWH)",
+      "country": "United Kingdom",
+      "place": "Orsett (Grays), Essex, England",
+      "listingId": "351",
+      "urls": [
+        "https://southessexwildlife.org/volunteer"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Ngamba Island Chimpanzee Sanctuary (Chimpanzee Sanctuary & Wildlife Conservation Trust — CSWCT)",
+      "country": "Uganda",
+      "place": "Ngamba Island / Entebbe, Wakiso / Mukono District (Lake Victoria)",
+      "listingId": "352",
+      "urls": [
+        "https://chimpanzeetrust.org/volunteering"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Chipangali Wildlife Orphanage",
+      "country": "Zimbabwe",
+      "place": "Bulawayo, Matabeleland North / Bulawayo",
+      "listingId": "353",
+      "urls": [
+        "https://www.chipangali.com/volunteer/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "FreeMe Wildlife Rehabilitation Centre",
+      "country": "South Africa",
+      "place": "Howick, KwaZulu-Natal",
+      "listingId": "354",
+      "urls": [
+        "https://freemewildlife.org/support-us/custodian/"
+      ],
+      "status": "imported"
+    },
+    {
+      "organization": "Local Ocean Conservation (LOC / Watamu Turtle Watch)",
+      "country": "Kenya",
+      "place": "Watamu & Diani, Kilifi & Kwale Counties",
+      "listingId": "355",
+      "urls": [
+        "https://localocean.co/internships/"
+      ],
+      "status": "imported"
     }
   ],
   "pendingSources": [
@@ -1018,6 +1228,22 @@
       "country": "Costa Rica",
       "url": "https://www.worldpackers.com/positions/114362/details",
       "decision": "needs_recheck",
+      "reason": "Decision reported in supplied research; this entry is outside the active map list."
+    },
+    {
+      "organization": "RIAS (Centro de Recuperação e Investigação de Animais Selvagens)",
+      "country": "Portugal",
+      "url": "https://www.rias.pt/o-rias/",
+      "decision": "needs_recheck",
+      "title": "Voluntariado e Estágios no Parque Natural da Ria Formosa",
+      "reason": "Decision reported in supplied research; this entry is outside the active map list."
+    },
+    {
+      "organization": "Everlasting Nature of Asia (ELNA) — Ogasawara Marine Center",
+      "country": "Japan",
+      "url": "https://bonin-ocean.net/en/",
+      "decision": "needs_recheck",
+      "title": "Green Sea Turtle Conservation Volunteering",
       "reason": "Decision reported in supplied research; this entry is outside the active map list."
     }
   ]
