@@ -1,6 +1,6 @@
 # FaunaLink
 
-An interactive map of 251 animal-care volunteer, work-exchange and related internship entries across six continents.
+An interactive map of 50 wildlife volunteer, work-exchange and related internship opportunities across 27 countries and six continents.
 
 ## Run locally
 
@@ -75,3 +75,27 @@ Keyword search includes organisation names; platform filtering also matches
 alternate booking channels. Cards show available stay, costs, lodging, eligibility
 and application deadlines. This remains a manual refresh, with no weekly workflow
 and no paid API dependency.
+
+## Current dataset — 14 October 2026
+
+The active map now contains only the 50 opportunities supplied in
+`wildlife-opportunities (1).json`, covering 27 countries and six continents.
+The historical refresh counts above describe earlier versions, not active map entries.
+
+This was a data import without fresh opportunity-page verification. All 50
+programme records are preserved, including two distinct CIWY locations sharing
+a primary URL. Coordinates were checked for valid numeric ranges, not geographic
+accuracy. Species and wildlife focus are searchable; platform filtering includes
+alternate application channels. Cards preserve alternate-channel terms.
+
+Posting-source descriptions containing a URL were converted to proper links.
+GFAS board dates are labelled separately; one source-relative posting estimate
+is marked as estimated. Unknown posting dates remain null.
+
+`listing-refresh.json`, `candidate-review.json`, `source-register.json` and
+`research-coverage.html` now describe the supplied dataset. The public review
+register records decisions without republishing unverified allegations. Original
+input files and the previous active dataset are backed up in the local workspace
+`work/import-2026-10-14`, outside this public checkout. Existing HKSAR guidance
+remains a dated snapshot; new countries without guidance use the explicit
+needs-confirmation fallback. No weekly automation or paid API was added.

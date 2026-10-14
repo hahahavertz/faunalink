@@ -6,7 +6,7 @@ for(const file of ['travel-rules-data.js','travel-rules.js'])vm.runInContext(fs.
 assert.equal(JSON.stringify(context.window.HK_TRAVEL_RULES),JSON.stringify(data));
 assert.equal(data.passport,'HKSAR');assert.equal(Object.keys(data.countries).length,56);
 for(const item of items){
- const rule=data.countries[item.country];assert.ok(rule,item.country);
+ const rule=context.window.hkTravelRule(item.country);assert.ok(rule,item.country);
  assert.ok(rule.stay&&rule.entry&&rule.placement.note);
  for(const source of [...rule.sources,...rule.placement.sources])assert.equal(new URL(source.url).protocol,'https:');
  const html=context.window.hkTravelCard(item.country);assert.ok(html.includes('HKSAR passport'));assert.ok(!html.includes('BN(O)'));
@@ -22,4 +22,4 @@ assert.ok(context.window.hkTravelRule('United States of America').entry.includes
 assert.ok(data.countries['New Zealand'].placement.note.includes('food or accommodation'));
 assert.ok(data.countries.Thailand.placement.label.includes('work permit'));
 assert.equal(context.window.hkTravelRule('Unknown').status,'unverified');
-console.log('PASS: 251 cards, 56 countries, passport scope, sources, Schengen separation, expiry and permission warnings.');
+console.log(`PASS: ${items.length} cards, HKSAR snapshot and unknown-country fallbacks, sources, Schengen separation, expiry and permission warnings.`);

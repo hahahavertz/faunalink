@@ -9,14 +9,14 @@ const locationLabel=item=>item.place===item.country?item.country:`${item.place},
 const detailRow=(label,value)=>`<div><dt>${escapeHTML(label)}</dt><dd>${escapeHTML(value)}</dd></div>`;
 const sourcePlatform=source=>source.platform||Object.entries({'workaway.info':'Workaway','worldpackers.com':'Worldpackers','helpstay.com':'HelpStay','helpx.net':'HelpX','volunteerworld.com':'Volunteer World','goeco.org':'GoEco','goabroad.com':'GoAbroad'}).find(([domain])=>new URL(source.url).hostname.endsWith(domain))?.[1]||'Host website';
 const platformsFor=item=>[item.platform,...(item.alternateSources||[]).map(sourcePlatform)];
-const postingLabel=item=>item.postedDateNote?'GFAS board':'Posted';
+const postingLabel=item=>item.postedDateSource?.includes('sanctuaryfederation.org/')?'GFAS board':item.postedDateNote?.includes('estimate')?'Estimated post':'Posted';
 let selected=null,selectedPlace=null,placeFilter=null,cardOpener=null,map=null,clusters=null;
 let visibleItems=items,refreshMapMarkers=()=>{};
 const markers=new Map();
 const continents=window.SEARCH_CONTINENTS;
 document.querySelector('#total').textContent=items.length;
 document.querySelector('#continent-count').textContent=new Set(items.map(window.continentFor)).size;
-for(const name of [...new Set(items.map(item=>item.platform))].sort()){
+for(const name of [...new Set(items.flatMap(platformsFor))].sort()){
   const option=document.createElement('option');option.value=name;option.textContent=name;platform.append(option);
 }
 for(const name of continents){
@@ -28,7 +28,7 @@ function matchesPlace(item,place){return !place||(place.kind==='continent'?windo
 function renderList(){
   const terms=normalize(keyword.value).trim().split(/\s+/).filter(Boolean);
   visibleItems=items.filter(item=>{
-    const text=normalize([item.title,item.country,item.place,window.continentFor(item),...platformsFor(item),item.organization||'',item.platformHost||'',item.summary||'',item.opportunityType||''].join(' ')).replace(/equine/g,'equine horse').replace(/canine/g,'canine dog').replace(/feline/g,'feline cat').replace(/united states/g,'united states usa');
+    const text=normalize([item.title,item.country,item.place,window.continentFor(item),...platformsFor(item),item.organization||'',item.platformHost||'',item.summary||'',item.opportunityType||'',item.wildlifeCategory||'',...(item.species||[])].join(' ')).replace(/equine/g,'equine horse').replace(/canine/g,'canine dog').replace(/feline/g,'feline cat').replace(/united states/g,'united states usa');
     return terms.every(term=>text.includes(term))&&(!platform.value||platformsFor(item).includes(platform.value))&&matchesPlace(item,placeFilter);
   });
   if(selected&&!visibleItems.includes(selected))closeCard(false);
@@ -63,8 +63,8 @@ function selectItem(item,navigate=false,opener=null){
   if(!visibleItems.includes(item)){keyword.value='';platform.value='';placeFilter=null;renderList();}
   clearSelection();selectedPlace=null;selected=item;
   const button=document.getElementById(`opportunity-${item.id}`);button.classList.add('active');button.setAttribute('aria-pressed','true');if(!navigate)button.scrollIntoView({block:'nearest'});
-  const rows=[detailRow('Location',locationLabel(item)),detailRow('Type',item.opportunityType||'Volunteering'),detailRow('Posted',item.postedDate?`${formatDate(item.postedDate)}${item.postedDateNote?' · '+item.postedDateNote:''}`:'Not provided'),...(item.minimumStay?[detailRow('Stay',item.minimumStay)]:[]),...(item.fees?[detailRow('Fees',item.fees)]:[]),...(item.accommodation?[detailRow('Includes',item.accommodation)]:[]),...(item.eligibility?[detailRow('Eligibility',item.eligibility)]:[]),...(item.applicationDeadline?[detailRow('Apply by',item.applicationDeadline)]:[]),...(item.availabilityNote?[detailRow('Availability',item.availabilityNote)]:[])].join('');
-  const alternatives=(item.alternateSources||[]).map(source=>`<a class="alternate-source" href="${escapeHTML(source.url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(source.label)}</a>`).join('');
+  const rows=[detailRow('Location',locationLabel(item)),detailRow('Type',item.opportunityType||'Volunteering'),...(item.wildlifeCategory?[detailRow('Focus',item.wildlifeCategory)]:[]),...(item.species?.length?[detailRow('Species',item.species.join(', '))]:[]),detailRow('Posted',item.postedDate?`${formatDate(item.postedDate)}${item.postedDateNote?' · '+item.postedDateNote:''}`:'Not provided'),...(item.minimumStay?[detailRow('Stay',item.minimumStay)]:[]),...(item.fees?[detailRow('Fees',item.fees)]:[]),...(item.compensation&&item.compensation!=='None'?[detailRow('Pay / perks',item.compensation)]:[]),...(item.accommodation?[detailRow('Includes',item.accommodation)]:[]),...(item.eligibility?[detailRow('Eligibility',item.eligibility)]:[]),...(item.applicationDeadline?[detailRow('Apply by',item.applicationDeadline)]:[]),...(item.availabilityNote?[detailRow('Availability',item.availabilityNote)]:[])].join('');
+  const alternatives=(item.alternateSources||[]).map(source=>`<a class="alternate-source" href="${escapeHTML(source.url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(source.label)}</a>${source.termsNote?`<p class="detail-note">${escapeHTML(source.termsNote)}</p>`:''}`).join('');
   openCard(`<div class="eyebrow">${escapeHTML(window.continentFor(item))} · ${escapeHTML(item.platform)}</div><h2 id="detail-title" tabindex="-1">${escapeHTML(item.title)}</h2>${item.summary?`<p class="listing-summary">${escapeHTML(item.summary)}</p>`:''}<dl>${rows}</dl><a class="source-link" href="${escapeHTML(item.url)}" target="_blank" rel="noopener noreferrer">View ${item.platform==='Host website'?'host website':escapeHTML(item.platform)+' listing'} ↗</a>${item.postedDateSource?`<a class="alternate-source" href="${escapeHTML(item.postedDateSource)}" target="_blank" rel="noopener noreferrer">Posting date source ↗</a>`:''}${alternatives}${item.alternateTermsNote?`<p class="detail-note">${escapeHTML(item.alternateTermsNote)}</p>`:''}${window.hkTravelCard(item.country)}`,opener||button);
   if(navigate&&map){const lng=item.lng+360*Math.round((map.getCenter().lng-item.lng)/360);map.setView([item.lat,lng],7,{animate:false});const copies=markers.get(item.id)||[];const marker=copies.length?copies.reduce((best,m)=>Math.abs(m.getLatLng().lng-lng)<Math.abs(best.getLatLng().lng-lng)?m:best):null;if(marker)clusters.zoomToShowLayer(marker,()=>marker.getElement()?.classList.add('selected'));if(matchMedia('(max-width:700px)').matches)document.querySelector('.map-area').scrollIntoView({block:'start'});}
   for(const marker of markers.get(item.id)||[])marker.getElement()?.classList.add('selected');
