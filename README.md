@@ -1,6 +1,6 @@
 # FaunaLink
 
-An interactive map of 110 wildlife volunteer, work-exchange and related internship opportunities across 49 countries/territories and six continents.
+An interactive map of 118 wildlife programme entries across 49 countries/territories and six continents: 110 regular listings and eight closed/paused programmes to revisit.
 
 ## Run locally
 
@@ -124,3 +124,17 @@ as `importedId`. Unknown programme posting dates remain null. No opportunity
 pages were independently reopened. All three coverage batches and 41 candidate
 decisions are retained. Original third-batch inputs and the previous active
 dataset are backed up in `work/import-2026-10-14-pass3` outside the public checkout.
+
+## Closed / seasonal programme import — 14 October 2026
+
+Added the eight supplied `closed_for_season` records, preserving the previous 110
+entries and IDs. The map now contains 118 programme records, including eight
+clearly labelled closed/paused programmes. The SEA LIFE Trust diving job and
+puffling volunteer programme, and ARCAS general volunteering and paused biology
+internship, remain separate roles. Previous deadlines and closed status remain
+visible. The coverage report identifies which former closed candidates are now
+included for future reference. No automatic reopening check is configured.
+
+Original input and pre-import data are backed up in
+`work/import-2026-10-14-watchlist` outside the public checkout. Source descriptions
+and future-intake dates are supplied research and were not independently checked.

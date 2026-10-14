@@ -1,11 +1,11 @@
 {
   "updatedAt": "2026-10-14",
   "mode": "Supplied research import; listing content not independently revalidated during import.",
-  "previousCount": 89,
-  "currentCount": 110,
+  "previousCount": 110,
+  "currentCount": 118,
   "countryCount": 49,
   "continentCount": 6,
-  "directHostCount": 101,
+  "directHostCount": 109,
   "coverage": [
     {
       "source": "Workaway (https://www.workaway.info/)",
@@ -402,9 +402,10 @@
     "pending-and-excluded (1).csv",
     "wildlife-opportunities (3).json",
     "research-coverage (3).csv",
-    "pending-and-excluded (2).csv"
+    "pending-and-excluded (2).csv",
+    "seasonal-and-waitlist-opportunities.json"
   ],
-  "addedCount": 21,
+  "addedCount": 8,
   "batches": [
     {
       "label": "First supplied batch",
@@ -420,6 +421,14 @@
       "label": "Third supplied batch",
       "count": 21,
       "folder": "research-imports/2026-10-14-pass3"
+    },
+    {
+      "label": "Closed / seasonal programme batch",
+      "count": 8,
+      "folder": "research-imports/2026-10-14-watchlist"
     }
-  ]
+  ],
+  "watchlistCount": 8,
+  "regularProgrammeCount": 110,
+  "watchlistMeaning": "All eight added records are supplied as closed_for_season. They are retained for future-intake reference, not presented as currently accepting applications."
 }

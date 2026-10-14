@@ -7414,5 +7414,438 @@
     "postedDateSource": null,
     "sourceStatus": "supplied_research",
     "welfareAssessment": "Not independently assessed"
+  },
+  {
+    "title": "Summer Wildlife Rehabilitation Internship (Stipend + Free On-Site Housing)",
+    "organization": "Wolf Hollow Wildlife Rehabilitation Center",
+    "country": "United States",
+    "place": "Friday Harbor, San Juan Island, Washington",
+    "region": "North America",
+    "lat": 48.5343,
+    "lng": -123.0814,
+    "locationPrecision": "exact",
+    "locationSource": "Published address: 2845 West Valley Road, Friday Harbor, San Juan Island, WA 98250, USA",
+    "url": "https://wolfhollowwildlife.org/about-wolf-hollow/careers/about-our-program/",
+    "platform": "Host website",
+    "alternateSources": [],
+    "wildlifeCategory": "Wildlife rescue / rehabilitation",
+    "species": [
+      "Harbor seal (Phoca vitulina)",
+      "Bald eagle (Haliaeetus leucocephalus)",
+      "Columbian black-tailed deer fawns",
+      "North American river otter",
+      "Owls and raptors",
+      "Seabirds and native songbirds"
+    ],
+    "summary": "Full-time 3- to 5-month summer rehabilitation internship (May–September 'Baby Season', 5 days/week, 08:00–16:00/19:00 shifts): preparing specialized diets, hand-feeding orphaned birds and mammals, cleaning hospital wards and eagle flight/fawn enclosures, assisting staff with medical treatments, and collecting wildlife patients from the ferry or airport.",
+    "opportunityType": "Internship",
+    "minimumStay": "12 to 20 weeks (3–5 months, May–September)",
+    "fees": "None",
+    "compensation": "Paid monthly stipend of USD 500/month plus free on-site housing and Washington State Labor & Industries workplace coverage",
+    "accommodation": "Free on-site co-ed 4-bedroom, 2-bathroom manufactured home (sleeps up to 5 interns; includes kitchen, laundry, bicycles, and access to a Wolf Hollow vehicle for errands)",
+    "eligibility": "Valid driver's license mandatory; up-to-date tetanus vaccination and health screening required; college/university course credit supported",
+    "internationalApplicants": "unclear",
+    "postedDate": null,
+    "postedDateSource": null,
+    "applicationDeadline": null,
+    "availabilityStatus": "closed_for_season",
+    "availabilityNote": "Official page states: 'Applications are now closed for the 2026 season! Summer 2027 applications will be posted in winter of 2026, stay tuned!'",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-14",
+    "welfareAssessment": "Licensed Washington State non-profit wildlife rehabilitation hospital focusing strictly on rehabilitation, release, and non-invasive seal tracking.",
+    "evidence": [
+      {
+        "url": "https://wolfhollowwildlife.org/about-wolf-hollow/careers/about-our-program/",
+        "supports": [
+          "wildlife duties",
+          "minimumStay",
+          "compensation",
+          "accommodation",
+          "availabilityStatus"
+        ],
+        "note": "Verified directly from Wolf Hollow's intern page: confirms USD 500/month stipend, 4-bedroom intern house, 3-5 month May-Sep duration, and Winter 2026 reopening for Summer 2027."
+      }
+    ],
+    "id": "356"
+  },
+  {
+    "title": "Wildlife Hospital Seasonal Student Work Experience & Placement",
+    "organization": "Tiggywinkles, The Wildlife Hospital Trust",
+    "country": "United Kingdom",
+    "place": "Haddenham, Aylesbury, Buckinghamshire",
+    "region": "Europe",
+    "lat": 51.7719,
+    "lng": -0.9317,
+    "locationPrecision": "exact",
+    "locationSource": "Published hospital address: Aston Road, Haddenham, Buckinghamshire, HP17 8AF, United Kingdom",
+    "url": "https://www.sttiggywinkles.org.uk/work-experience/",
+    "platform": "Host website",
+    "alternateSources": [
+      {
+        "label": "Tiggywinkles Volunteering Page",
+        "platform": "Host website",
+        "url": "https://www.sttiggywinkles.org.uk/volunteering/",
+        "termsNote": "Details local shift volunteering alongside seasonal student placements."
+      }
+    ],
+    "wildlifeCategory": "Wildlife rescue / rehabilitation",
+    "species": [
+      "European hedgehog (Erinaceus europaeus)",
+      "European badger (Meles meles)",
+      "Red fox (Vulpes vulpes)",
+      "Roe and muntjac deer",
+      "Red kite, barn owl, and tawny owl",
+      "Waterfowl and garden birds"
+    ],
+    "summary": "Practical wildlife hospital husbandry and nursing placement at one of the world's busiest wildlife teaching hospitals (>10,000 British wildlife casualties treated annually): cleaning intensive-care wards and outdoor rehabilitation pens, preparing diets, feeding orphaned hedgehogs, birds, and mammals, and supporting release preparation.",
+    "opportunityType": "Internship",
+    "minimumStay": "1 to 4 weeks (varies by college/university placement track)",
+    "fees": "None",
+    "compensation": "Unpaid",
+    "accommodation": "Not provided (students arrange own local lodging and transport to Haddenham)",
+    "eligibility": "16+ / 18+ enrolled in an Animal Care, Veterinary Nursing, Zoology, or Veterinary Medicine course; up-to-date tetanus vaccination required",
+    "internationalApplicants": "yes",
+    "postedDate": null,
+    "postedDateSource": null,
+    "applicationDeadline": null,
+    "availabilityStatus": "closed_for_season",
+    "availabilityNote": "Current summer student placement intake is full/closed; reopens for 2027 seasonal student cohorts.",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-14",
+    "welfareAssessment": "World-renowned RCVS-registered veterinary wildlife hospital and teaching facility.",
+    "evidence": [
+      {
+        "url": "https://www.sttiggywinkles.org.uk/work-experience/",
+        "supports": [
+          "wildlife duties",
+          "eligibility",
+          "availabilityStatus"
+        ],
+        "note": "Official Tiggywinkles work experience page confirming seasonal student placement structure and current intake closure."
+      }
+    ],
+    "id": "357"
+  },
+  {
+    "title": "Puffling Season Rescue & Rehabilitation Volunteer Programme",
+    "organization": "SEA LIFE Trust Beluga Whale Sanctuary & Puffin Rescue Centre",
+    "country": "Iceland",
+    "place": "Vestmannaeyjar (Heimaey, Westman Islands), Suðurland",
+    "region": "Europe",
+    "lat": 63.4422,
+    "lng": -20.2731,
+    "locationPrecision": "exact",
+    "locationSource": "Published sanctuary address: Ægisgata 2, 900 Vestmannaeyjar, Iceland",
+    "url": "https://belugasanctuary.sealifetrust.org/en/about-us/job-opportunities/",
+    "platform": "Host website",
+    "alternateSources": [
+      {
+        "label": "SEA LIFE Trust Puffin Rescue Centre Overview",
+        "platform": "Host website",
+        "url": "https://belugasanctuary.sealifetrust.org/en/puffin-rescue/",
+        "termsNote": "Details puffling season rescue, weighing, tagging, waterproofing care, and cliff release protocols."
+      }
+    ],
+    "wildlifeCategory": "Bird / raptor / seabird",
+    "species": [
+      "Atlantic puffin (Fratercula arctica)",
+      "Beluga whale (Delphinapterus leucas)"
+    ],
+    "summary": "Seasonal late-summer volunteering (August–September puffling fledging season) at Iceland's only official Puffin Rescue Centre on Heimaey in the Westman Islands: receiving, weighing, measuring, health-checking, and tagging hundreds of disoriented fledgling Atlantic puffins (pysjur) rescued by local townspeople, rehabilitating oiled or underweight pufflings until waterproof, releasing healthy birds back to the North Atlantic, and assisting with sanctuary education.",
+    "opportunityType": "Volunteer",
+    "minimumStay": "2 to 6 weeks (August–September puffling season)",
+    "fees": "None (unpaid charity volunteer placement; volunteers cover travel/living costs on Heimaey)",
+    "compensation": "Unpaid",
+    "accommodation": "Self-arranged on Heimaey (guidance provided by sanctuary team upon selection)",
+    "eligibility": "18+ years old; fluent English; enthusiasm for seabird welfare and public engagement",
+    "internationalApplicants": "yes",
+    "postedDate": null,
+    "postedDateSource": null,
+    "applicationDeadline": null,
+    "availabilityStatus": "closed_for_season",
+    "availabilityNote": "Official page states: 'Applications are currently closed for the 2026 season, but please check back next year to join us in Summer of 2027!' (Full-time Diving Supervisor role is currently open in Pass 3 main JSON).",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-14",
+    "welfareAssessment": "Operated by SEA LIFE Trust in partnership with local Westman Islands conservation authorities under strict seabird welfare protocols.",
+    "evidence": [
+      {
+        "url": "https://belugasanctuary.sealifetrust.org/en/about-us/job-opportunities/",
+        "supports": [
+          "wildlife duties",
+          "internationalApplicants",
+          "availabilityStatus"
+        ],
+        "note": "Official Job & Volunteer Opportunities page explicitly inviting applicants to check back for the Summer 2027 Puffling Season Volunteer intake."
+      }
+    ],
+    "id": "358"
+  },
+  {
+    "title": "Hornstrandir & Súðavík Arctic Fox Research and Conservation Centre Volunteering",
+    "organization": "Melrakkasetur Íslands (The Arctic Fox Centre)",
+    "country": "Iceland",
+    "place": "Súðavík & Hornstrandir Nature Reserve, Westfjords",
+    "region": "Europe",
+    "lat": 66.0317,
+    "lng": -22.9908,
+    "locationPrecision": "exact",
+    "locationSource": "Published address: Eyrardalsbær, 420 Súðavík, Westfjords, Iceland",
+    "url": "https://www.melrakki.is/generated-homepage/home/about-us/",
+    "platform": "Host website",
+    "alternateSources": [],
+    "wildlifeCategory": "Conservation fieldwork / research",
+    "species": [
+      "Arctic fox (Vulpes lagopus)",
+      "Common eider (Somateria mollissima)",
+      "Arctic seabirds"
+    ],
+    "summary": "Seasonal volunteering and field research assistance at Iceland's dedicated Arctic Fox research centre in Súðavík (Westfjords): assisting with wild Arctic fox population monitoring and den surveys in Hornstrandir Nature Reserve, caring for resident non-releasable orphaned foxes at the Súðavík centre, and educating international visitors on Iceland's only native terrestrial mammal.",
+    "opportunityType": "Volunteer / internship",
+    "minimumStay": "2 to 8 weeks (Summer season)",
+    "fees": "None",
+    "compensation": "Unpaid",
+    "accommodation": "Shared volunteer accommodation in Súðavík or field camping in Hornstrandir during summer surveys",
+    "eligibility": "18+ years old; fluent English; strong outdoor hiking fitness for remote Westfjords terrain",
+    "internationalApplicants": "yes",
+    "postedDate": null,
+    "postedDateSource": null,
+    "applicationDeadline": null,
+    "availabilityStatus": "closed_for_season",
+    "availabilityNote": "Official website banner states: 'We don't need volunteers for this summer' (2026 summer roster full; check back in early 2027 for Summer 2027 placements).",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-14",
+    "welfareAssessment": "Non-profit scientific research centre founded in 2007 in collaboration with the Icelandic Institute of Natural History.",
+    "evidence": [
+      {
+        "url": "https://www.melrakki.is/generated-homepage/home/about-us/",
+        "supports": [
+          "wildlife duties",
+          "species",
+          "availabilityStatus"
+        ],
+        "note": "Official Melrakkasetur page confirming Arctic fox research and conservation mission and current summer volunteer status banner."
+      }
+    ],
+    "id": "359"
+  },
+  {
+    "title": "College Summer Wildlife Care, Veterinary Clinical & Conservation Outreach Internship (暑期實習)",
+    "organization": "Pingtung Rescue Center for Endangered Wild Animals (國立屏東科技大學保育類野生動物收容中心 PTRC)",
+    "country": "Taiwan",
+    "place": "Neipu Township, Pingtung County",
+    "region": "Asia",
+    "lat": 22.6419,
+    "lng": 120.6053,
+    "locationPrecision": "exact",
+    "locationSource": "Published address: No. 1, Shuefu Road, Neipu, Pingtung 91201, Taiwan (National Pingtung University of Science and Technology)",
+    "url": "https://ptrc.npust.edu.tw/2026/01/%F0%9F%90%BE%E3%80%90%E5%B0%8B%E6%89%BE%E9%87%8E%E6%80%A7%E6%88%B0%E5%8F%8B%EF%BC%812026-%E5%B9%B4%E6%9A%91%E6%9C%9F%E5%AF%A6%E7%BF%92%E7%94%9F%E7%86%B1%E8%A1%80%E6%8B%9B%E5%8B%9F%E4%B8%AD%EF%BC%81/",
+    "platform": "Host website",
+    "alternateSources": [
+      {
+        "label": "PTRC Official Homepage",
+        "platform": "Host website",
+        "url": "https://ptrc.npust.edu.tw/",
+        "termsNote": "Publishes annual January–March recruitment calls for the July–August summer college internship."
+      }
+    ],
+    "wildlifeCategory": "Wildlife rescue / rehabilitation",
+    "species": [
+      "Formosan black bear (Ursus thibetanus formosanus)",
+      "Leopard cat (Prionailurus bengalensis)",
+      "Bornean orangutan and gibbons",
+      "Formosan rock macaque",
+      "Chinese pangolin",
+      "Yellow-margined box turtle and radiated tortoise",
+      "Crested serpent eagle and native raptors"
+    ],
+    "summary": "Full-time 8-week (320-hour, July 1 – August 31) college summer internship at Taiwan's flagship endangered wildlife sanctuary (housing >1,000 rescued animals across 100+ species) across three divisions: (1) Animal Care Division (Primate, Carnivore, or Reptile/Bird sections: diet prep, enclosure cleaning, behavioral enrichment, observation logs); (2) Veterinary Medicine Division (restricted to 3rd-year+ Vet Med majors: clinical care, anesthesia, lab diagnostics, necropsy/pathology); and (3) Conservation Education Division.",
+    "opportunityType": "Internship",
+    "minimumStay": "8 weeks (July 1 – August 31, 320 hours full-time Monday–Friday 08:00–17:30)",
+    "fees": "None (free internship; free on-site intern dormitory provided)",
+    "compensation": "Unpaid (academic internship credit certificate issued upon completing 320 hours)",
+    "accommodation": "Free on-site intern dormitory provided ('本中心備有免費實習生宿舍'); meals and local scooter transport self-funded",
+    "eligibility": "Enrolled domestic or international college/university students (Veterinary Medicine track requires 3rd-year+ DVM/BVM enrollment); working Mandarin Chinese required",
+    "internationalApplicants": "unclear",
+    "postedDate": "2026-01-15",
+    "postedDateSource": "https://ptrc.npust.edu.tw/2026/01/%F0%9F%90%BE%E3%80%90%E5%B0%8B%E6%89%BE%E9%87%8E%E6%80%A7%E6%88%B0%E5%8F%8B%EF%BC%812026-%E5%B9%B4%E6%9A%91%E6%9C%9F%E5%AF%A6%E7%BF%92%E7%94%9F%E7%86%B1%E8%A1%80%E6%8B%9B%E5%8B%9F%E4%B8%AD%EF%BC%81/",
+    "applicationDeadline": "2026-03-19",
+    "availabilityStatus": "closed_for_season",
+    "availabilityNote": "The 2026 Summer Internship application deadline closed on 2026-03-19 (interviews April 6, 2026; cohort ran July 1 – August 31, 2026). Next annual application window opens in January/February 2027.",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-14",
+    "welfareAssessment": "Government-mandated CITES and Taiwanese endangered wildlife rescue and rehabilitation sanctuary operated by NPUST.",
+    "evidence": [
+      {
+        "url": "https://ptrc.npust.edu.tw/2026/01/%F0%9F%90%BE%E3%80%90%E5%B0%8B%E6%89%BE%E9%87%8E%E6%80%A7%E6%88%B0%E5%8F%8B%EF%BC%812026-%E5%B9%B4%E6%9A%91%E6%9C%9F%E5%AF%A6%E7%BF%92%E7%94%9F%E7%86%B1%E8%A1%80%E6%8B%9B%E5%8B%9F%E4%B8%AD%EF%BC%81/",
+        "supports": [
+          "wildlife duties",
+          "minimumStay",
+          "accommodation",
+          "applicationDeadline",
+          "availabilityStatus"
+        ],
+        "note": "Official 2026 recruitment notice verifying 3 divisions (12 slots total), 320-hour July-August schedule, free on-site dorm, and March 19 deadline."
+      }
+    ],
+    "postedDateSourceLabel": "Official PTRC 2026 Summer Internship Recruitment announcement",
+    "id": "360"
+  },
+  {
+    "title": "BRIDGE Paid Conservation Internships",
+    "organization": "World Wildlife Fund (WWF-US)",
+    "country": "United States",
+    "place": "Washington, D.C. (and hybrid/field conservation placements)",
+    "region": "North America",
+    "lat": 38.9056,
+    "lng": -77.0492,
+    "locationPrecision": "exact",
+    "locationSource": "WWF-US Headquarters: 1250 24th Street, N.W., Washington, DC 20037, USA",
+    "url": "https://www.worldwildlife.org/about/careers",
+    "platform": "Host website",
+    "alternateSources": [],
+    "wildlifeCategory": "Conservation fieldwork / research",
+    "species": [
+      "Global threatened mammals and carnivores",
+      "Marine megafauna and coral reef ecosystems",
+      "Freshwater and forest biodiversity"
+    ],
+    "summary": "Paid 10- to 12-week summer conservation internships through WWF-US's Building Recruiting And Inclusion for Diversity (BRIDGE) program, embedding undergraduate and graduate students inside WWF's Wildlife Conservation, Oceans, Forests, Freshwater, and Conservation Science teams.",
+    "opportunityType": "Internship",
+    "minimumStay": "10 to 12 weeks",
+    "fees": "None",
+    "compensation": "Paid hourly/salaried internship stipend",
+    "accommodation": "Not provided (paid salary supports living expenses)",
+    "eligibility": "Enrolled undergraduate or graduate students authorized to work in the United States",
+    "internationalApplicants": "unclear",
+    "postedDate": null,
+    "postedDateSource": null,
+    "applicationDeadline": null,
+    "availabilityStatus": "closed_for_season",
+    "availabilityNote": "Current BRIDGE internship cohort is closed; next annual application cycle opens in March 2027.",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-14",
+    "welfareAssessment": "Policy, science, and field conservation NGO (non-captive).",
+    "evidence": [
+      {
+        "url": "https://www.worldwildlife.org/about/careers",
+        "supports": [
+          "opportunityType",
+          "compensation",
+          "availabilityStatus"
+        ],
+        "note": "Official WWF-US Careers portal confirming BRIDGE internship program structure and March 2027 next application cycle."
+      }
+    ],
+    "id": "361"
+  },
+  {
+    "title": "Wildlife Rehabilitation & Neotropical Feline Conservation Internship (Programa de Estágio CRAS)",
+    "organization": "Associação Mata Ciliar — Centro de Reabilitação de Animais Silvestres (CRAS)",
+    "country": "Brazil",
+    "place": "Jundiaí, São Paulo",
+    "region": "South America",
+    "lat": -23.1858,
+    "lng": -46.8978,
+    "locationPrecision": "exact",
+    "locationSource": "Published address: Av. Emílio Antonon, 1000, Chácara Aeroporto, Jundiaí - SP, 13212-010, Brazil",
+    "url": "https://mataciliar.org.br/site/programa-de-estagio/",
+    "platform": "Host website",
+    "alternateSources": [],
+    "wildlifeCategory": "Wildlife rescue / rehabilitation",
+    "species": [
+      "Jaguar (Panthera onca)",
+      "Puma (Puma concolor)",
+      "Ocelot (Leopardus pardalis) and margay",
+      "Maned wolf (Chrysocyon brachyurus)",
+      "Brown howler monkey and marmosets",
+      "Toucans, parrots, and Atlantic Forest fauna"
+    ],
+    "summary": "University veterinary, biology, and animal husbandry internship at Associação Mata Ciliar's Wildlife Rehabilitation Center (CRAS) and the Brazilian Center for Neotropical Feline Conservation in Jundiaí (which has treated >30,000 wild animals since 1997): assisting with clinical wildlife medicine, surgical triage, neonatal hand-rearing, enclosure enrichment, and conservation breeding of threatened Brazilian wild cats.",
+    "opportunityType": "Internship",
+    "minimumStay": "4 weeks (varies by university agreement)",
+    "fees": "None",
+    "compensation": "Unpaid",
+    "accommodation": "Inquire upon reopening (historically offers basic student alojamento options in Jundiaí)",
+    "eligibility": "Undergraduate students in Veterinary Medicine, Biology, Zootechnics, or related fields; working Portuguese/Spanish required",
+    "internationalApplicants": "unclear",
+    "postedDate": null,
+    "postedDateSource": null,
+    "applicationDeadline": null,
+    "availabilityStatus": "closed_for_season",
+    "availabilityNote": "Official internship page currently displays: 'Programa de Estágio: Programa fechado temporariamente' (Temporarily closed; monitor page for next semester reopening).",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-14",
+    "welfareAssessment": "Official IBAMA/State-partnered Brazilian wildlife rehabilitation hospital and conservation breeding center.",
+    "evidence": [
+      {
+        "url": "https://mataciliar.org.br/site/programa-de-estagio/",
+        "supports": [
+          "organization",
+          "opportunityType",
+          "availabilityStatus"
+        ],
+        "note": "Verified directly on Associação Mata Ciliar's official Programa de Estágio page."
+      }
+    ],
+    "id": "362"
+  },
+  {
+    "title": "6-Month Petén Wildlife Biology & Release Monitoring Internship",
+    "organization": "ARCAS (Asociación de Rescate y Conservación de Vida Silvestre)",
+    "country": "Guatemala",
+    "place": "Flores / Petén Rescue Center, Petén Department",
+    "region": "North America",
+    "lat": 16.9428,
+    "lng": -89.8736,
+    "locationPrecision": "approximate",
+    "locationSource": "Petén Rescue Center on Lake Petén Itzá, 10 minutes from Flores, Guatemala",
+    "url": "https://arcasguatemala.org/volunteering/volunteering-in-peten/internship/",
+    "platform": "Host website",
+    "alternateSources": [
+      {
+        "label": "ARCAS Main Volunteering Page (Currently Open)",
+        "platform": "Host website",
+        "url": "https://arcasguatemala.org/volunteering/",
+        "termsNote": "General Petén wildlife rescue volunteering and Hawaii sea turtle volunteering remain open year-round."
+      }
+    ],
+    "wildlifeCategory": "Wildlife rescue / rehabilitation",
+    "species": [
+      "Scarlet macaw (Ara macao)",
+      "Red-fronted and yellow-headed parrots",
+      "Geoffroy's spider monkey",
+      "Guatemalan black howler monkey",
+      "Jaguar and margay",
+      "Kinkajou and coatimundi",
+      "Morelet's crocodile"
+    ],
+    "summary": "Long-term 6-month Wildlife Biology Internship at ARCAS's Petén Wildlife Rescue Center: managing pre-release flight and foraging enclosures, conducting behavioural observations and ethograms on rehabilitating primates and psittacines, assisting with post-release radio/satellite tracking in the Maya Biosphere Reserve, and helping coordinate short-term international volunteers.",
+    "opportunityType": "Internship",
+    "minimumStay": "24 weeks (6 months)",
+    "fees": "Reduced long-term intern board rate (inquire via volunteers@arcasguatemala.org when track reopens)",
+    "compensation": "Unpaid",
+    "accommodation": "On-site volunteer/intern accommodation at the Petén Rescue Center",
+    "eligibility": "Undergraduate or graduate background in biology, zoology, wildlife management, or ecology; conversational Spanish and English",
+    "internationalApplicants": "yes",
+    "postedDate": null,
+    "postedDateSource": null,
+    "applicationDeadline": null,
+    "availabilityStatus": "closed_for_season",
+    "availabilityNote": "The dedicated 6-month Wildlife Biology Internship subpage is currently paused/closed (while ARCAS's general Petén Rescue Volunteering and Veterinary Internships are open in Pass 1 main JSON).",
+    "sourceStatus": "page_checked",
+    "lastChecked": "2026-10-14",
+    "welfareAssessment": "GFAS-verified Guatemalan nonprofit wildlife rescue center operating since 1989.",
+    "evidence": [
+      {
+        "url": "https://arcasguatemala.org/volunteering/volunteering-in-peten/internship/",
+        "supports": [
+          "wildlife duties",
+          "minimumStay",
+          "availabilityStatus"
+        ],
+        "note": "Verified directly via ARCAS's dedicated Petén Biology Internship page."
+      }
+    ],
+    "id": "363"
   }
 ]

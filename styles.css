@@ -70,3 +70,5 @@ main{height:calc(100dvh - 64px)}
 .travel-info p{margin:7px 0 0;color:#61735e}.travel-info .travel-route{font-weight:600;color:#365640}
 .placement-info{padding:12px 0}.placement-info h4{font-size:12px;line-height:1.5;margin:0;color:#765c2e}
 .travel-sources{border-top:1px solid #e4eae1;padding-top:10px;font-size:11px}.travel-sources summary{cursor:pointer;color:#456442}.travel-sources a{display:block;color:#365c47;margin-top:9px;overflow-wrap:anywhere}.travel-sources p{font-size:11px}
+
+.availability-banner{font-size:12px;line-height:1.5;background:#fff3df;border:1px solid #ead1a6;border-radius:7px;padding:11px 12px;color:#7c591f;margin:0 0 16px}.availability-banner strong{font-size:13px}

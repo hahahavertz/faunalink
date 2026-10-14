@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-10-14",
-  "origin": "Current imported list (three batches)",
+  "origin": "Current imported list (three research batches plus closed/seasonal programmes)",
   "permanentSources": [
     {
       "organization": "Chimfunshi Wildlife Orphanage Trust (CWOT)",
@@ -1150,6 +1150,90 @@
         "https://localocean.co/internships/"
       ],
       "status": "imported"
+    },
+    {
+      "organization": "Wolf Hollow Wildlife Rehabilitation Center",
+      "country": "United States",
+      "place": "Friday Harbor, San Juan Island, Washington",
+      "listingId": "356",
+      "urls": [
+        "https://wolfhollowwildlife.org/about-wolf-hollow/careers/about-our-program/"
+      ],
+      "status": "closed_for_season"
+    },
+    {
+      "organization": "Tiggywinkles, The Wildlife Hospital Trust",
+      "country": "United Kingdom",
+      "place": "Haddenham, Aylesbury, Buckinghamshire",
+      "listingId": "357",
+      "urls": [
+        "https://www.sttiggywinkles.org.uk/work-experience/",
+        "https://www.sttiggywinkles.org.uk/volunteering/"
+      ],
+      "status": "closed_for_season"
+    },
+    {
+      "organization": "SEA LIFE Trust Beluga Whale Sanctuary & Puffin Rescue Centre",
+      "country": "Iceland",
+      "place": "Vestmannaeyjar (Heimaey, Westman Islands), Suðurland",
+      "listingId": "358",
+      "urls": [
+        "https://belugasanctuary.sealifetrust.org/en/about-us/job-opportunities/",
+        "https://belugasanctuary.sealifetrust.org/en/puffin-rescue/"
+      ],
+      "status": "closed_for_season"
+    },
+    {
+      "organization": "Melrakkasetur Íslands (The Arctic Fox Centre)",
+      "country": "Iceland",
+      "place": "Súðavík & Hornstrandir Nature Reserve, Westfjords",
+      "listingId": "359",
+      "urls": [
+        "https://www.melrakki.is/generated-homepage/home/about-us/"
+      ],
+      "status": "closed_for_season"
+    },
+    {
+      "organization": "Pingtung Rescue Center for Endangered Wild Animals (國立屏東科技大學保育類野生動物收容中心 PTRC)",
+      "country": "Taiwan",
+      "place": "Neipu Township, Pingtung County",
+      "listingId": "360",
+      "urls": [
+        "https://ptrc.npust.edu.tw/2026/01/%F0%9F%90%BE%E3%80%90%E5%B0%8B%E6%89%BE%E9%87%8E%E6%80%A7%E6%88%B0%E5%8F%8B%EF%BC%812026-%E5%B9%B4%E6%9A%91%E6%9C%9F%E5%AF%A6%E7%BF%92%E7%94%9F%E7%86%B1%E8%A1%80%E6%8B%9B%E5%8B%9F%E4%B8%AD%EF%BC%81/",
+        "https://ptrc.npust.edu.tw/"
+      ],
+      "status": "closed_for_season"
+    },
+    {
+      "organization": "World Wildlife Fund (WWF-US)",
+      "country": "United States",
+      "place": "Washington, D.C. (and hybrid/field conservation placements)",
+      "listingId": "361",
+      "urls": [
+        "https://www.worldwildlife.org/about/careers"
+      ],
+      "status": "closed_for_season"
+    },
+    {
+      "organization": "Associação Mata Ciliar — Centro de Reabilitação de Animais Silvestres (CRAS)",
+      "country": "Brazil",
+      "place": "Jundiaí, São Paulo",
+      "listingId": "362",
+      "urls": [
+        "https://mataciliar.org.br/site/programa-de-estagio/"
+      ],
+      "status": "closed_for_season"
+    },
+    {
+      "organization": "ARCAS (Asociación de Rescate y Conservación de Vida Silvestre)",
+      "country": "Guatemala",
+      "place": "Flores / Petén Rescue Center, Petén Department",
+      "listingId": "363",
+      "urls": [
+        "https://arcasguatemala.org/volunteering/volunteering-in-peten/internship/",
+        "https://arcasguatemala.org/volunteering/"
+      ],
+      "status": "closed_for_season"
     }
   ],
   "pendingSources": [
